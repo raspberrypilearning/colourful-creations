@@ -1,0 +1,20 @@
+hero_image: images/colourful-creations.png
+theme: yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: रंगीन रचनाएँ
+description: अपनी पसंद के रंग बनाएँ, और उनका रंगीन पोस्टर बनाने के लिए उपयोग करें।
+original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
+interests: 'art and design'
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: भूमिका
+- title: हेक्स कलर कोड्स का उपयोग करना
+- title: कलर डिक्शनरी
+- title: 'चुनौती: और रंग!'
+- title: 'चुनौती: पोस्टर बनाएँ'
+
