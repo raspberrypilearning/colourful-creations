@@ -29,7 +29,7 @@ Dit project introduceert woordenboeken door er een te maken die mensvriendelijke
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Kleurrijke creaties' gereed - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Kleurrijke creaties' gereed - trinket.io/python/41a99e668b](https://trinket.io/python/53f5abf236)
 
 ## Offline bronnen
 
@@ -79,7 +79,7 @@ title: Projectmaterialen
 ## Bronnen voor de Clubleider
 
 * [.zip-bestand met alle voltooide projectbronnen](resources/colourful-creations-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/41a99e668b)
+* [Online voltooid Trinket-project](https://trinket.io/python/53f5abf236)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 --- /collapse ---
