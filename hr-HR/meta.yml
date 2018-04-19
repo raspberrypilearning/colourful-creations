@@ -1,0 +1,29 @@
+---
+hero_image: images/colourful-creations.png
+theme: yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Šarene kreacije
+description: Napravi svoje vlastite boje, a zatim pomoću njih kreiraj raznobojni poster.
+original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
+interests: art
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Korištenje hex kôdova boja
+  - 
+    title: Rječnik boja
+  - 
+    title: 'Izazov: Još boja!'
+  - 
+    title: 'Izazov: Izradi poster'
