@@ -3,14 +3,14 @@
 In dit project maak je een kleurenwoordenboek waarin moeilijk te onthouden kleurcodes toegankelijkere namen krijgen.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/53f5abf236?outputOnly=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/53f5abf236?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/colourful-creations/print).
 
 --- collapse ---
 ---
