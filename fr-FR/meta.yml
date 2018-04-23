@@ -1,6 +1,6 @@
 ---
 hero_image: images/colourful-creations.png
-theme: yellow
+theme: jaune
 duration: 2
 listed: true
 ingredient: false
@@ -11,11 +11,11 @@ description: Crée tes propres couleurs personalisées, et utilise les pour cré
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
-site_areas: projects
+site_areas: projets
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 01-01-2017
 steps:
   - 
     title: Introduction
