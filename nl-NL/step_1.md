@@ -3,7 +3,7 @@
 In dit project maak je een kleurenwoordenboek waarin moeilijk te onthouden kleurcodes toegankelijkere namen krijgen.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/53f5abf236?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/cd7e39115b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -29,7 +29,7 @@ Dit project introduceert woordenboeken door er een te maken die mensvriendelijke
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Kleurrijke creaties' gereed - trinket.io/python/41a99e668b](https://trinket.io/python/53f5abf236)
+* ['Kleurrijke creaties' gereed - trinket.io/python/cd7e39115b](https://trinket.io/python/cd7e39115b)
 
 ## Offline bronnen
 
@@ -79,7 +79,7 @@ title: Projectmaterialen
 ## Bronnen voor de Clubleider
 
 * [.zip-bestand met alle voltooide projectbronnen](resources/colourful-creations-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/53f5abf236)
+* [Online voltooid Trinket-project](https://trinket.io/python/cd7e39115b)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 --- /collapse ---
