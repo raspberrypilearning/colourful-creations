@@ -1,6 +1,6 @@
-## Introduction
+## 简介
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+在这个项目中，你将创建一个颜色字典，将难以记忆的颜色代码映射到易于理解的颜色名。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### 导师附加信息
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/colourful-creations/print)。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 导师笔记
 
-## Introduction:
+## 简介
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+该项目通过创建一个将人性化颜色名映射到十六进制颜色代码的字典来介绍字典。 然后从字典中找到颜色代码并用其创建一张色彩斑斓的海报。
 
-## Online Resources
+## 在线资源
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**本项目使用Python 3。**我们建议使用[ trinket](https://trinket.io/)在线编写Python代码。 这个项目包含如下Trinket代码:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [“多彩创作”初始工程 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+下面的trinket代码包含挑战的示范解决方案：
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [“多彩创作”完整版 -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Offline Resources
+## 离线资源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的'项目资料'链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都能获取了这些资源。 这部分包含如下文件：
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+你也可以在 “志愿者资源'”部分找到该项目挑战的完整版本，里面包含：
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(上述所有资源都可以以`.zip`压缩包的形式下载。)
 
-## Learning Objectives
+## 学习目标
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* 字典 - 创建并查找值;
+* 乌龟图形 - 文本，字体和颜色;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [设计基本的2D和3D素材。](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## 挑战
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* 更多颜色! - 使用取色网站找到更多颜色的十六进制颜色代码并将他们加入字典。 
+* 创建海报 - 自定义一个颜色板字典并用它来创建一张海报。 
 
-## Frequently Asked Questions
+## 常见问题
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* 可能需要时常提醒孩子们每一个字典元素后要加上逗号 ','。 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 项目资源
 
-## Project resources
+## 项目资源
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [包含所有项目资源的.zip压缩包](resources/colourful-creations-project-resources.zip)
+* [在线空白Python Trinket项目](http://jumpto.cc/python-new)
+* [离线空白Python文件](resources/new-new.py)
 
-## Club leader resources
+## 导师资源
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [包含所有完整版项目资源的.zip压缩包](resources/colourful-creations-volunteer-resources.zip)
+* [在线完整版Trinket项目](https://trinket.io/python/41a99e668b)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
