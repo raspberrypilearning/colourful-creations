@@ -1,16 +1,16 @@
 ---
-hero_image: images / colorful-creations.png
-theme: żółty
+hero_image: images/colourful-creations.png
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Kolorowe kreacje
-description: Twórz własne niestandardowe kolory i używaj ich do tworzenia kolorowego plakatu.
+description: Stwórz własne kolory i użyj ich do tworzenia kolorowego plakatu.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
-technologies: pyton
+technologies: python
 site_areas: projects
 hardware: ''
 software: python
@@ -20,10 +20,10 @@ steps:
   - 
     title: Wprowadzenie
   - 
-    title: Używanie kodów kolorów hex
+    title: Kodowanie Kolorów
   - 
-    title: Słownik kolorów
+    title: Słownik Kolorów
   - 
-    title: 'Wyzwanie: więcej kolorów!'
+    title: 'Wyzwanie: Więcej kolorów!'
   - 
     title: 'Wyzwanie: Stwórz plakat'
