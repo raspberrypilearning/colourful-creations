@@ -1,4 +1,4 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: więcej kolorów!
 
@@ -8,6 +8,6 @@ Nie zapomnij nadać swoim kolorom niesamowitych nazw.
 
 Oto przykład kodu, który przypomni Ci, jak używać żółwia:
 
-![zrzut ekranu](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
-\--- / wyzwanie \---
+\--- /challenge \---
