@@ -3,15 +3,15 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
-colours = { 
-  'space': '#060608', 
-  'moongrey': '#BCBDEF', 
-  'verylime': '#A7E30E', 
-  'deepsea': '#226363', 
-  'reallyraspberry': '#FA057F', 
-  'gloomygrey': '#363332', 
+# apre i dizionari
+# usa lo strumento di selezione per trovare nuovi colori
+colori = { 
+  'spazio': '#060608', 
+  'grigioluna': '#BCBDEF', 
+  'superlime': '#A7E30E', 
+  'mareblu': '#226363', 
+  'moltolampone': '#FA057F', 
+  'grigiocupo': '#363332', 
   'awesomeorange':  '#F37C06', 
   'coolcyan': '#4FEEF6',
   'perfectpurple': '#6820B0',
