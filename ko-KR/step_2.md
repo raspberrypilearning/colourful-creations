@@ -1,33 +1,33 @@
-## Using hex colour codes
+## 헥스 색상 코드 사용하기
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+파이썬 Turtle은 '빨간색', '흰색' 과 같이 미리 정의 된 색상을 가지고 있기도 하지만, 헥스 색상 코드를 사용할 수도 있습니다 (아마도 HTML & CSS 코스에서 이러한 헥스 색상 코드를 보셨을 겁니다.)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 공백의 파이썬 Trinket 템플릿을 엽니다. <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>
 
-+ Add the following set up code for using the turtle:
++ Turtle을 사용하기 위한 다음 설정 코드를 추가하십시오:
     
-    ![screenshot](images/colourful-setup.png)
+    ![스크린샷](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    위의 이미지에서 'white' 라고 이름이 지정된 색상이 사용된 점을 참고하시기 바랍니다.
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Turtle에는 사용할 수 있는 색상 이름 목록이 있지만, 때로는 자신 만의 색상을 선택할 수 있습니다. 또한, Turtle에서 헥스 색상코드를 사용할 수도 있습니다.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    <a href="http://jumpto.cc/colour-picker" target="_blank"> jumpto.cc/colour-picker </a>를 열어 원하는 색상을 선택하십시오. '# A7E30E'와 같이 '#'으로 시작하는 16 진수의 헥스 코드를 찾습니다.
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ 해시기호(#) 를 포함한 헥스 코드를 드래그하여 선택한 다음 마우스 오른쪽 단추로 클릭하여 복사를 클릭하거나, Ctrl-C를 입력하여 복사하십시오.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ 이제 여러분이 선택한 색상으로 화면 색상을 설정하기 위해 코드를 변경하십시오. 예를 들면:
     
-    ![screenshot](images/colourful-background.png)
+    ![스크린샷](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    마우스 오른쪽 버튼을 클릭 후 붙여 넣기 또는 Ctrl-V를 입력하여 헥스 코드를 Trinket 안에 붙여 넣을 수 있습니다.
 
-+ Choose another hex colour code and use it to create coloured text:
++ 또 다른 헥스 코드를 선택하고, 이를 사용하여 색상이 지정된 텍스트를 만듭니다:
     
-    ![screenshot](images/colourful-write.png)
+    ![스크린샷](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    반드시 'Arial' 글꼴만 사용할 필요는 없습니다. 'Verdana', 'Times' 또는 'Courier'와 같은 글꼴을 적용해 볼 수 있습니다.
     
-    '40' is the font size, you can try changing that too.
+    '40'은 글꼴 크기입니다. 이 글꼴도 변경해보십시오.
 
-+ Try different colours until you get two that you really like that look good together.
++ 여러분이 보기에 정말 좋은 두 가지의 색상이 나올 때까지 다른 색깔 넣어 시도해보십시오.
