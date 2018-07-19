@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## 색상 사전
 
-Using hex colour codes is really flexible but they are hard to remember.
+헥스 색상 코드를 사용하면 매우 유연하지만, 코드를 기억하기란 어려운 일입니다.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+이미 알고 있듯이 사전을 사용하면 단어를 찾아보고, 그것의 의미를 확인할 수 있습니다. 파이썬에서 사전(이하 딕셔너리)은 앞서 이야기한 헥스 색상 코드보다 더욱 유연해서 딕셔너리 안의 어떤 '단어' 라도 그에 대한 의미를 찾아 볼 수 있습니다.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+우리에게 친숙한 색상 이름(키)에서 컴퓨터에게 친숙한 색상이름인 헥스 코드(값)로 연결짓는 사전을 만들어 보겠습니다.
 
-+ A dictionary is contained in curly brackets.
++ 딕셔너리는 중괄호 안에 들어 있습니다.
     
-    Create an empty dictionary called `colours`:
+    `colours` 라고 불리는 빈 사전 만들기:
     
-    ![screenshot](images/colourful-dict.png)
+    ![스크린샷](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ 색상에 걸맞는 멋진 이름을 짓고, 그 이름이 딕셔너리의 항목에 추가되기 위해 `clolurs =` 가 적혀진 줄을 편집하십시오.
     
-    Here's an example colour dictionary:
+    다음은 색상 딕셔너리 예제입니다.
     
-    ![screenshot](images/colourful-colours.png)
+    ![스크린샷](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    콜론 `: `은 값(헥스 코드)에서 키(색상 이름)를 분리합니다. 각각의 키:값으로 이루어진 짝들 사이에는 쉼표 `,`가 필요합니다.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ 이제 헥스 코드를 기억할 필요가 없습니다. 딕셔너리에서 간단히 찾을 수 있습니다.
     
-    Adapt the following code to use your colour names:
+    색상 이름을 사용하여 다음 코드를 수정하십시오:
     
-    ![screenshot](images/colourful-entries.png)
+    ![스크린샷](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    키는 딕셔너리의 이름 뒤에 있는 대괄호 '[]' 안에 있습니다.
 
-+ Now you can update your code to look up colours in the dictionary:
++ 이제 딕셔너리에서 색상을 찾기 위해 코드를 업데이트 할 수 있습니다:
     
-    ![screenshot](images/colourful-use.png)
+    ![스크린샷](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ 텍스트가 올바르게 표시되도록 코드를 테스트하십시오.
