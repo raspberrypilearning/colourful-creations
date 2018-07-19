@@ -28,7 +28,7 @@ U ovom projektu djeca se upoznaju sa rječnicima tako što kreiraju rječnik koj
 
 Također je uključen i trinket koji sadrži prijedlog rješenja challenges:
 
-* [‘Šarene kreacije’ dovršeni projekt -- trinket.io/python/41a99e668b](https://trinket.io/python/5a1b099cca)
+* [‘Šarene kreacije’ dovršeni projekt -- trinket.io/python/5a1b099cca](https://trinket.io/python/5a1b099cca)
 
 ## Offline izvori
 
