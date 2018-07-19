@@ -1,0 +1,29 @@
+---
+hero_image: εικόνες / colorful-creations.png
+theme: κίτρινος
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, σχεδιασμός-0, προγραμματισμός-1, phys-comp-0, κατασκευή-0, κοινότητα-0
+title: Πολύχρωμες Δημιουργίες
+description: Δημιουργήστε τα δικά σας προσαρμοσμένα χρώματα και χρησιμοποιήστε τα για να δημιουργήσετε μια πολύχρωμη αφίσα.
+original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
+interests: τέχνη
+technologies: Πύθων
+site_areas: έργα
+hardware: ''
+software: Πύθων
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Εισαγωγή
+  - 
+    title: Χρησιμοποιώντας κωδικούς χρωμάτων hex
+  - 
+    title: Ένα λεξικό χρώματος
+  - 
+    title: 'Πρόκληση: Περισσότερα χρώματα!'
+  - 
+    title: 'Πρόκληση: Δημιουργήστε μια αφίσα'
