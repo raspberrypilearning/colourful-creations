@@ -9,21 +9,21 @@ curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, commun
 title: 多彩创作
 description: 创建你的自定义色彩，并使用它们来创建一张彩色海报。
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
-interests: 艺术和设计
+interests: art
 technologies: python
-site_areas: codeclub, python
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 介绍
+    title: 简介
   - 
     title: 使用十六进制颜色代码
   - 
     title: 颜色字典
   - 
-    title: 挑战：更多颜色！
+    title: '挑战：更多颜色！'
   - 
-    title: 挑战：创建一张海报
+    title: '挑战：创建一张海报'
