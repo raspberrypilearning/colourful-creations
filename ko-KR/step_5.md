@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## 도전 과제: 포스터 만들기
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+디자이너는 사막이나 우주와 같이 특정 테마에 유용한 색상 '팔레트'를 만들곤 합니다.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+테마별 색상 팔레트를 위한 딕셔너리를 사용하는 새 파이썬 프로젝트를 만들 수 있습니까? 가을, 숲, 바다, 크리스마스, 아이스크림, 좋아하는 스포츠 팀의 색상 또는 나만의 아이디어를 선택할 수 있습니다.
 
-Create a poster using your colour palette dictionary.
+색상 팔레트 딕셔너리를 사용하여 포스터를 만들어 봅시다.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+`앞으로`, `오른쪽`, `왼쪽`, `penup` 및 `pendown`과 같이 다른 Turtle 명령을 사용할 수도 있습니다.
 
-Maybe you could add a border to your poster?
+여러분의 포스터에 경계선을 추가 할 수 있습니까?
 
-Other useful turtle commands:
+다른 유용한 Turtle 명령들:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)`은 반경 50의 원을 그립니다.
++ `dot(100)`은 지름이 100인 원으로 채워줍니다. 
 
-Here's an example:
+다음은 그 예입니다.
 
-![screenshot](images/colourful-finished.png)
+![스크린샷](images/colourful-finished.png)
 
 \--- /challenge \---
