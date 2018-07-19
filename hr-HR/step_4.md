@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Još boja!
+## Izazov: Još boja!
 
 Možeš li dodati još boja u svoj rječnik i isprobati ih? Koristi <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> za pronalaženje još boja.
 
