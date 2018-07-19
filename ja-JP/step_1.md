@@ -1,6 +1,6 @@
-## Introduction
+## はじめに
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+このプロジェクトでは覚えるのが難しい色のコードを親しみやすい名称にマッピングするディクショナリを作成します。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### クラブリーダーへの追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/colourful-creations/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブリーダー・ノート
 
-## Introduction:
+## はじめに
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+このプロジェクトは人にやさしい色の名称をヘックスコード(hex code)に結びつけるディクショナリの作成を通じてディクショナリを紹介する。 色のコードはディクショナリで参照され、色とりどりのポスターの作成に使われます。
 
-## Online Resources
+## オンライン・リソース
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**本プロジェクトでは、Python 3**を使います。オンラインでPythonのコードを記述するには、[trinket](https://trinket.io/)の使用をお勧めします。 本プロジェクトには、以下のtrinketが用意されています：
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['カラフルな物の作成'　 出発点 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['カラフルな物の作成'　完成版プログラム-- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Offline Resources
+## オフライン・リソース
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)で完成することが可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこのリソースのコピーを持っていることを確認してください。 このセクションは下記ファイルを含む：
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+また、すべての上記のリソースはプロジェクトとボランティア`.zip` ファイルとしてダウンロードすることも可能。
 
-## Learning Objectives
+## 学習目標
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* ディクショナリ：値の作成と検索
+* タートルグラフィックス：文書、フォント、と色
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [基本的なプログラミングで簡単なプログラムを作成する。](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [2次元と3次元のアセットをデザインする。](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## チャレンジ
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* もっと色！ 色の選択ウェブサイトを使用し、より多くの色のヘックスコードを探し、ディクショナリに追加しましょう。 
+* ポスターを作ろう　ー　カスタムの色パレットディクショナリを作ってタートルグラフィックスを使ってポスターを作成しよう。 
 
-## Frequently Asked Questions
+## よくある質問
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* 子供はディクショナリエントリーの終わりに必要なコンマ”,”を忘れる可能性があるため、確認しましょう。 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title：プロジェクト資料
 
-## Project resources
+## プロジェクト資料
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [全プロジェクト・リソースの入った.zipファイル](resources/colourful-creations-project-resources.zip)
+* [オンライン上の空白パイソンTrinket](http://jumpto.cc/python-new)
+* [オフライン空白パイソンファイル](resources/new-new.py)
 
-## Club leader resources
+## クラブ・リーダー向けリソース
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [全プロジェクトの完成版リソースの入った.zipファイル](resources/colourful-creations-volunteer-resources.zip)
+* [完成版プロジェクトのオンラインtrinket](https://trinket.io/python/41a99e668b)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
