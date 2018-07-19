@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-W tym projekcie utworzysz słownik kolorów, który mapuje trudne do zapamiętania kody kolorów na przyjazne nazwy.
+W tym projekcie utworzysz słownik kolorów, który tłumaczy trudne do zapamiętania kody kolorów na przyjazne nazwy.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ W tym projekcie utworzysz słownik kolorów, który mapuje trudne do zapamiętan
   <img src="images/colourful-finished.png">
 </div>
 
-### Dodatkowe informacje dla liderów klubu
+### Dodatkowe informacje dla liderów klubów
 
-Jeśli chcesz wydrukować ten projekt, skorzystaj z [Wersja przyjazna dla drukarki](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: notatki lidera klubu
+## title: Dla lidera klubu
 
 ## Wprowadzenie:
 
-Ten projekt wprowadza słowniki, tworząc słownik, który odwzorowuje od przyjaznych dla człowieka nazw kolorów do kodów szesnastkowych. Kody kolorów są następnie wyszukiwane w słowniku i wykorzystywane do tworzenia kolorowych plakatów.
+Ten projekt wprowadza słowniki, poprzez stworzenie słownika, który tłumaczy przyjazne dla człowieka nazwy kolorów na kody szesnastkowe. Kody kolorów są następnie wyszukiwane w słowniku i wykorzystywane do tworzenia kolorowych plakatów.
 
-## Zasoby online
+## Zasoby Online
 
-**Ten projekt używa Python 3.** Zalecamy użycie [bibeloty](https://trinket.io/) do pisania Python online. Ten projekt zawiera następujące bibeloty:
+**Ten projekt używa języka Python 3.** Do pisania kodu w Pythonie zalecamy użycie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
-* [Punkt początkowy "kolorowych kreacji" - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [Punkt startowy "Kolorowe Kreacje" - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Istnieje również bibelot zawierający przykładowe rozwiązanie dla wyzwań:
+Dostępny jest również szablon zawierający przykładowe rozwiązanie dla wyzwań:
 
-* [Zakończono "Kolorowe kreacje" - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ["Kolorowe kreacje" - skończony projekt - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Zasoby offline
+## Zasoby Offline
 
-Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , jeśli jest preferowany. Możesz uzyskać dostęp do zasobów projektu, klikając link "Materiały projektu" dla tego projektu. Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, które dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawiera zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * colorful-creations / colourful-creations.py
 
-Możesz również znaleźć ukończoną wersję wyzwań tego projektu w sekcji "Zasoby dla wolontariuszy", która zawiera:
+Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
 * colorful-creations-finished / colourful-creations.py
 
-(Wszystkie powyższe zasoby można również pobrać jako pliki projektu i wolontariusza `.zip`).
+(Wszystkie powyższe zasoby można również pobrać jako pliki `.zip`.)
 
-## Cele kształcenia
+## Cele dydaktyczne
 
 * Słowniki - tworzenie i wyszukiwanie wartości;
-* Grafika żółwia - tekst, czcionki i kolory;
+* Rysowanie za pomocą żółwia - tekst, czcionki i kolory;
 
-Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Making Raspberry Pi](http://rpf.io/curriculum):
+Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Użyj prostych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Projektuj podstawowe zasoby 2D i 3D.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Projektowanie podstawowych zasobów 2D i 3D.](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## Wyzwania
 
-* Więcej kolorów! - Użyj strony internetowej selektora kolorów, aby znaleźć kody szesnastkowe dla większej liczby kolorów i dodać je do słownika. 
-* Utwórz plakat - Utwórz niestandardowy słownik palety kolorów i użyj go do utworzenia plakatu za pomocą grafik Turtle. 
+* Więcej kolorów! - użycie strony internetowej z listą kolorów w celu poznania kodów szesnastkowych dla większej liczby kolorów i dodania ich do słownika. 
+* Utwórz plakat - tworzenie własnego słownika z paletą kolorów i użycie go do wykonania plakatu za pomocą żółwia. 
 
-## Często Zadawane Pytania
+## Najczęściej Zadawane Pytania
 
-* Dzieci mogą potrzebować przypomnienia o przecinku "," na końcu każdego wpisu słownikowego. 
+* Dzieci mogą potrzebować przypomnienia o przecinku "," na końcu każdego wpisu w słowniku. 
 
-\--- /zawalić się \---
+\--- /collapse \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: Materiały projektowe
+## title: Materiały do projektu
 
-## Zasoby projektu
+## Zasoby
 
-* [Plik .zip zawierający wszystkie zasoby projektu](resources/colourful-creations-project-resources.zip)
-* [Online pusty Python Trinket](http://jumpto.cc/python-new)
-* [Offline pusty plik Pythona](resources/new-new.py)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/colourful-creations-project-resources.zip)
+* [Pusty szablon Trinket do języka Python](http://jumpto.cc/python-new)
+* [Plik z pustym szablonem do języka Python](resources/new-new.py)
 
-## Zasoby lidera klubu
+## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający wszystkie ukończone zasoby projektu](resources/colourful-creations-volunteer-resources.zip)
-* [Zakończony online projekt Trinket](https://trinket.io/python/41a99e668b)
+* [Plik .zip zawierający zasoby z ukończonym projektem](resources/colourful-creations-volunteer-resources.zip)
+* [Ukończony projekt "Kolorowe Kreacje"](https://trinket.io/python/41a99e668b)
 * [colorful-creations-finished / colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- /zawalić się \---
+\--- /collapse \---
