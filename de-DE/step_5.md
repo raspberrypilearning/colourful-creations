@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Herausforderung: Entwerfe ein Poster
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Designer stellen häufig eine "Palette" von Farben zusammen, die für ein bestimmtes Thema - wie etwa Wüste oder Weltraum - gut zusammenpassen.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Kannst du ein neues Python-Projekt anlegen, das ein Dictionary für eine themenbezogene Farbpalette verwendet? Du könntest ein Thema wie z. B. Herbst, Wald, Meer, Weihnachten, Eiscreme oder die Farben deiner Lieblingssportmannschaft wählen, oder dir selbt etwas ausdenken.
 
-Create a poster using your colour palette dictionary.
+Entwerfe mit deinem Farbpaletten-Dictionary ein Poster.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Du kannst auch andere Turtle-Anweisungen verwenden wie z. B. `forward` (vorwärts), `right` (rechts), `left` (links), `penup` (Stift hoch) und `pendown` (Stift runter).
 
-Maybe you could add a border to your poster?
+Vielleicht kannst du deinem Poster auch noch einen Rahmen anpassen?
 
-Other useful turtle commands:
+Weitere nützliche Turtle-Befehle:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` zeichnet einen Kreis mit dem Radius 50.
++ `dot(100)` (dot: engl. f. Punkt) zeichnet einen ausgefüllten Kreis mit dem Durchmesser 100. 
 
-Here's an example:
+Hier ist ein Beispiel:
 
 ![screenshot](images/colourful-finished.png)
 
