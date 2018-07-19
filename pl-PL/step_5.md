@@ -1,8 +1,8 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: Stwórz plakat
 
-Projektanci często tworzą "paletę" kolorów, które dobrze współgrają ze sobą dla określonego tematu, takiego jak pustynia lub przestrzeń.
+Projektanci często tworzą "paletę" kolorów, które dobrze współgrają ze sobą w danej tematyce, takiej jak pustynia czy kosmos.
 
 Czy możesz utworzyć nowy projekt Pythona, który używa słownika do tematycznej palety kolorów. Możesz wybrać jesień, las, morze, Boże Narodzenie, lody, kolory ulubionej drużyny sportowej lub własny pomysł.
 
