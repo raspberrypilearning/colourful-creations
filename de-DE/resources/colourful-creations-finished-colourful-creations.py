@@ -4,15 +4,15 @@ from turtle import *
 from time import *
 
 # Einführung Dictionaries
-# Verwenden Sie einen Farbwähler, um neue Farben zu finden und auszuwählen
+# Suche mit Hife eines Farbwahl-Werkzeugs neue Farben aus
 farben = { 
-  'Weltraum': '#060608', 
-  'Mondgrau': '#BCBDEF', 
-  'Giftgrün': '#A7E30E', 
-  'Beilfischblau': '#226363', 
-  'Himmlischhimbeer': '#FA057F', 
-  'Garstiggrau': '#363332', 
-  'Oohrange':  '#F37C06', 
+  'weltraum': '#060608', 
+  'mondgrau': '#BCBDEF', 
+  'giftgrün': '#A7E30E', 
+  'tiefseeblau': '#226363', 
+  'hyperhimbeer': '#FA057F', 
+  'garstiggrau': '#363332', 
+  'oohrange':  '#F37C06', 
   'Blaugrün': '#4FEEF6',
   'Dunkelviolett': '#6820B0',
   'Zitronengelb': '#FBF312'
