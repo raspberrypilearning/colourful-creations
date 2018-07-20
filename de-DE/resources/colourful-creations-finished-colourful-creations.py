@@ -3,7 +3,7 @@
 from turtle import *
 from time import *
 
-# Einführung in die Thematik 'dictionaries'
+# Einführungung Dictionaries
 # Verwenden Sie einen Farbwähler, um neue Farben zu finden und auszuwählen
 farben = { 
   'Weltraum': '#060608', 
@@ -15,8 +15,7 @@ farben = {
   'Oohrange':  '#F37C06', 
   'Blaugrün': '#4FEEF6',
   'Dunkelviolett': '#6820B0',
-  'Zitronengelb': '#FBF312',
-'Weiß':'#FFFFFF'
+  'Zitronengelb': '#FBF312'
 }
 
 screen = Screen()
