@@ -11,10 +11,10 @@ farben = {
   'giftgruen': '#A7E30E', 
   'tiefseeblau': '#226363', 
   'hyperhimbeer': '#FA057F', 
-  'garstiggrau': '#363332', 
+  'gruselgrau': '#363332', 
   'oohrange':  '#F37C06', 
   'totaltuerkis': '#4FEEF6',
-  'luxuxslila': '#6820B0',
+  'luxuslila': '#6820B0',
   'sauergelb': '#FBF312'
 }
 
@@ -59,14 +59,14 @@ forward(40)
 color(farben['luxuslila'])
 write('als', font=style, align='center')
 forward(40)
-color(farben['Blaugrün'])
+color(farben['totaltuerkis'])
 write('Apollo 11', font=('Verdana', 25, 'bold'), align='center')
-color(farben['Zitronengelb'])
+color(farben['sauergelb'])
 forward(40)
 write('bei der Landung', font=style, align='center')
-color(farben['Dunkelgrau'])
+color(farben['gruselgrau'])
 forward(40)
 write('auf dem Mond', font=('Verdana', 25, 'bold'), align='center')
-color(farben['Weiß'])
+color('white')
 forward(65)
 write('- Nancy Gibbs, 2012', font=('Arial', 14, 'normal'))
