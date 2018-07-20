@@ -8,47 +8,47 @@ from time import *
 farben = { 
   'weltraum': '#060608', 
   'mondgrau': '#BCBDEF', 
-  'giftgrün': '#A7E30E', 
+  'giftgruen': '#A7E30E', 
   'tiefseeblau': '#226363', 
   'hyperhimbeer': '#FA057F', 
   'garstiggrau': '#363332', 
   'oohrange':  '#F37C06', 
-  'Blaugrün': '#4FEEF6',
-  'Dunkelviolett': '#6820B0',
-  'Zitronengelb': '#FBF312'
+  'totaltuerkis': '#4FEEF6',
+  'luxuxslila': '#6820B0',
+  'sauergelb': '#FBF312'
 }
 
-screen = Screen()
-screen.setup(450, 450)
-screen.bgcolor(farben['Weltraum'])
+flaeche = Screen()
+flaeche.setup(400, 400)
+flaeche.bgcolor(farben['weltraum'])
 
 penup()
 goto(0, 100)
-color(farben['Himbeerrot'])
-style = ('Arial', 40, 'bold')
-write('HALLO', font=style, align='center')
+color(farben['hyperhimbeer'])
+stil = ('Arial', 40, 'bold')
+write('HALLO', font=stil, align='center')
 right(90)
 forward(60)
-color(farben['Orange'])
-write('WELT', font=style, align='center')
+color(farben['oohrange'])
+write('WELT', font=stil, align='center')
 hideturtle()
 
 sleep(3)
 
 goto(0,0)
-color(farben['Grau'])
-dot(380)
+color(farben['mondgrau'])
+dot(350)
 
 setheading(-90)
 penup()
 hideturtle()
 goto(0, 135)
-color(farben['Hellgrün'])
-style=('Verdana', 20, 'bold')
-write('Ein heutiges', font=style, align='center')
+color(farben['giftgruen'])
+stil=('Verdana', 20, 'bold')
+write('Ein heutiges', font=stil, align='center')
 forward(40)
-color(farben['Himbeerrot'])
-write('Smart Phone', font=('Verdana', 25, 'bold'), align='center')
+color(farben['hyperhimbeer'])
+write('Smartphone', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
 color(farben['Tiefseeblaugrün'])
 write('hat mehr', font=('Verdana', 18, 'bold'), align='center')
