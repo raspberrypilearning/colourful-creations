@@ -3,7 +3,7 @@
 from turtle import *
 from time import *
 
-# Einführungung Dictionaries
+# Einführung Dictionaries
 # Verwenden Sie einen Farbwähler, um neue Farben zu finden und auszuwählen
 farben = { 
   'Weltraum': '#060608', 
