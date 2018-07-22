@@ -26,7 +26,7 @@ U ovom projektu djeca se upoznaju sa rječnicima tako što kreiraju rječnik koj
 
 * ['Colourful Creations' početni materijal -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Također je uključen i trinket koji sadrži prijedlog rješenja challenges:
+Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 * [‘Colourful Creations’ dovršeni projekt -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
