@@ -44,34 +44,34 @@ Una versione completa delle sfide di questo progetto è presente anche nella sez
 
 ## Obiettivi di apprendimento
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Dizionari - creazione e ricerca dei valori;
+* Grafiche tartaruga - testo, caratteri e colori.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utilizzo di costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Progettazione di elementi 2D e 3D semplici.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Sfide
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Altri colori! Utilizza un sito web di selezione dei colori per scoprire nuovi codici esadecimali e aggiungerli al dizionario. 
+* Crea un poster. Crea un dizionario e una tavolozza di colori personalizzata da usare per creare un poster con le grafiche Tartaruga. 
 
-## Frequently Asked Questions
+## Domande frequenti
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Potrebbe essere necessario ricordare ai bambini di inserire una ","(virgola) alla fine di ciascuna voce del dizionario. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Project resources
+## Risorse del progetto
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [File .zip con tutte le risorse del progetto](resources/colourful-creations-project-resources.zip)
+* [Trinket online vuoto per Python](http://jumpto.cc/python-new)
 * [Offline blank Python file](resources/new-new.py)
 
 ## Club leader resources
