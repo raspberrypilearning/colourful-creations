@@ -14,17 +14,17 @@ colori = {
   'grigiocupo': '#363332', 
   'moltoarancio':  '#F37C06', 
   'azzurroghiaccio': '#4FEEF6',
-  'perfectpurple': '#6820B0',
-  'lovelylemon': '#FBF312',
+  'violaveleno': '#6820B0',
+  'giallolimone': '#FBF312',
 }
 
 screen = Screen()
 screen.setup(400, 400)
-screen.bgcolor(colours['space'])
+screen.bgcolor(colours['spazio'])
 
 penup()
 goto(0, 100)
-color(colours['reallyraspberry'])
+color(colours['moltolampone'])
 style = ('Arial', 40, 'bold')
 write('HELLO', font=style, align='center')
 right(90)
