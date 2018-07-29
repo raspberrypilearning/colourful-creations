@@ -12,8 +12,8 @@ colori = {
   'mareblu': '#226363', 
   'moltolampone': '#FA057F', 
   'grigiocupo': '#363332', 
-  'awesomeorange':  '#F37C06', 
-  'coolcyan': '#4FEEF6',
+  'moltoarancio':  '#F37C06', 
+  'azzurroghiaccio': '#4FEEF6',
   'perfectpurple': '#6820B0',
   'lovelylemon': '#FBF312',
 }
