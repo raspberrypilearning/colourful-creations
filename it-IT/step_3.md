@@ -1,35 +1,35 @@
 ## Un dizionario di colori
 
-Using hex colour codes is really flexible but they are hard to remember.
+I codici esadecimali dei colori sono molto utili, ma sono difficili da ricordare.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Come già sai, un dizionario ti consente di cercare una parola e vedere cosa vuol dire. In Python, un dizionario è persino più potente. Ti permette di cercare un valore per ogni “chiave” contenuta nel dizionario.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Ora creeremo un dizionario per mappare la corrispondenza fra i nomi dei colori che capiscono le persone (chiavi) e i codici esadecimali (valori) che capiscono i computer.
 
-+ A dictionary is contained in curly brackets.
++ I dizionari sono contenuti fra parentesi graffe.
     
-    Create an empty dictionary called `colours`:
+    Crea un dizionario vuoto, che chiameremo `colori`:
     
     ![screenshot](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Scegli dei nomi fantastici e modifica la riga `colours =` per aggiungere nuovi elementi al tuo dizionario.
     
-    Here's an example colour dictionary:
+    Ecco un esempio di dizionario di colori:
     
     ![screenshot](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    I due punti `:` separano la chiave (il nome del colore) dal valore (il codice esadecimale). Ricorda di aggiungere una virgola `,` tra ogni coppia chiave:valore nel dizionario.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Ora non devi più ricordare i codici esadecimali, puoi semplicemente cercarli nel dizionario.
     
-    Adapt the following code to use your colour names:
+    Adatta il seguente codice per usare i nomi che hai scelto per i tuoi colori:
     
     ![screenshot](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    La chiave va inserita fra le parentesi quadre “[]” dopo il nome del dizionario.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Adesso puoi aggiornare il codice per cercare i colori nel dizionario:
     
     ![screenshot](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Prova il codice per controllare che il testo venga visualizzato correttamente.
