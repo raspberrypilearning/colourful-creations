@@ -1,6 +1,6 @@
 ## Introduzione
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+In questo progetto creerai un dizionario di colori che mappa i codici dei colori (difficilissimi da ricordare) con dei nomi più descrittivi.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,19 +8,19 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note per i volontari
 
-## Introduction:
+## Introduzione:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Questo progetto introduce i dizionari creandone uno che mappa i nomi dei colori, più facili da ricordare, ai corrispondenti codici esadecimali. I codici dei colori sono quindi cercati nel dizionario e utilizzati per creare un poster coloratissimo.
 
-## Online Resources
+## Risorse online
 
 **This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
