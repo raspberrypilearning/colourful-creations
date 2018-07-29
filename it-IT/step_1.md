@@ -8,7 +8,7 @@ In questo progetto creerai un dizionario di colori che mappa i codici dei colori
   <img src="images/colourful-finished.png">
 </div>
 
-### Ulteriori informazioni per gli organizzatori dei club
+### Ulteriori informazioni per i volontari
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
@@ -72,12 +72,12 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 
 * [File .zip con tutte le risorse del progetto](resources/colourful-creations-project-resources.zip)
 * [Trinket online vuoto per Python](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [File offline vuoto per Python](resources/new-new.py)
 
-## Club leader resources
+## Risorse per i volontari
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [File .zip con tutte le risorse del progetto](resources/colourful-creations-volunteer-resources.zip)
+* [Trinket online completato](https://trinket.io/python/41a99e668b)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
