@@ -1,8 +1,8 @@
-## Using hex colour codes
+## Come usare i codici esadecimali dei colori
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+La Tartaruga di Python ha dei colori predefiniti, come "rosso" e "bianco", ma puoi usare codici esadecimali dei colori (li hai probabilmente già visti nel corso HTML & CSS.)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Apri un modello vuoto di Python su Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Add the following set up code for using the turtle:
     
