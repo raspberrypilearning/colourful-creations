@@ -47,7 +47,7 @@ Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer R
 * Rječnici - kreiranje i pronalaženje vrijednosti;
 * Turtle grafika - tekst, fontovi i boje;
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 
