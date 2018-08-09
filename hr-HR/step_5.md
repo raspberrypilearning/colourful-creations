@@ -25,6 +25,6 @@ Na primjer:
 ***
 ### Prijevod članova zajednice 
 
-Ovaj je projekt preveo/la **Maja Manojlović**.
+Ovaj je projekt preveo/la **Maja Manojlović** i pregledao/la **Erik Braun**.
 
 Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translators](https://rpf.io/translators).
