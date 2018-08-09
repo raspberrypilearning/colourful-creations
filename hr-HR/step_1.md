@@ -10,7 +10,7 @@ U ovom projektu napravit ćeš rječnik boja koji pretvara teško pamtljive kôd
 
 ### Dodatne informacije za voditelje Kluba
 
-Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena pisaču](https://projects.raspberrypi.org/hr-HR/projects/colourful-creations/print).
+Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena za pisač](https://projects.raspberrypi.org/hr-HR/projects/colourful-creations/print).
 
 --- collapse ---
 ---
@@ -26,28 +26,28 @@ U ovom projektu djeca se upoznaju sa rječnicima tako što kreiraju rječnik koj
 
 * ['Šarene kreacije' početni materijal -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Također je uključen i trinket koji sadrži prijedlog rješenja challenges:
+Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 * [‘Šarene kreacije’ dovršeni projekt -- trinket.io/python/5a1b099cca](https://trinket.io/python/5a1b099cca)
 
 ## Offline izvori
 
-Ako želite, ovaj projekt možete [izraditi offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+Ako želite, ovaj projekt možete [završen offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * colourful-creations/colourful-creations.py
 
-Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži i:
+Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži:
 
 * colourful-creations-finished/colourful-creations.py
 
-(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, koje je moguće preuzeti kao `.zip` datoteke.)
+(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, moguće preuzeti kao `.zip` datoteke.)
 
 ## Ishodi učenja
 
 * Rječnici - kreiranje i pronalaženje vrijednosti;
 * Turtle grafika - tekst, fontovi i boje;
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 
