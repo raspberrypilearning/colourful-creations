@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Her: Rhagor o liwiau!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Allwch chi ychwanegu rhagor o liwiau i'ch geiriadur a rhoi cynnig arnynt? Defnyddiwch <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> i ddod o hyd i fwy o liwiau.
 
-Don't forget to give your colours awesome names.
+Peidiwch ag anghofio rhoi enwau anhygoel i'ch lliwiau.
 
-Here's some example code to remind you how to use the turtle:
+Dyma rywfaint o god enghreifftiol i'ch atgoffa sut i ddefnyddio'r crwban:
 
-![screenshot](images/colourful-challenge1.png)
+![sgrinlun](images/colourful-challenge1.png)
 
 \--- /challenge \---
