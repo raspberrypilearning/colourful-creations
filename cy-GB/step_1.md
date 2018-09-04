@@ -28,7 +28,7 @@ Mae'r prosiect hwn yn cyflwyno geiriaduron trwy greu geiriadur sy'n mapio o enwa
 
 Mae trinket hefyd yn cynnwys ateb sampl i'r heriau:
 
-* ['Creadigaethau Lliwgar' Wedi eu Cwblhau -- trinket.io/python/41a99e668b](https://trinket.io/python/b3018ec330)
+* ['Creadigaethau Lliwgar' Wedi eu Cwblhau -- trinket.io/python/b3018ec330](https://trinket.io/python/b3018ec330)
 
 ## Adnoddau All-lein
 
