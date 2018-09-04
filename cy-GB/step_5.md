@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Her: Crëwch boster
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Mae dylunwyr yn aml yn creu 'palet' o liwiau sy'n cydweithio'n dda ar gyfer thema benodol fel anialwch neu ofod.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Allwch chi greu prosiect Python newydd sy'n defnyddio geiriadur ar gyfer palet lliw thematig. Gallech ddewis hydref, coedwig, y môr, y Nadolig, hufen iâ, lliwiau eich hoff dîm chwaraeon neu syniad o'ch pen eich hun.
 
-Create a poster using your colour palette dictionary.
+Crëwch boster gan ddefnyddio'ch geiriadur palet lliw.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Gallwch hefyd ddefnyddio gorchmynion crwban eraill rydych chi'n eu hadnabod fel `forward` (ymlaen), `right` (i'r dde), `left` (i'r chwith), `penup` (pin i fyny) a `pendown` (pin i lawr).
 
-Maybe you could add a border to your poster?
+Efallai y gallech chi ychwanegu ffin i'ch poster?
 
-Other useful turtle commands:
+Gorchmynion crwban defnyddiol eraill:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ Mae `circle(50)` (cylch) yn tynnu amlinelliad cylch gyda radiws 50.
++ Mae `dot(100)` yn tynnu cylch wedi'i lenwi â diamedr 100. 
 
-Here's an example:
+Dyma enghraifft:
 
-![screenshot](images/colourful-finished.png)
+![sgrinlun](images/colourful-finished.png)
 
 \--- /challenge \---
