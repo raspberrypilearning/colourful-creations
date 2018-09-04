@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Geiriadur Lliw
 
-Using hex colour codes is really flexible but they are hard to remember.
+Mae defnyddio codau lliw hecs yn hyblyg iawn ond maent yn anodd i'w cofio.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Fel y gwyddoch yn ôl pob tebyg, mae geiriadur yn eich galluogi i edrych am air, a gweld ei ystyr. Yn Python, mae geiriadur hyd yn oed yn fwy hyblyg na hynny - mae'n eich galluogi i edrych am werth ar gyfer unrhyw 'allwedd' yn y geiriadur.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Gadewch i ni greu geiriadur i fapio o enwau lliw sy'n gyfeillgar i bobl (allweddi) i godau hecs sy'n gyfeillgar i gyfrifiaduron (gwerthoedd).
 
-+ A dictionary is contained in curly brackets.
++ Mae geiriadur wedi'i gynnwys mewn bachau cyrliog.
     
-    Create an empty dictionary called `colours`:
+    Crëwch eiriadur gwag o'r enw `lliwiau`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![sgrinlun](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Dewiswch enwau cŵl ar gyfer eich lliwiau a golygu'r llinell `lliwiau=` i ychwanegu cofnodion i'r geiriadur ar eu cyfer.
     
-    Here's an example colour dictionary:
+    Dyma enghraifft o eiriadur lliw:
     
-    ![screenshot](images/colourful-colours.png)
+    ![sgrinlun](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Mae colon `:` yn gwahanu'r allwedd (enw lliw) o'r gwerth (cod hecs). Mae angen coma arnoch `,` rhwng pob pâr allwedd:gwerth yn y geiriadur.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Nawr, nid oes angen i chi gofio'r codau hecs - gallwch chi chwilio amdanynt yn y geiriadur.
     
-    Adapt the following code to use your colour names:
+    Addaswch y cod canlynol i ddefnyddio'ch enwau lliw:
     
-    ![screenshot](images/colourful-entries.png)
+    ![sgrinlun](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Mae'r allwedd yn mynd o fewn bachau petryal '[]' ar ôl enw'r geiriadur.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Nawr gallwch chi ddiweddaru'ch cod i chwilio am liwiau yn y geiriadur:
     
-    ![screenshot](images/colourful-use.png)
+    ![sgrinlun](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Profwch eich cod i sicrhau bod eich testun yn dal i ddangos yn gywir.
