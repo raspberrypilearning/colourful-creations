@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Izradi poster
+## Izazov: Izradi poster
 
 Dizajneri za određene teme, poput pustinje ili svemira, često osmisle 'paletu' boja koje dobro izgledaju zajedno.
 
