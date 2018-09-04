@@ -1,6 +1,6 @@
-## Introduction
+## Cyflwyniad
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+Yn y prosiect hwn, byddwch yn creu geiriadur o liwiau sy'n mapio'n galed i gofio codau lliw yn enwau cyfeillgar.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [fersiwn hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Nodiadau arweinwyr clwb
 
-## Introduction:
+## Cyflwyniad:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Mae'r prosiect hwn yn cyflwyno geiriaduron trwy greu geiriadur sy'n mapio o enwau lliw sy'n gyfeillgar i bobl i godau hecs. Yna, edrychir ar y codau lliw yn y geiriadur ac fe'u defnyddir i greu poster lliwgar.
 
-## Online Resources
+## Adnoddau Ar-lein
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Mae'r prosiect hwn yn defnyddio Python 3.** Rydym yn argymell defnyddio [trinket](https://trinket.io/) i ysgrifennu Python ar-lein. Mae'r prosiect hwn yn cynnwys y Trinkets canlynol:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [Man cychwyn 'Creadigaethau Lliwgar' -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+Mae trinket hefyd yn cynnwys ateb sampl i'r heriau:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Creadigaethau Lliwgar' Wedi eu Cwblhau -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Offline Resources
+## Adnoddau All-lein
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Gall y prosiect hwn gael ei [gwblhau all-lein](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) os yw'n well gennych. Gallwch chi fynd at adnoddau'r prosiect trwy glicio ar y ddolen 'Deunyddiau Prosiect' ar gyfer y prosiect hwn. Mae'r ddolen hon yn cynnwys adran 'Adnoddau Prosiect', sy'n cynnwys adnoddau y bydd eu hangen ar blant i gwblhau'r prosiect hwn all-lein. Sicrhewch fod gan bob plentyn fynediad at gopi o'r adnoddau hyn. Mae'r adran hon yn cynnwys y ffeiliau canlynol:
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Gallwch hefyd ddod o hyd i fersiwn wedi'i gwblhau o heriau'r prosiect hwn yn yr adran 'Adnoddau Gwirfoddolwyr', sy'n cynnwys:
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Gellir lawrlwytho'r holl adnoddau uchod hefyd fel ffeiliau prosiect a gwirfoddolwyr `.zip`.)
 
-## Learning Objectives
+## Amcanion Dysgu
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Geiriaduron - creu a chwilio am werthoedd;
+* Graffeg crwban - testun, ffontiau a lliwiau;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Mae’r prosiect hwn yn cwmpasu elfennau o’r llinynnau canlynol o'r [Cwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Defnyddiwch luniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Dyluniwch asedau 2D a 3D sylfaenol.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Heriau
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Rhagor o liwiau! - Defnyddiwch wefan dewisydd lliw i ddod o hyd i godau hecs am fwy o liwiau a'u hychwanegu at eiriadur. 
+* Creu poster - Crëwch eiriadur palet lliw addasu a'i ddefnyddio i greu poster gan ddefnyddio graffeg crwban. 
 
-## Frequently Asked Questions
+## Cwestiynau Cyffredin
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Efallai y bydd angen i blant gael eu hatgoffa am y coma ',' ar ddiwedd pob cofnod geiriadur. 
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \---collapse\---
 
-## title: Project materials
+## title: Deunyddiau prosiect
 
-## Project resources
+## Adnoddau'r prosiect
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [Ffeil .zip sy'n cynnwys holl adnoddau'r prosiect](resources/colourful-creations-project-resources.zip)
+* [Trinket Python gwag ar-lein](http://jumpto.cc/python-new)
+* [Ffeil wag Python all-lein](resources/new-new.py)
 
-## Club leader resources
+## Adnoddau arweinwyr clwb
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [Ffeil .zip sy'n cynnwys holl adnoddau'r prosiect wedi'u cwblhau](resources/colourful-creations-volunteer-resources.zip)
+* [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/41a99e668b)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
