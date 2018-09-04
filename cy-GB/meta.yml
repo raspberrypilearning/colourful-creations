@@ -1,0 +1,24 @@
+---
+hero_image: images/colourful-creations.png
+theme: yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Creadigaethau Lliwgar
+description: Crëwch eich lliwiau arfer eich hun, a'u defnyddio i greu poster lliwgar.
+original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
+interests: art
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Cyflwyniad
+  - title: Defnyddio codau lliw hecs
+  - title: Geiriadur Lliw
+  - title: 'Her: Mwy o liwiau!'
+  - title: 'Her: Crëwch boster'
