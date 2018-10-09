@@ -1,36 +1,35 @@
 ## Ein Farbwörterbuch
 
-Hex-Farbcodes sind zwar sehr flexibel, aber man kann sie sich schlecht merken. 
+Hex-Farbcodes sind zwar sehr flexibel zu verwenden, aber man kann sie sich schwer merken.
 
-Wie du wahrscheinlich schon weißt, kann ein Wörterbuch dir dabei helfen, ein Wort nachzuschlagen und dessen Bedeutung herauszufinden. Mit Python ist ein Wörterbuch noch flexibler als das: Es erlaubt dir einen Wert (Value) für jeden 'key' (jedes Schlüsselwort) im Wörterbuch nachzuschlagen.
+Wie du wahrscheinlich bereits weißt, kann man in einem Wörterbuch (engl.: dictionary) ein Wort nachschlagen und seine Bedeutung herausfinden. Ein Dictionary in Python kann sogar noch mehr - es ermöglicht dir, einen Wert (engl.: value) für jeden Schlüssel (engl.: key) nachzuschlagen.
 
-Lass uns ein Wörterbuch erstellen, um menschenfreundliche Farbnamen (Schlüsselwörter) von den computerfreundlichen Hexadezimalcodes (Werte, bzw. „Values“) umzuwandeln.
+Lass' uns ein Wörterbuch erstellen, das menschenfreundliche Farbnamen (Schlüssel) den computerfreundlichen Hex-Codes (Werte) zuordnet.
 
-+ Das Wörterbuch ist in den geschweiften Klammern enthalten. 
++ Ein Dictionary wird in geschweiften Klammern geschrieben.
+    
+    Erstelle ein leeres Dictionary mit dem Namen ` farben`:
+    
+    ![screenshot](images/colourful-dict.png)
 
-  Erstelle ein leeres Wörterbuch mit dem Namen `colours` (Farben):
++ Denke dir coole Namen für deine Farben aus und erstelle Einträge für sie im Dictionary, indem Du die Zeile `farben=` bearbeitest.
+    
+    Hier ist ein Beispiel für ein Farb-Dictionary:
+    
+    ![screenshot](images/colourful-colours.png)
+    
+    Ein Doppelpunkt `:` trennt den Schlüssel (Farbname) vom Wert (Hex-Code). Zwischen jedem Schlüssel:Wert-Paar im Dictionary muss ein Komma `,` stehen.
 
-   ![screenshot](images/colourful-dict.png)
-   
-+ Denk dir ein paar coole Namen für deine Farben aus und bearbeite die `colours = {} ` Farbzeile, um weitere Einträge hierfür in dein Wörterbuch einzufügen. 
++ Jetzt brauchst Du dir die Hex-Codes nicht zu merken, Du kannst sie einfach im Dictionary nachschlagen.
+    
+    Passe den folgenden Code an und verwende deine eigenen Farbnamen:
+    
+    ![screenshot](images/colourful-entries.png)
+    
+    Der Schlüssel kommt in die eckigen Klammern "[]" nach dem Namen des Dictionaries.
 
-  Hier ist ein Beispiel für ein Farbwörterbuch:
++ Jetzt kannst du deinen Programmcode auf den neuesten Stand bringen und Farben im Dictionary nachschlagen lassen:
+    
+    ![screenshot](images/colourful-use.png)
 
-   ![screenshot](images/colourful-colours.png)
-   
-   Ein Doppelpunkt `:` trennt das Schlüsselwort (den Farbnamen) von dem Wert, bzw. „Value“ (dem Hexadezimalcode.) Du musst immer ein Komma `,` zwischen jedem „key:value“ (Schlüsselwort:Wert) Paar im Wörterbuch setzen. 
-
-+ Nun brauchst du dir die Hexadezimalcodes nicht mehr zu merken, du kannst sie einfach im Wörterbuch nachschlagen. 
-
-  Bearbeite den folgenden Code, um deine Farbnamen zu benutzen:
-  
-  ![screenshot](images/colourful-entries.png)
-  
-  „Key? (das Schlüsselwort) gehört in die eckigen Klammern '[]' nach dem Namen des Wörterbuchs. 
-  
-+ Jetzt kannst du deinen Code aktualisieren, um im Wörterbuch nach den Farben zu suchen:
-
-  ![screenshot](images/colourful-use.png)
-  
-  
-+ Teste deinen Code, um sicherzustellen, dass dein Text immer noch richtig angezeigt wird. 
++ Teste deinen Code um sicherzustellen, dass dein Text auch korrekt angezeigt wird.
