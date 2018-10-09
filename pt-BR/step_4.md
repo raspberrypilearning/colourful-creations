@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: Mais cores!
 
@@ -6,8 +6,8 @@ Você pode adicionar mais cores ao seu dicionário e testá-las? Use <a href="ht
 
 Não se esqueça de dar nomes incríveis às suas cores.
 
-Aqui está um código de exemplo para lembrá-lo como usar a tartaruga:
+Aqui está um código de exemplo para lembrá-lo como usar a turtle:
 
-![captura de tela](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
-\--- / desafio \---
+\--- /challenge \---
