@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste projeto, você criará um dicionário de cores que mapeia códigos de cores difíceis de lembrar em nomes amigáveis.
+Neste projeto, você criará um dicionário de cores que mapeia os códigos de cores difíceis de lembrar em nomes amigáveis.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ Neste projeto, você criará um dicionário de cores que mapeia códigos de core
   <img src="images/colourful-finished.png">
 </div>
 
-### Informação adicional para líderes de clubes
+### Informação adicional para os líderes dos clubes
 
 Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- colapso \---
+## \--- collapse \---
 
-## título: notas do líder do clube
+## title: Notas do líder do clube
 
 ## Introdução:
 
-Este projeto introduz dicionários criando um dicionário que mapeia de nomes de cores amigáveis ​​para humanos a códigos hexadecimais. Os códigos de cores são pesquisados ​​no dicionário e usados ​​para criar um pôster colorido.
+Este projeto introduz aos dicionários ao criar um dicionário que define nomes de cores amigáveis para os códigos hexadecimais. Os códigos das cores são pesquisados ​​no dicionário e usados ​​para criar um pôster colorido.
 
-## Recursos online
+## Recursos Online
 
-**Este projeto usa o Python 3.** Recomendamos usar [trinket](https://trinket.io/) para escrever Python online. Este projeto contém os seguintes Trinkets:
+**Este projeto usa o Python 3.** Recomendamos usar o [trinket](https://trinket.io/) para escrever Python online. Este projeto contém os seguintes Trinkets:
 
 * [Ponto de partida 'Criações coloridas' - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Há também uma bugiganga contendo uma solução de amostra para os desafios:
+Há também um trinket contendo um projeto concluído para os desafios:
 
-* ['Colorido criações' terminado - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Criações Coloridas' concluído -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Recursos offline
+## Recursos Offline
 
-Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , se preferir. Você pode acessar os recursos do projeto clicando no link 'Project Materials' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , se preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
-* colourful-creations / colourful-creations.py
+* colourful-creations/colourful-creations.py
 
-Você também pode encontrar uma versão completa dos desafios deste projeto na seção "Recursos para Voluntários", que contém:
+Você também pode encontrar uma versão completa dos desafios deste projeto na seção 'Recursos para Voluntários', que contém:
 
 * Colorido-criações-acabado / colourful-creations.py
 
-(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e voluntários.)
+(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e dos voluntários.)
 
-## objetivos de aprendizado
+## Objetivos de aprendizado
 
 * Dicionários - criando e procurando valores;
-* Gráficos de tartaruga - texto, fontes e cores;
+* Turtle graphics - texto, fontes e cores;
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Usar estruturas básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Projete ativos básicos 2D e 3D.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Projetar designs básicos em 2D e 3D.](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## Desafios
 
-* Mais cores! - Use um site de seletor de cores para encontrar códigos hexadecimais para mais cores e adicioná-los a um dicionário. 
-* Criar um pôster - crie um dicionário de paleta de cores personalizado e use-o para criar um pôster usando gráficos Turtle. 
+* Mais cores! - Use um site de seletor de cores para encontrar códigos hexadecimais para mais cores e adicioná-los ao dicionário. 
+* Criar um pôster - crie um dicionário de paleta de cores personalizado e use-o para criar um pôster usando Turtle graphics. 
 
-## perguntas frequentes
+## Perguntas Frequentes
 
-* As crianças podem precisar de lembrar sobre a vírgula ',' no final de cada entrada do dicionário. 
+* As crianças podem precisar serem lembradas sobre a vírgula ',' no final de cada entrada do dicionário. 
 
-\--- / colapso \---
+\--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
-## Título: Materiais do projeto
+## title: Materiais do projeto
 
 ## Recursos do projeto
 
-* [arquivo .zip contendo todos os recursos do projeto](resources/colourful-creations-project-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto](resources/colourful-creations-project-resources.zip)
 * [Trinket de Python em branco on-line](http://jumpto.cc/python-new)
 * [Arquivo Python offline em branco](resources/new-new.py)
 
 ## Recursos do líder do clube
 
-* [arquivo .zip contendo todos os recursos do projeto concluídos](resources/colourful-creations-volunteer-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/colourful-creations-volunteer-resources.zip)
 * [Projeto Trinket concluído online](https://trinket.io/python/41a99e668b)
-* [Colorido-criações-acabado / colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
+* [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- / colapso \---
+\--- /collapse \---
