@@ -1,15 +1,13 @@
 --- challenge ---
-## Aufgabe: Noch mehr Farben! 
 
-Kannst du deinem Wörterbuch noch weitere Farben hinzufügen und diese dann ausprobieren? Benutze <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> um weitere Farben zu finden. 
+## Herausforderung: Noch mehr Farben!
 
-Vergiss nicht, deinen Farben ein paar tolle Namen zu geben. 
+Kannst du weitere Farben in deinem Wörterbuch ablegen und sie dann ausprobieren? Verwende <a href="http://jumpto.cc/colour-picker" target="_blank">https://developer.mozilla.org/de/docs/Web/CSS/CSS_Colors/farbauswahl_werkzeug</a>, um mehr Farben zu finden.
 
-Hier ist ein Musterccode als Erinnerungshilfe, um dir zu zeigen, wie du Turtle benutzt:
+Vergiss nicht, deinen Farben ein paar tolle Namen zu geben.
+
+Hier ein Beispielcode, als Erinnerungshilfe zur Handhabung von Turtle:
 
 ![screenshot](images/colourful-challenge1.png)
-
-
-
 
 --- /challenge ---

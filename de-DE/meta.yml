@@ -1,3 +1,4 @@
+---
 hero_image: images/colourful-creations.png
 theme: yellow
 duration: 2
@@ -5,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Colourful Creations
-description: Kreiere deine eigenen Farben und benutze sie, um ein buntes Poster anzufertigen.
+title: Kunterbunte Kreationen
+description: Kreiere deine eigenen Farben und fertige mit ihnen ein buntes Poster an.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
@@ -15,9 +16,9 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Einführung
-- title: Hexadezimalcodes benutzen
-- title: Ein Farbwörterbuch
-- title: 'Aufgabe: Noch mehr Farben!'
-- title: 'Aufgabe: Fertige ein Poster an'
+steps:
+  - title: Einleitung
+  - title: Hexadezimalcodes für Farben
+  - title: Ein Farbwörterbuch
+  - title: 'Herausforderung: Noch mehr Farben!'
+  - title: 'Herausforderung: Entwerfe ein Poster'
