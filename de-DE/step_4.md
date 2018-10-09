@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Aufgabe: Noch mehr Farben!
+## Herausforderung: Noch mehr Farben!
 
 Kannst du weitere Farben in deinem Wörterbuch ablegen und sie dann ausprobieren? Verwende <a href="http://jumpto.cc/colour-picker" target="_blank">https://developer.mozilla.org/de/docs/Web/CSS/CSS_Colors/farbauswahl_werkzeug</a>, um mehr Farben zu finden.
 
