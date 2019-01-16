@@ -1,24 +1,24 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: Створення плаката
+## Challenge: Create a poster
 
-Дизайнери часто створюють "палітру" кольорів, які добре працюють для певної теми, такої як пустеля або простір.
+Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
 
-Ви можете створити новий проект Python, який використовує словник для тематичної колірної палітри. Ви можете вибрати осінь, ліс, море, різдво, морозиво, кольори вашої улюбленої спортивної команди або ідею про вашу власну.
+Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
 
-Створіть плакат, використовуючи словник колірної палітри.
+Create a poster using your colour palette dictionary.
 
-Ви також можете використовувати інші команди черепахи, які ви знаєте, таких як `вперед`, `праворуч`, `залишили`, `` і `pendown`.
+You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
 
-Може бути, ви можете додати кордон до вашого плаката?
+Maybe you could add a border to your poster?
 
-Інші корисні команди черепахи:
+Other useful turtle commands:
 
-+ `кола (50)` малює контур окружності з радіусом 50.
-+ `dot (100)` малює заповнений кола діаметром 100. 
++ `circle(50)` draws a circle outline with radius 50.
++ `dot(100)` draws a filled in circle with diameter 100. 
 
-Ось приклад:
+Here's an example:
 
-![скріншот](images/colourful-finished.png)
+![screenshot](images/colourful-finished.png)
 
-\--- / виклик \---
+\--- /challenge \---
