@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Wyzwanie: więcej kolorów!
+## Challenge: More colours!
 
-Czy możesz dodać więcej kolorów do słownika i wypróbować je? Użyj <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> , aby znaleźć więcej kolorów.
+Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
 
-Nie zapomnij nadać swoim kolorom niesamowitych nazw.
+Don't forget to give your colours awesome names.
 
-Oto przykład kodu, który przypomni Ci, jak używać żółwia:
+Here's some example code to remind you how to use the turtle:
 
 ![screenshot](images/colourful-challenge1.png)
 
