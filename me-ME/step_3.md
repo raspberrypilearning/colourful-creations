@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Rječnik boja
 
-Using hex colour codes is really flexible but they are hard to remember.
+Korišćenje heksadecimalnih kôdova boja je vrlo jednostavno, ali ih je teško zapamtiti.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Kao što vjerovatno već znaš, u rječniku možeš da pronađeš riječ i da pogledaš njeno značenje. U Pythonu, rječnik je još fleksibilniji - omogućava ti da pronađeš vrijednost bilo kojeg 'ključa' koji se nalazi u rječniku.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Napravimo rječnik koji će povezivati nazive boja (ključeve) koji su jednostavni za ljude sa heksadecimalnim kôdovima (vrijednostima) koji su pogodni za računare.
 
-+ A dictionary is contained in curly brackets.
++ Sadržaj rječnika pišemo unutar vitičastih zagrada.
     
-    Create an empty dictionary called `colours`:
+    Napravi prazan rječnik i daj mu naziv `boje`:
     
     ![screenshot](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Odaberi zanimljive nazive za svoje boje i izmijeni red `boje =` kako bi dodao/dodala svoje boje u rječnik.
     
-    Here's an example colour dictionary:
+    Ovo je primjer rječnika boja:
     
     ![screenshot](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Dvotačka `:` odvaja ključ (naziv boje) od vrijednosti (heksadecimalnog kôda). Između svih ključ:vrijednost parova u rječniku mora da stoji zarez `,`.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Sada ne moraš da pamtiš heksadecimalne kôdove, već ih jednostavno možeš potražiti u rječniku.
     
-    Adapt the following code to use your colour names:
+    Prilagodi sljedeći kôd tako da koristi tvoje nazive boja:
     
     ![screenshot](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Ključ pišemo unutar uglastih zagrada '[]' nakon naziva rječnika.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Sada možeš da izmijeniš svoj kôd tako da pretražuje boje u rječniku:
     
     ![screenshot](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Isprobaj svoj kôd da provjeriš da li se tvoj tekst i dalje prikazuje kako treba.
