@@ -6,24 +6,24 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: 다채로운 창조물
-description: 나만의 위한 맞춤 색상을 만들고, 다채로운 포스터를 만드는 데 사용해 봅시다.
+title: Colourful Creations
+description: Create your own custom colours, and use them to create a colourful poster.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
-technologies: 파이썬 (Python)
+technologies: python
 site_areas: projects
 hardware: ''
-software: 파이썬 (Python)
+software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 들어가며
+    title: Introduction
   - 
-    title: 헥스 색상 코드 사용하기
+    title: Using hex colour codes
   - 
-    title: 색상 사전
+    title: A Colour Dictionary
   - 
-    title: '도전과제: 더 많은 색상들!'
+    title: 'Challenge: More colours!'
   - 
-    title: '도전 과제: 포스터 만들기'
+    title: 'Challenge: Create a poster'
