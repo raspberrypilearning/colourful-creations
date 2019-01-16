@@ -1,13 +1,13 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: Mais cores!
+## Challenge: More colours!
 
-Você pode adicionar mais cores ao seu dicionário e testá-las? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> para encontrar mais cores.
+Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
 
-Não se esqueça de dar nomes incríveis às suas cores.
+Don't forget to give your colours awesome names.
 
-Aqui está um código de exemplo para lembrá-lo como usar a tartaruga:
+Here's some example code to remind you how to use the turtle:
 
-![captura de tela](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
-\--- / desafio \---
+\--- /challenge \---
