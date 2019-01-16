@@ -8,26 +8,26 @@ Python turtle has predefined colours such as 'red' and 'white' but you can also 
     
     ![screenshot](images/colourful-setup.png)
     
-    Ten en cuenta que utilizaste un color llamado: 'white'.
+    Notice that you used a named colour: 'white'.
 
-+ Turtle tiene una lista de nombres de colores que puedes usar, pero a veces quieres elegir tus propios colores. Turtle también te permite usar códigos de color hexadecimales.
++ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
     
-    Abre <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> y elige el color que te gusta. Encuentra su código hexadecimal que comienza con un '#', por ejemplo '#A7E30E'.
+    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ Copia el código hexadecimal, incluido el hash, por resaltándolo y luego haciendo clic con el botón derecho y seleccionando Copiar o usando Ctrl-C.
++ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ Ahora cambia la línea de código que establece el color de la pantalla para usar tu color. Por ejemplo:
++ Now change the line of code that sets the screen colour to use your colour. For example:
     
     ![screenshot](images/colourful-background.png)
     
-    Puedes usar el botón derecho y Pegar o Ctrl-V para pegar su código hexadecimal en Trinket.
+    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
-+ Elige otro código de color hexadecimal y úsalo para crear texto en color:
++ Choose another hex colour code and use it to create coloured text:
     
     ![screenshot](images/colourful-write.png)
     
-    No tienes que usar la fuente 'Arial', puedes probar 'Verdana', 'Times' o 'Courier'.
+    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
     
-    '40' es el tamaño de letra, puedes intentar cambiar eso también.
+    '40' is the font size, you can try changing that too.
 
-+ Prueba diferentes colores hasta que obtengas dos que realmente te gusten que se vean bien juntos.
++ Try different colours until you get two that you really like that look good together.
