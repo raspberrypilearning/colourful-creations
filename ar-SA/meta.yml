@@ -5,25 +5,25 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: إنشاء الألوان
-description: أنشئ ألوانك الخاصة واستخدمها لإنشاء ملصق متعدد الألوان.
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Colourful Creations
+description: Create your own custom colours, and use them to create a colourful poster.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
-interests: art and design
+interests: art
 technologies: python
-site_areas: codeclub, python
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: المقدمة
+    title: Introduction
   - 
-    title: استخدام أكواد الألوان السداسية
+    title: Using hex colour codes
   - 
-    title: قاموس ألوان
+    title: A Colour Dictionary
   - 
-    title: 'التحدي: ألوان أخرى!'
+    title: 'Challenge: More colours!'
   - 
-    title: 'التحدي: أنشئ ملصقًا'
+    title: 'Challenge: Create a poster'
