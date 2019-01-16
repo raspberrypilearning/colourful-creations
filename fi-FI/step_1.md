@@ -1,6 +1,6 @@
-## Introduction
+## esittely
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+Tässä projektissa luodaan värien sanakirja, joka karkaa vaikeasti muistaa värikoodit ystävällisiksi nimiksi.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Lisätietoja klubin johtajille
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- collapse \---
+## \--- romahdus \---
 
-## title: Club leader notes
+## otsikko: Klubin johtajat
 
-## Introduction:
+## Johdanto:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Tämä hanke esittelee sanakirjat luomalla sanakirjan, joka kartoittaa ihmisen ystävälliset väritunnukset heksakoodeihin. Värikoodit etsitään sitten sanakirjasta ja luodaan värikäs juliste.
 
-## Online Resources
+## Online-resurssit
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Tämä projekti käyttää Python 3: tä.** Python on suositeltavaa käyttää [nikkeliä](https://trinket.io/). Tämä projekti sisältää seuraavat leikkuuterät:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ["Värikäs luomukset" lähtöpiste - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+On myös rihmasto, joka sisältää näyteliuoksen haasteisiin:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ["Värikäs luomukset" valmis - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Offline Resources
+## Offline-resurssit
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Tämä projekti voi olla [päättynyt offline-tilassa](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) jos se on haluttu. Voit käyttää projektin resursseja napsauttamalla tämän projektin 'Projektin materiaalit' -linkkiä. Tämä linkki sisältää "Projektin resurssit" -osion, jossa on resursseja, joiden avulla lapset tarvitsevat hankkeen loppuun. Varmista, että jokaisella lapsella on pääsy kopioihin näistä resursseista. Tässä osassa on seuraavat tiedostot:
 
-* colourful-creations/colourful-creations.py
+* värikäs-luomuksia / colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Löydät myös tämän hankkeen haasteiden loppuun saatetun version "Vapaaehtoiset resurssit" -osiosta, joka sisältää:
 
-* colourful-creations-finished/colourful-creations.py
+* värikäs-luomuksia viimeistellyt / colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Kaikki yllä olevat resurssit ovat myös ladattavissa projekteina ja vapaaehtoisia `.zip` tiedostoja.)
 
-## Learning Objectives
+## Oppimistavoitteet
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Sanakirjat - luomalla ja etsimällä arvoja;
+* Turtle-grafiikka - teksti, fontit ja värit;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Tämä hanke kattaa elementit seuraavista [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Suunnittele 2D- ja 3D-ominaisuuksia.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## haasteet
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Lisää värejä! - Käytä värivalitsimen verkkosivustoa etsimällä kuusikoodeja lisää värejä ja lisäämällä ne sanakirjaan. 
+* Luo juliste - Luo mukautettu väripaletti-sanakirja ja luo juliste Turtle-grafiikan avulla. 
 
-## Frequently Asked Questions
+## Usein Kysytyt Kysymykset
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Lapset saattavat joutua muistuttamaan pilkulla "," jokaisen sanakirjan merkinnän lopussa. 
 
-\--- /collapse \---
+\--- / romahdus \---
 
-## \--- collapse \---
+## \--- romahdus \---
 
-## title: Project materials
+## otsikko: Projektimateriaalit
 
-## Project resources
+## Projektin resurssit
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [.zip-tiedosto, joka sisältää kaikki projektiresurssit](resources/colourful-creations-project-resources.zip)
+* [Online tyhjä Python Trinket](http://jumpto.cc/python-new)
+* [Offline tyhjä Python-tiedosto](resources/new-new.py)
 
-## Club leader resources
+## Klubin johtajien resurssit
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
-* [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
+* [.zip-tiedosto, joka sisältää kaikki valmiit projektiresurssit](resources/colourful-creations-volunteer-resources.zip)
+* [Online valmistunut Trinket-projekti](https://trinket.io/python/41a99e668b)
+* [värikäs-luomuksia viimeistellyt / colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- /collapse \---
+\--- / romahdus \---
