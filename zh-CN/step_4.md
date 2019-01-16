@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## 挑战：更多颜色！
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+你能将更多的颜色添加到你的字典中然后尝试使用它们吗？ 点击打开<a href="http://jumpto.cc/colour-picker" target="_blank"> jumpto.cc/colour-picker </a>链接来查看更多的颜色。
 
-Don't forget to give your colours awesome names.
+别忘了给你的颜色取一些很棒的名字。
 
-Here's some example code to remind you how to use the turtle:
+这里有一些示例代码提醒你如何使用turtle模块：
 
-![screenshot](images/colourful-challenge1.png)
+![截图](images/colourful-challenge1.png)
 
 \--- /challenge \---
