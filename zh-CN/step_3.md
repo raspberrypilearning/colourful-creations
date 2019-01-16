@@ -1,35 +1,35 @@
-## 颜色字典
+## A Colour Dictionary
 
-使用十六进制颜色代码是非常灵活的, 但它们很难记住。
+Using hex colour codes is really flexible but they are hard to remember.
 
-正如你可能已经知道的, 字典可以让你查找一个词, 并查看它的含义。 在Python中，字典更加灵活 - 它允许您查找字典中任何“键”的值。
+As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
 
-让我们创建一个字典，将易于人脑记忆的颜色名称（键名）映射到易于计算机处理的十六进制代码（键值）。
+Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
 
-+ 一个字典包含在一对花括号中。
++ A dictionary is contained in curly brackets.
     
-    创建一个名 `colours` （颜色）的空白字典：
+    Create an empty dictionary called `colours`:
     
-    ![截图](images/colourful-dict.png)
+    ![screenshot](images/colourful-dict.png)
 
-+ 为你的颜色选择好听的名字，然后编辑`colours =`行将它们以条目的形式添加到字典中。
++ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
     
-    下面是一个颜色词典的示例：
+    Here's an example colour dictionary:
     
-    ![截图](images/colourful-colours.png)
+    ![screenshot](images/colourful-colours.png)
     
-    键名（颜色名称）与键值（十六进制代码）之间使用冒号`:`分隔，而在"键名:键值"对之间则用一个逗号`,`分隔。
+    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
 
-+ 现在你不需要记住那些十六进制代码，你只需要在字典里查询它们就行了。
++ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
     
-    调整以下代码以使用你自己的颜色名称：
+    Adapt the following code to use your colour names:
     
-    ![截图](images/colourful-entries.png)
+    ![screenshot](images/colourful-entries.png)
     
-    将键名放到字典名称后面的方括号“[]”内。
+    The key goes inside square brackets '[]' after the name of the dictionary.
 
-+ 现在，你可以更新你的代码，在字典中查找颜色：
++ Now you can update your code to look up colours in the dictionary:
     
-    ![截图](images/colourful-use.png)
+    ![screenshot](images/colourful-use.png)
 
-+ 测试代码以确保你的文字仍然正确显示。
++ Test your code to make sure your text still displays correctly.
