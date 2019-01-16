@@ -1,29 +1,29 @@
 ---
-hero_image: images/colourful-creations.png
-theme: yellow
+hero_image: images / färgstarka-creations.png
+theme: gul
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Colourful Creations
-description: Create your own custom colours, and use them to create a colourful poster.
+curriculum: 1, design-0, programmering-1, phys-comp-0, tillverkning-0, community-0
+title: Färgglada skapelser
+description: Skapa egna egna färger och använd dem för att skapa en färgstark affisch.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
-interests: art
-technologies: python
-site_areas: projects
+interests: konst
+technologies: pytonorm
+site_areas: projekt
 hardware: ''
-software: python
+software: pytonorm
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - 
-    title: Introduction
+    title: Introduktion
   - 
-    title: Using hex colour codes
+    title: Använda hex färgkoder
   - 
-    title: A Colour Dictionary
+    title: En färgordlista
   - 
-    title: 'Challenge: More colours!'
+    title: 'Utmaning: Fler färger!'
   - 
-    title: 'Challenge: Create a poster'
+    title: 'Utmaning: Skapa en affisch'
