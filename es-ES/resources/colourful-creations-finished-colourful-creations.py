@@ -3,8 +3,8 @@
 from turtle import *
 from time import *
 
-# introduce diccionarios
-# usa un selector de color para encontrar y elegir nuevos colores
+# introduce dictionaries
+# use a colour picker to find and choose new colours
 colours = { 
   'space': '#060608', 
   'moongrey': '#BCBDEF', 
@@ -26,11 +26,11 @@ penup()
 goto(0, 100)
 color(colours['reallyraspberry'])
 style = ('Arial', 40, 'bold')
-write('HOLA', font=style, align='center')
+write('HELLO', font=style, align='center')
 right(90)
 forward(60)
 color(colours['awesomeorange'])
-write('MUNDO', font=style, align='center')
+write('WORLD', font=style, align='center')
 hideturtle()
 
 sleep(3)
