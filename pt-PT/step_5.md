@@ -1,24 +1,24 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: criar um pôster
+## Challenge: Create a poster
 
-Designers geralmente criam uma 'paleta' de cores que funcionam bem juntas para um tema específico, como deserto ou espaço.
+Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
 
-Você pode criar um novo projeto Python que usa um dicionário para uma paleta de cores temática. Você pode escolher o outono, floresta, mar, Natal, sorvete, as cores do seu time favorito ou uma idéia de sua preferência.
+Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
 
-Crie um pôster usando o dicionário da paleta de cores.
+Create a poster using your colour palette dictionary.
 
-Você também pode usar outros comandos de tartaruga conhecidos como `para a frente`, `para a direita`, `para a esquerda`, `para a penup` e `para a`.
+You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
 
-Talvez você possa adicionar uma borda ao seu pôster?
+Maybe you could add a border to your poster?
 
-Outros comandos úteis de tartaruga:
+Other useful turtle commands:
 
-+ `circle (50)` desenha um contorno de círculo com raio 50.
-+ `ponto (100)` desenha um círculo preenchido com diâmetro de 100. 
++ `circle(50)` draws a circle outline with radius 50.
++ `dot(100)` draws a filled in circle with diameter 100. 
 
-Aqui está um exemplo:
+Here's an example:
 
-![captura de tela](images/colourful-finished.png)
+![screenshot](images/colourful-finished.png)
 
-\--- / desafio \---
+\--- /challenge \---
