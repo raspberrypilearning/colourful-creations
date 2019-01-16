@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## En färgordlista
 
-Using hex colour codes is really flexible but they are hard to remember.
+Att använda hex färgkoder är väldigt flexibel men de är svåra att komma ihåg.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Som du förmodligen redan vet kan en ordlista du leta upp ett ord och se det är meningen. I Python är en ordlista ännu mer flexibel så att det låter dig leta upp ett värde för valfri nyckel i ordlistan.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Låt oss skapa en ordlista för att kartlägga från mänskliga användarnamn (nycklar) till datorvänliga hex-koder (värden).
 
-+ A dictionary is contained in curly brackets.
++ En ordbok finns i lockiga parenteser.
     
-    Create an empty dictionary called `colours`:
+    Skapa en tom ordbok som heter `färger`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![skärmdump](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Välj coola namn för dina färger och redigera `färger =` rad för att lägga till poster i ordlistan för dem.
     
-    Here's an example colour dictionary:
+    Här är ett exempel färgordlista:
     
-    ![screenshot](images/colourful-colours.png)
+    ![skärmdump](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    En kolumn `:` skiljer nyckeln (färgnamn) från värdet (hex-koden.) Du behöver ett komma `,` mellan varje nyckel: värdet par i ordlistan.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Nu behöver du inte komma ihåg hex-koderna, du kan bara titta upp dem i ordboken.
     
-    Adapt the following code to use your colour names:
+    Anpassa följande kod för att använda dina färgnamn:
     
-    ![screenshot](images/colourful-entries.png)
+    ![skärmdump](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Nyckeln går in i hakparentes "[]" efter namnet på ordlistan.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Nu kan du uppdatera din kod för att leta upp färger i ordlistan:
     
-    ![screenshot](images/colourful-use.png)
+    ![skärmdump](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Testa din kod för att kontrollera att texten fortfarande visas korrekt.
