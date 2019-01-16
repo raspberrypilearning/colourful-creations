@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Từ điển màu
 
-Using hex colour codes is really flexible but they are hard to remember.
+Sử dụng mã màu hex thực sự linh hoạt nhưng chúng rất khó nhớ.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Như bạn có thể đã biết, một từ điển cho phép bạn tra cứu một từ, và thấy nó có ý nghĩa. Trong Python, một từ điển thậm chí còn linh hoạt hơn - nó cho phép bạn tìm kiếm một giá trị cho bất kỳ 'khóa' nào trong từ điển.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Hãy tạo một từ điển để ánh xạ từ các tên màu (phím) thân thiện với con người đến các mã hex (giá trị) thân thiện với máy tính.
 
-+ A dictionary is contained in curly brackets.
++ Một từ điển được chứa trong dấu ngoặc nhọn.
     
-    Create an empty dictionary called `colours`:
+    Tạo một từ điển rỗng gọi là `màu`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![ảnh chụp màn hình](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Chọn tên mát cho màu của bạn và chỉnh sửa `màu =` dòng để thêm các mục vào từ điển cho chúng.
     
-    Here's an example colour dictionary:
+    Đây là một từ điển màu ví dụ:
     
-    ![screenshot](images/colourful-colours.png)
+    ![ảnh chụp màn hình](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Dấu hai chấm `:` tách khóa (tên màu) khỏi giá trị (mã hex.) Bạn cần dấu phẩy `,` giữa mỗi cặp khóa: giá trị trong từ điển.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Bây giờ bạn không cần phải nhớ mã hex, bạn chỉ có thể tra cứu chúng trong từ điển.
     
-    Adapt the following code to use your colour names:
+    Điều chỉnh mã sau để sử dụng tên màu của bạn:
     
-    ![screenshot](images/colourful-entries.png)
+    ![ảnh chụp màn hình](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Phím nằm bên trong dấu ngoặc vuông '[]' sau tên của từ điển.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Bây giờ bạn có thể cập nhật mã của mình để tìm kiếm các màu trong từ điển:
     
-    ![screenshot](images/colourful-use.png)
+    ![ảnh chụp màn hình](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Kiểm tra mã của bạn để đảm bảo văn bản của bạn vẫn hiển thị chính xác.
