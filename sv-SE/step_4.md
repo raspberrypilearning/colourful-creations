@@ -1,13 +1,13 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Fler färger!
+## Challenge: More colours!
 
-Kan du lägga till fler färger i din ordlista och prova dem? Använd <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> att hitta fler färger.
+Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
 
-Glöm inte att ge dina färger fantastiska namn.
+Don't forget to give your colours awesome names.
 
-Här är några exempelkod för att påminna dig hur du använder sköldpaddan:
+Here's some example code to remind you how to use the turtle:
 
-![skärmdump](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
-\--- /utmaning \---
+\--- /challenge \---
