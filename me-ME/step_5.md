@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Izazov: Izradi poster
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Dizajneri za određene teme, kao što su pustinja ili svemir, često osmisle 'paletu' boja koje dobro izgledaju zajedno.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Možeš li da izradiš novi projekat u Pythonu koji će koristiti rječnik u kojem se nalazi paleta boja za specifičnu temu? Možeš da odabereš jesen, šumu, more, Božić, sladoled, boje svog omiljenog sportskog tima ili bilo koju temu koju želiš.
 
-Create a poster using your colour palette dictionary.
+Izradi poster koristeći svoj rječnik boja.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Takođe, možeš koristiti ostale naredbe koje sadrži turtle i koje znaš, kao što su `forward`, `right`, `left`, `penup` i `pendown`.
 
-Maybe you could add a border to your poster?
+Možda svom posteru možeš da dodaš i okvir?
 
-Other useful turtle commands:
+Još neke korisne turtle naredbe:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` crta kružnicu poluprečnika 50.
++ `dot(100)` crta ispunjeni krug prečnika 100. 
 
-Here's an example:
+Evo jednog primjera:
 
 ![screenshot](images/colourful-finished.png)
 
