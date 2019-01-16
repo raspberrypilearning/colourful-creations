@@ -1,35 +1,35 @@
-## Кольоровий словник
+## A Colour Dictionary
 
-Використання шістнадцяткових кольорових кодів дійсно є гнучким, але вони важко запам'ятати.
+Using hex colour codes is really flexible but they are hard to remember.
 
-Як ви, напевно, вже знаєте, словник дозволяє шукати слово і бачити його значення. У Python словник ще більш гнучкий, що - це дозволяє шукати значення для будь-якого "ключа" у словнику.
+As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
 
-Давайте створимо словник для позначення кольорових імен (клавіш), які підійдуть людям, до шестигранних кодів (значень), доступних для роботи в комп'ютері.
+Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
 
-+ Словник міститься в фігурних дужках.
++ A dictionary is contained in curly brackets.
     
-    Створіть порожній словник з назвою `кольорів`:
+    Create an empty dictionary called `colours`:
     
-    ![скріншот](images/colourful-dict.png)
+    ![screenshot](images/colourful-dict.png)
 
-+ Виберіть прості імена для ваших кольорів та відредагуйте `colors =` рядок, щоб додати записи до словника для них.
++ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
     
-    Ось приклад словника кольорів:
+    Here's an example colour dictionary:
     
-    ![скріншот](images/colourful-colours.png)
+    ![screenshot](images/colourful-colours.png)
     
-    Колона `:` відокремлює ключ (ім'я кольору) від значення (шістнадцятковий код). Для кожної клавіші потрібна кома `,` : пари значення в словнику.
+    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
 
-+ Тепер вам не потрібно пам'ятати про шістнадцяткові коди, ви можете просто подивитися їх у словник.
++ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
     
-    Пристосувати наступний код, щоб використовувати ваші назви кольорів:
+    Adapt the following code to use your colour names:
     
-    ![скріншот](images/colourful-entries.png)
+    ![screenshot](images/colourful-entries.png)
     
-    Ключ у квадратних дужках "[]" після назви словника.
+    The key goes inside square brackets '[]' after the name of the dictionary.
 
-+ Тепер ви можете оновити свій код, щоб шукати кольори в словнику:
++ Now you can update your code to look up colours in the dictionary:
     
-    ![скріншот](images/colourful-use.png)
+    ![screenshot](images/colourful-use.png)
 
-+ Перевірте свій код, щоб переконатися, що ваш текст все ще відображається правильно.
++ Test your code to make sure your text still displays correctly.
