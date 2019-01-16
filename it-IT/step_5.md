@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Sfida: Crea un poster
+## Challenge: Create a poster
 
-I designer spesso creano una “tavolozza” di colori che stanno bene insieme per un tema particolare, come ad esempio il deserto oppure lo spazio.
+Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
 
-Puoi creare un nuovo progetto di Python che utilizza un dizionario per una tavolozza di colori a tema. Puoi scegliere l’autunno, il bosco, il mare, il Natale, i gelati, i colori della tua squadra preferita o qualsiasi altra idea preferisci.
+Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
 
-Crea un poster con il dizionario della tua tavolozza di colori.
+Create a poster using your colour palette dictionary.
 
-Puoi anche usare altri comandi della tartaruga che conosci, come `forward`, `right`, `left`, `penup` e `pendown`.
+You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
 
-E cosa ne dici di aggiungere anche una cornice al tuo poster?
+Maybe you could add a border to your poster?
 
-Ecco altri utili comandi tartaruga:
+Other useful turtle commands:
 
-+ `circle(50)` disegna il contorno di un cerchio di raggio 50.
-+ `dot(100)` disegna un cerchio pieno di diametro 100. 
++ `circle(50)` draws a circle outline with radius 50.
++ `dot(100)` draws a filled in circle with diameter 100. 
 
-Ecco un esempio:
+Here's an example:
 
 ![screenshot](images/colourful-finished.png)
 
