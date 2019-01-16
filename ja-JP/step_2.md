@@ -1,33 +1,33 @@
-## ヘックス・カラー・コードを使おう
+## Using hex colour codes
 
-Pythonタートルには事前に定義された赤や白の色があるが、ヘックス・カラー・コードを使用することも可能である。
+Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
 
-+ Pythonの空白テンプレートを開き：<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ タートルを使うための次の設定コードを追加する：
++ Add the following set up code for using the turtle:
     
-    ![スクリーンショット](images/colourful-setup.png)
+    ![screenshot](images/colourful-setup.png)
     
-    色の名称”white”(白)を使用したことに注目してください。
+    Notice that you used a named colour: 'white'.
 
-+ タートルには利用可能な色のリストがありますが、時には自分で選んだ色を使いたい時もあります。 タートルはこの場合、ヘックス・カラー・コードの利用が可能です。
++ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
     
-    <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> を開き、使用したい色を選択する。 それぞれの#で始まるヘックス・コードを探してください。例えば、#A7E30E。
+    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ ヘックス・コードを#を含む状態でハイライトし、右クリックでコピーを選択してコピーしてください。それかCtrl-Cでコピー。
++ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ これで画面上の色を設定するコードを変更してください。 例えば:
++ Now change the line of code that sets the screen colour to use your colour. For example:
     
-    ![スクリーンショット](images/colourful-background.png)
+    ![screenshot](images/colourful-background.png)
     
-    右クリックで貼り付けかCtrl-Vでtrinketにヘックスコードを貼り付けることができます。
+    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
-+ 別のヘックス・カラー・コードを選び、色が付いたテキストを作ろう。
++ Choose another hex colour code and use it to create coloured text:
     
-    ![スクリーンショット](images/colourful-write.png)
+    ![screenshot](images/colourful-write.png)
     
-    Arialフォントを使用する必要はない、Verdana, TimesかCourierを試しても問題ない。
+    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
     
-    フォント・サイズも40に設定されているが、それを変更することも可能。
+    '40' is the font size, you can try changing that too.
 
-+ 様々な色を試し、自分が好きな2つの色の組み合わせができるまで試そう。
++ Try different colours until you get two that you really like that look good together.
