@@ -1,29 +1,29 @@
 ---
 hero_image: images/colourful-creations.png
-theme: jaune
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, conception-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
-title: Créations colorées
-description: Crée tes propres couleurs personalisées, et utilise les pour créer un poster haut en couleurs.
-original_url: https://codeclubprojects.org/fr-FR/python/colourful-creations/
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Colourful Creations
+description: Create your own custom colours, and use them to create a colourful poster.
+original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
-site_areas: projets
+site_areas: projects
 hardware: ''
 software: python
 version: 3
-last_tested: 01-01-2017
+last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
   - 
-    title: Utilisation des codes hexadécimaux de couleurs
+    title: Using hex colour codes
   - 
-    title: Un dictionnaire de couleurs
+    title: A Colour Dictionary
   - 
-    title: 'Défi : Plus de couleurs !'
+    title: 'Challenge: More colours!'
   - 
-    title: 'Défi : Crée un affiche'
+    title: 'Challenge: Create a poster'
