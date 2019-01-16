@@ -1,29 +1,29 @@
 ---
-hero_image: Kuvien / värikäs-creations.png
-theme: keltainen
+hero_image: images/colourful-creations.png
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, ohjelmointi-1, phys-comp-0, valmistus-0, yhteisö-0
-title: Värikäs luomukset
-description: Luo omat värilliset värit ja käytä niitä luomalla värikäs juliste.
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Colourful Creations
+description: Create your own custom colours, and use them to create a colourful poster.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
-interests: taide
-technologies: pytonkäärme
-site_areas: hankkeet
+interests: art
+technologies: python
+site_areas: projects
 hardware: ''
-software: pytonkäärme
+software: python
 version: 3
-last_tested: 01.1.2017
+last_tested: 2017-01-01
 steps:
   - 
-    title: esittely
+    title: Introduction
   - 
-    title: Käytä heksadesimaaleja
+    title: Using hex colour codes
   - 
-    title: Väri-sanakirja
+    title: A Colour Dictionary
   - 
-    title: 'Haaste: Lisää värejä!'
+    title: 'Challenge: More colours!'
   - 
-    title: 'Haaste: Luo juliste'
+    title: 'Challenge: Create a poster'
