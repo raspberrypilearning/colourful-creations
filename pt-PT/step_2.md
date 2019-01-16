@@ -1,33 +1,33 @@
-## Usando códigos de cores hexadecimais
+## Using hex colour codes
 
-A tartaruga Python tem cores predefinidas, como 'vermelho' e 'branco', mas você também pode usar códigos de cor hexadecimais (você pode ter visto isso no curso de CSS do HTML &).
+Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
 
-+ Abra o modelo Trinket em branco do Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Adicione o seguinte código de configuração para usar a tartaruga:
++ Add the following set up code for using the turtle:
     
-    ![captura de tela](images/colourful-setup.png)
+    ![screenshot](images/colourful-setup.png)
     
-    Observe que você usou uma cor nomeada: 'branco'.
+    Notice that you used a named colour: 'white'.
 
-+ Tartaruga tem uma lista de nomes de cores que você pode usar, mas às vezes você quer escolher suas próprias cores. Tartaruga também permite que você use códigos de cores hexadecimais.
++ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
     
-    Abra <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> e escolha a cor que preferir. Encontre o código hexadecimal que começa com um '#', como '# A7E30E'.
+    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ Copie o código hexadecimal, incluindo o hash, realçando-o e, em seguida, clicando com o botão direito e escolhendo Copiar ou usando Ctrl-C.
++ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ Agora mude a linha de código que define a cor da tela para usar sua cor. Por exemplo:
++ Now change the line of code that sets the screen colour to use your colour. For example:
     
-    ![captura de tela](images/colourful-background.png)
+    ![screenshot](images/colourful-background.png)
     
-    Você pode usar o botão direito do mouse e colar ou Ctrl-V para colar o código hexadecimal em trinket.
+    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
-+ Escolha outro código de cor hexadecimal e use-o para criar texto colorido:
++ Choose another hex colour code and use it to create coloured text:
     
-    ![captura de tela](images/colourful-write.png)
+    ![screenshot](images/colourful-write.png)
     
-    Você não tem que usar a fonte 'Arial', você pode tentar 'Verdana', 'Times' ou 'Courier'.
+    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
     
-    '40' é o tamanho da fonte, você pode tentar mudar isso também.
+    '40' is the font size, you can try changing that too.
 
-+ Experimente cores diferentes até obter duas que realmente gostem e que combinem bem.
++ Try different colours until you get two that you really like that look good together.
