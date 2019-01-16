@@ -1,24 +1,24 @@
-\--- challenge \---
+\--- haaste \---
 
-## Challenge: Create a poster
+## Haaste: Luo juliste
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Suunnittelijat luovat usein "paletin" värejä, jotka toimivat hyvin yhteen tietyn teeman, kuten aavikon tai avaruuden.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Voitteko luoda uuden Python-projektin, joka käyttää sanakirjaa teemoitusta värivalikosta. Voit valita syksyn, metsän, meren, joulun, jäätelön, suosikkiurheilijan värit tai oman idean.
 
-Create a poster using your colour palette dictionary.
+Luo juliste väripaletti-sanakirjasi avulla.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Voit käyttää myös muita kilpikonna-komentoja, jotka tunnet, kuten `eteenpäin`, `oikealle`, `jäljellä`, `penup` ja `legenda`.
 
-Maybe you could add a border to your poster?
+Ehkä voisit lisätä reunuksen julisteeseen?
 
-Other useful turtle commands:
+Muita hyödyllisiä kilpikonna-komentoja:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `ympyrä (50)` piirtää ympyrän ääriviivat säteen 50 kanssa.
++ `piste (100)` piirtää täytetyn ympyrän halkaisija 100. 
 
-Here's an example:
+Tässä on esimerkki:
 
-![screenshot](images/colourful-finished.png)
+![kuvakaappaus](images/colourful-finished.png)
 
-\--- /challenge \---
+\--- /haaste \---
