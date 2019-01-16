@@ -1,13 +1,13 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Lisää värejä!
+## Challenge: More colours!
 
-Voitteko lisätä lisää värejä sanakirjaan ja kokeilla niitä? Käytä <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> löytää lisää värejä.
+Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
 
-Älä unohda antaa väreillesi mahtavia nimiä.
+Don't forget to give your colours awesome names.
 
-Tässä on muutamia esimerkkikoodia, joka muistuttaa sinua siitä, miten turtleja käytetään:
+Here's some example code to remind you how to use the turtle:
 
-![kuvakaappaus](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
-\--- /haaste \---
+\--- /challenge \---
