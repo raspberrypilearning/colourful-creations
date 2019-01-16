@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Izazov: Još boja!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Možeš li da dodaš još boja u svoj rječnik i da ih isprobaš? Koristi <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> da pronađeš još boja.
 
-Don't forget to give your colours awesome names.
+Ne zaboravi da svojim bojama daš fenomenalne nazive.
 
-Here's some example code to remind you how to use the turtle:
+Evo primjera kôda da se podsjetiš kako da koristiš turtle:
 
 ![screenshot](images/colourful-challenge1.png)
 
