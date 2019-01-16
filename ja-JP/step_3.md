@@ -1,35 +1,35 @@
-## 色のディクショナリ
+## A Colour Dictionary
 
-ヘックス・カラー・コードの使い方は様々ではあるが、思い出すのが難しい。
+Using hex colour codes is really flexible but they are hard to remember.
 
-もうすでにご存じだと思うが、辞書は言葉の意味を調べることを可能にする。 Pythonでの辞書(ディクショナリ)はそれより柔軟であり、ディクショナリにあるキーに対する値を調べることを可能にする。
+As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
 
-人間が理解する色のキーとコンピューター向けのヘックスコード(値)を結びつけるディクショナリを作ってみよう。
+Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
 
-+ ディクショナリは{ }に含まれる。
++ A dictionary is contained in curly brackets.
     
-    Coloursの題名で空白のディクショナリを作る。
+    Create an empty dictionary called `colours`:
     
-    ![スクリーンショット](images/colourful-dict.png)
+    ![screenshot](images/colourful-dict.png)
 
-+ 色のかっこいい名称を選び、ディクショナリに追加するためにcoloursの列を編集する。
++ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
     
-    これが色のディクショナリの例である：
+    Here's an example colour dictionary:
     
-    ![スクリーンショット](images/colourful-colours.png)
+    ![screenshot](images/colourful-colours.png)
     
-    “`:` ”はキー(色の名称)と値(ヘックスコード)を分ける。各キーと値の間には”`,`”が必要です。
+    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
 
-+ これで、ヘックスコードを覚える必要がなく、ディクショナリで検索すればいいようになりました。
++ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
     
-    色のキーを使用するために次のコードを適合させる。
+    Adapt the following code to use your colour names:
     
-    ![スクリーンショット](images/colourful-entries.png)
+    ![screenshot](images/colourful-entries.png)
     
-    キーはディクショナリの名称の後に”[ ]”の中に入る。
+    The key goes inside square brackets '[]' after the name of the dictionary.
 
-+ これでディクショナリの中の色を検索するようにコードを修正できる。
++ Now you can update your code to look up colours in the dictionary:
     
-    ![スクリーンショット](images/colourful-use.png)
+    ![screenshot](images/colourful-use.png)
 
-+ テキストがまだ正常に表示されることを確認するために修正したコードをテストしてください。
++ Test your code to make sure your text still displays correctly.
