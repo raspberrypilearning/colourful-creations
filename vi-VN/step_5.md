@@ -1,24 +1,24 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Tạo một áp phích
+## Challenge: Create a poster
 
-Các nhà thiết kế thường tạo ra một 'bảng màu' các màu sắc hoạt động tốt với nhau cho một chủ đề cụ thể như sa mạc hoặc không gian.
+Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
 
-Bạn có thể tạo một dự án Python mới sử dụng từ điển cho một bảng màu theo chủ đề không. Bạn có thể chọn mùa thu, rừng, biển, Giáng sinh, kem, màu sắc của đội thể thao yêu thích của bạn hoặc ý tưởng của riêng bạn.
+Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
 
-Tạo một áp phích bằng cách sử dụng từ điển bảng màu của bạn.
+Create a poster using your colour palette dictionary.
 
-Bạn cũng có thể sử dụng các lệnh rùa khác mà bạn biết như `về phía trước`, `phải`, `trái`, `penup` và `pendown`.
+You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
 
-Có lẽ bạn có thể thêm một biên giới để áp phích của bạn?
+Maybe you could add a border to your poster?
 
-Các lệnh rùa hữu ích khác:
+Other useful turtle commands:
 
-+ `vòng tròn (50)` vẽ đường viền vòng tròn với bán kính 50.
-+ `chấm (100)` vẽ một vòng tròn chứa đầy đường kính 100. 
++ `circle(50)` draws a circle outline with radius 50.
++ `dot(100)` draws a filled in circle with diameter 100. 
 
-Đây là một ví dụ:
+Here's an example:
 
-![ảnh chụp màn hình](images/colourful-finished.png)
+![screenshot](images/colourful-finished.png)
 
-\--- /thử thách \---
+\--- /challenge \---
