@@ -1,6 +1,6 @@
-## Introduction
+## Introduktion
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+I det här projektet skapar du en ordbok med färger som kartlägger svårt att komma ihåg färgkoder till vänliga namn.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Ytterligare information för klubbledare
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Om du behöver skriva ut det här projektet, använd [Utskriftsvänlig version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- collapse \---
+## \--- kollaps \---
 
-## title: Club leader notes
+## titel: Klubbledarens anteckningar
 
-## Introduction:
+## Introduktion:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Detta projekt introducerar ordböcker genom att skapa en ordlista som kartlägger från mänskliga vänliga färgnamn till hex-koder. Färgkoderna ses sedan i ordlistan och brukade skapa en färgstark affisch.
 
 ## Online Resources
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Detta projekt använder Python 3.** Vi rekommenderar att du använder [trinket](https://trinket.io/) att skriva Python online. Projektet innehåller följande prenumerationer:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ["Färgglada skapelser" utgångspunkt - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+Det finns också en prydnad som innehåller en provlösning till utmaningarna:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Färgglada skapelser' färdiga - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
 ## Offline Resources
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Detta projekt kan [fullföljas offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) om det är önskvärt. Du kan komma åt projektresurserna genom att klicka på länken "Projektmaterial" för projektet. Den här länken innehåller en sektion "Projektresurser", som innehåller resurser som barnen kommer att behöva för att slutföra projektet offline. Se till att varje barn har tillgång till en kopia av dessa resurser. Det här avsnittet innehåller följande filer:
 
-* colourful-creations/colourful-creations.py
+* färgrik-creations / colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Du kan också hitta en färdig version av projektets utmaningar i avsnittet om frivilliga resurser, som innehåller:
 
-* colourful-creations-finished/colourful-creations.py
+* färgrik-creations-färdiga / colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Alla resurser ovan är också nedladdnings som projekt och volontär `.zip` filer.)
 
-## Learning Objectives
+## Lärandemål
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Ordböcker - skapa och slå upp värden;
+* Sköldpaddsgrafik - text, teckensnitt och färger;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Detta projekt omfattar element från följande strängar av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Använd grundläggande programmeringskonstruktioner för att skapa enkla program.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Utforma grundläggande 2D- och 3D-tillgångar.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Utmaningar
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Fler färger! - Använd en färgväljars webbplats för att hitta hexokoder för fler färger och lägg till dem i en ordlista. 
+* Skapa en affisch - Skapa en anpassad färgpalettordlista och använd den för att skapa en affisch med Turtle-grafik. 
 
-## Frequently Asked Questions
+## Vanliga frågor
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Barn kan behöva påminna om kommatecken "," i slutet av varje ordbokspost. 
 
-\--- /collapse \---
+\--- /kollaps \---
 
-## \--- collapse \---
+## \--- kollaps \---
 
-## title: Project materials
+## titel: Projektmaterial
 
-## Project resources
+## Projektresurser
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
+* [.zip-fil som innehåller alla projektresurser](resources/colourful-creations-project-resources.zip)
 * [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [Offline blank Python-fil](resources/new-new.py)
 
-## Club leader resources
+## Klubbledare resurser
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
-* [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
+* [.zip-fil som innehåller alla färdiga projektresurser](resources/colourful-creations-volunteer-resources.zip)
+* [Online-slutförd Trinket-projektet](https://trinket.io/python/41a99e668b)
+* [färgrik-creations-färdiga / colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- /collapse \---
+\--- /kollaps \---
