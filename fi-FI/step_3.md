@@ -1,35 +1,35 @@
-## Väri-sanakirja
+## A Colour Dictionary
 
-Hex-värikoodien käyttäminen on todella joustavaa, mutta niitä on vaikea muistaa.
+Using hex colour codes is really flexible but they are hard to remember.
 
-Kuten luultavasti tiedät, sanakirjan avulla voit etsiä sanaa ja nähdä sen merkityksen. Pythonissa sanakirja on vielä joustavampi kuin se - sen avulla voit etsiä arvosta minkä tahansa sanan "avain".
+As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
 
-Luodaan sanakirja karttaamaan ihmisläheisistä värinimistä (avaimet) tietokoneohjattuihin hex-koodeihin (arvoihin).
+Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
 
-+ Sanakirja sisältyy kiin- teisiin suluihin.
++ A dictionary is contained in curly brackets.
     
-    Luo tyhjä sanakirja nimeltä `värit`:
+    Create an empty dictionary called `colours`:
     
-    ![kuvakaappaus](images/colourful-dict.png)
+    ![screenshot](images/colourful-dict.png)
 
-+ Valitse viileä nimiä väreillesi ja muokkaa `väriä =` rivi lisätäksesi merkinnät sanakirjaan niille.
++ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
     
-    Tässä on esimerkki värisanakirja:
+    Here's an example colour dictionary:
     
-    ![kuvakaappaus](images/colourful-colours.png)
+    ![screenshot](images/colourful-colours.png)
     
-    Paksusuoli `:` erottaa avaimen (värin nimi) arvosta (heksakoodi). Tarvitset pilkun `,` kunkin avaimen välillä: arvoepari sanakirjassa.
+    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
 
-+ Nyt sinun ei tarvitse muistaa hex-koodeja, voit vain etsiä niitä sanakirjasta.
++ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
     
-    Käytä värinimiä seuraavalla koodilla:
+    Adapt the following code to use your colour names:
     
-    ![kuvakaappaus](images/colourful-entries.png)
+    ![screenshot](images/colourful-entries.png)
     
-    Avain kulkee suluissa "[]" sanakirjan nimen jälkeen.
+    The key goes inside square brackets '[]' after the name of the dictionary.
 
-+ Nyt voit päivittää koodisi etsiäksesi värejä sanakirjassa:
++ Now you can update your code to look up colours in the dictionary:
     
-    ![kuvakaappaus](images/colourful-use.png)
+    ![screenshot](images/colourful-use.png)
 
-+ Tarkista koodisi varmistaaksesi, että teksti näkyy edelleen oikein.
++ Test your code to make sure your text still displays correctly.
