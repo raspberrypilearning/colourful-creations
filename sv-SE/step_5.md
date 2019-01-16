@@ -1,24 +1,24 @@
-\--- challenge \---
+\--- utmaning \---
 
-## Challenge: Create a poster
+## Utmaning: Skapa en affisch
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Designers skapar ofta en "palett" av färger som fungerar bra tillsammans för ett visst tema som öknen eller rymden.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Kan du skapa ett nytt Python-projekt som använder en ordlista för en teman färgpalett. Du kan välja höst, skog, hav, jul, glass, ditt favoritsporters färger eller en egen idé.
 
-Create a poster using your colour palette dictionary.
+Skapa en affisch med hjälp av din färgpalettordlista.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Du kan också använda andra sköldpaddkommandon som du vet, t.ex. `framåt`, `höger`, `kvar`, `penup` och `pendown`.
 
-Maybe you could add a border to your poster?
+Kanske kan du lägga till en gräns till din affisch?
 
-Other useful turtle commands:
+Andra användbara sköldpadda kommandon:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `cirkel (50)` ritar en cirkelplan med radie 50.
++ `dot (100)` drar en fylld cirkel med diameter 100. 
 
-Here's an example:
+Här är ett exempel:
 
-![screenshot](images/colourful-finished.png)
+![skärmdump](images/colourful-finished.png)
 
-\--- /challenge \---
+\--- /utmaning \---
