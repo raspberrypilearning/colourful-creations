@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## 挑战：制作一张海报
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+设计师们经常创造“调色板”来保存各种为某些特定主题如沙漠或太空而设定的相互搭配的颜色。
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+你能够创建一个新的Python项目，使用字典来设置一个主题色彩的调色板吗？ 你可以选择秋天、森林、大海、圣诞节、冰淇淋、你最喜欢的运动队的颜色或者任何你自己的想法。
 
-Create a poster using your colour palette dictionary.
+使用你的调色板字典来制作一张海报。
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+你还可以使用一些其它的来自于turtle模块的命令，如`forward`，`right`，`left`，`penup`以及`pendown`。
 
-Maybe you could add a border to your poster?
+也许你可以为你的海报添加边框？
 
-Other useful turtle commands:
+其他有用的turtle模块中的命令：
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)`画出一个半径为50的空心圆圈。
++ `dot(100)`画出一个直径为100的实心圆。 
 
-Here's an example:
+下面是一个例子：
 
-![screenshot](images/colourful-finished.png)
+![截图](images/colourful-finished.png)
 
-\--- /challenge \---
+\--- challenge \---
