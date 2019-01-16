@@ -1,33 +1,33 @@
-## Använda hex färgkoder
+## Using hex colour codes
 
-Python sköldpadda har fördefinierade färger som "röd" och "vit" men du kan också använda hex färgkoder (du kan ha sett dessa i HTML & CSS kursen.)
+Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
 
-+ Öppna den tomma Python-mallen. Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Lägg till följande inställningskod för att använda sköldpaddan:
++ Add the following set up code for using the turtle:
     
-    ![skärmdump](images/colourful-setup.png)
+    ![screenshot](images/colourful-setup.png)
     
-    Observera att du använde en namngiven färg: "vit".
+    Notice that you used a named colour: 'white'.
 
-+ Turtle har en lista med färgnamn som du kan använda, men ibland vill du välja dina egna färger. Turtle kan du också använda hex färgkoder.
++ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
     
-    Öppna <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colourpicker</a> och välj färg du vill ha. Hitta det hex-kod som börjar med en "#", till exempel "# A7E30E".
+    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ Kopiera hex-koden, inklusive hash, genom att markera den och högerklicka och välj Kopiera eller använd Ctrl-C.
++ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ Ändra nu koden som anger skärmfärgen för att använda din färg. Till exempel:
++ Now change the line of code that sets the screen colour to use your colour. For example:
     
-    ![skärmdump](images/colourful-background.png)
+    ![screenshot](images/colourful-background.png)
     
-    Du kan högerklicka och klistra in eller Ctrl-V för att klistra in din hex-kod i pricket.
+    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
-+ Välj en annan hex färgkod och använd den för att skapa färgad text:
++ Choose another hex colour code and use it to create coloured text:
     
-    ![skärmdump](images/colourful-write.png)
+    ![screenshot](images/colourful-write.png)
     
-    Du behöver inte använda teckensnittet 'Arial', du kan försöka 'Verdana', 'Times' eller 'Courier'.
+    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
     
-    '40' är teckenstorleken, du kan försöka ändra det också.
+    '40' is the font size, you can try changing that too.
 
-+ Prova olika färger tills du får två som du gillar det ser bra ut tillsammans.
++ Try different colours until you get two that you really like that look good together.
