@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafio: Criar um pôster
+## Desafio: Crie um pôster
 
 Designers geralmente criam uma 'paleta' de cores que funcionam bem juntas para um tema específico, como deserto ou espaço.
 
