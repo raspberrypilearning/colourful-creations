@@ -1,4 +1,4 @@
-## 简介
+## 介绍
 
 在这个项目中，你将创建一个颜色字典，将难以记忆的颜色代码映射到易于理解的颜色名。
 
@@ -8,17 +8,17 @@
   <img src="images/colourful-finished.png">
 </div>
 
-### 导师附加信息
+### 俱乐部导师的附加信息
 
-如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/colourful-creations/print)。
+如果您需要打印此项目，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/colourful-creations/print) 。
 
 ## \--- collapse \---
 
-## title: 导师笔记
+## title: 俱乐部导师说明
 
-## 简介
+## 介绍：
 
-该项目通过创建一个将人性化颜色名映射到十六进制颜色代码的字典来介绍字典。 然后从字典中找到颜色代码并用其创建一张色彩斑斓的海报。
+该项目通过创建一个将容易记住的颜色名映射到十六进制颜色代码的字典来介绍字典。 然后从字典中找到颜色代码并用其创建一张色彩斑斓的海报。
 
 ## 在线资源
 
@@ -32,7 +32,7 @@
 
 ## 离线资源
 
-如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的'项目资料'链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都能获取了这些资源。 这部分包含如下文件：
+如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的'项目资料'链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都能获得这些资源。 这部分包含如下文件：
 
 * colourful-creations/colourful-creations.py
 
@@ -44,7 +44,7 @@
 
 ## 学习目标
 
-* 字典 - 创建并查找值;
+* 字典 - 创建并查找键值;
 * 乌龟图形 - 文本，字体和颜色;
 
 本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
@@ -74,7 +74,7 @@
 * [在线空白Python Trinket项目](http://jumpto.cc/python-new)
 * [离线空白Python文件](resources/new-new.py)
 
-## 导师资源
+## 俱乐部导师资源
 
 * [包含所有完整版项目资源的.zip压缩包](resources/colourful-creations-volunteer-resources.zip)
 * [在线完整版Trinket项目](https://trinket.io/python/41a99e668b)
