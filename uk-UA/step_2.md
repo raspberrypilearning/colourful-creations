@@ -1,33 +1,33 @@
-## Використання шестигранних кодів
+## Using hex colour codes
 
-Черепаха Python має попередньо встановлені кольори, такі як "червоний" та "білий", але ви також можете використовувати шістнадцяткові кольорові коди (можливо, ви побачили їх у курсі HTML & HTML).
+Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
 
-+ Відкрийте пустий шаблон Python Брелок: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Додайте наступний налаштований код для користування черепахою:
++ Add the following set up code for using the turtle:
     
-    ![скріншот](images/colourful-setup.png)
+    ![screenshot](images/colourful-setup.png)
     
-    Зверніть увагу, що ви використовували іменований колір: 'білий'.
+    Notice that you used a named colour: 'white'.
 
-+ Черепаха має список імен кольорів, які ви можете використовувати, але іноді ви хочете вибрати власні кольори. Черепаха також дозволяє використовувати шістнадцяткові колірні коди.
++ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
     
-    Відкрийте <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> і виберіть колір, який вам подобається. Знайдіть його шістнадцятковий код, який починається з "#", наприклад, "# A7E30E".
+    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ Скопіюйте шістнадцятковий код, включаючи хеш, виділіть його, а потім клацніть правою кнопкою миші та оберіть Копіювати або скористайтеся комбінацією клавіш Ctrl-C.
++ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ Тепер змініть рядок коду, який встановлює колір екрана, щоб використовувати колір. Наприклад:
++ Now change the line of code that sets the screen colour to use your colour. For example:
     
-    ![скріншот](images/colourful-background.png)
+    ![screenshot](images/colourful-background.png)
     
-    Ви можете використовувати клацання правою кнопкою миші та вставити або Ctrl-V, щоб вставити свій шестигранний код в брелок.
+    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
-+ Виберіть інший шістнадцятковий колір та використайте його для створення кольорового тексту:
++ Choose another hex colour code and use it to create coloured text:
     
-    ![скріншот](images/colourful-write.png)
+    ![screenshot](images/colourful-write.png)
     
-    Вам не потрібно використовувати шрифт Arial, ви можете спробувати "Verdana", "Times" або "Courier".
+    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
     
-    '40' - це розмір шрифту, ви також можете спробувати змінити його.
+    '40' is the font size, you can try changing that too.
 
-+ Спробуйте різні кольори, поки не отримаєте двох, які вам дійсно подобаються, виглядайте добре разом.
++ Try different colours until you get two that you really like that look good together.
