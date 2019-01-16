@@ -1,6 +1,6 @@
-## Giới thiệu
+## Introduction
 
-Trong dự án này, bạn sẽ tạo ra một từ điển màu sắc mà bản đồ khó nhớ mã màu thành tên thân thiện.
+In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ Trong dự án này, bạn sẽ tạo ra một từ điển màu sắc mà bản
   <img src="images/colourful-finished.png">
 </div>
 
-### Thông tin bổ sung cho các nhà lãnh đạo câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, hãy sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú của leader club
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
-Dự án này giới thiệu các từ điển bằng cách tạo một từ điển ánh xạ từ các tên màu thân thiện với con người tới các mã hex. Các mã màu sau đó được tra cứu trong từ điển và được sử dụng để tạo ra một poster đầy màu sắc.
+This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
 
-## Những nguồn thông tin trên mạng
+## Online Resources
 
-**Dự án này sử dụng Python 3.** Chúng tôi khuyên bạn nên sử dụng [trinket](https://trinket.io/) để viết Python trực tuyến. Dự án này chứa các nữ trang sau đây:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [Điểm xuất phát 'Colorful Creations' - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Ngoài ra còn có một vật đính kèm chứa một giải pháp mẫu cho những thách thức:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Đầy màu sắc sáng tạo' hoàn thành - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Tài nguyên ngoại tuyến
+## Offline Resources
 
-Dự án này có thể là [hoàn thành ngoại tuyến](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) nếu được ưu tiên. Bạn có thể truy cập tài nguyên dự án bằng cách nhấp vào liên kết 'Tài liệu Dự án' cho dự án này. Liên kết này chứa phần 'Tài nguyên dự án', bao gồm các tài nguyên mà trẻ em sẽ cần để hoàn thành dự án này ngoại tuyến. Đảm bảo rằng mỗi đứa trẻ đều có quyền truy cập vào một bản sao của các tài nguyên này. Phần này bao gồm các tệp sau:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* colorful-creations / colourful-creations.py
+* colourful-creations/colourful-creations.py
 
-Bạn cũng có thể tìm thấy một phiên bản hoàn chỉnh của những thách thức của dự án này trong phần 'Tài nguyên tình nguyện', trong đó có:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* colorful-creations-finished / colourful-creations.py
+* colourful-creations-finished/colourful-creations.py
 
-(Tất cả các tài nguyên trên cũng có thể tải xuống dưới dạng dự án và tình nguyện viên `.zip` tệp.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Mục tiêu học tập
+## Learning Objectives
 
-* Từ điển - tạo và tra cứu các giá trị;
-* Đồ họa rùa - văn bản, phông chữ và màu sắc;
+* Dictionaries - creating and looking up values;
+* Turtle graphics - text, fonts and colours;
 
-Dự án này bao gồm các yếu tố từ các chuỗi sau đây của [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Thiết kế các tài sản 2D và 3D cơ bản.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Thách thức
+## Challenges
 
-* Nhiều màu sắc hơn! - Sử dụng trang web trình chọn màu để tìm mã hex cho nhiều màu hơn và thêm chúng vào từ điển. 
-* Tạo một áp phích - Tạo một từ điển bảng màu tùy chỉnh và sử dụng nó để tạo ra một áp phích bằng cách sử dụng đồ họa Rùa. 
+* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
+* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
 
-## Các câu hỏi thường gặp
+## Frequently Asked Questions
 
-* Trẻ em có thể cần nhắc nhở về dấu phẩy ',' ở cuối mỗi mục từ điển. 
+* Children may need reminding about the comma ',' at the end of each dictionary entry. 
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu dự án
+## title: Project materials
 
-## Tài nguyên dự án
+## Project resources
 
-* [tệp .zip chứa tất cả tài nguyên dự án](resources/colourful-creations-project-resources.zip)
-* [Trực tuyến trống Python Trinket](http://jumpto.cc/python-new)
-* [Tệp Python trống ngoại tuyến](resources/new-new.py)
+* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## Tài nguyên lãnh đạo câu lạc bộ
+## Club leader resources
 
-* [tệp .zip chứa tất cả tài nguyên dự án đã hoàn thành](resources/colourful-creations-volunteer-resources.zip)
-* [Dự án Trinket hoàn thành trực tuyến](https://trinket.io/python/41a99e668b)
-* [colorful-creations-finished / colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
+* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
