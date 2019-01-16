@@ -1,33 +1,33 @@
-## Using hex colour codes
+## Käytä heksadesimaaleja
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Python-kilpikonna on ennalta määritellyt värit, kuten "punainen" ja "valkoinen", mutta voit myös käyttää heksadesimaaleja (olet ehkä nähnyt nämä HTML & CSS -kurssissa).
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Avaa tyhjä Python-mallipohja Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Lisää seuraava asetuskoodi kilpikonnien käyttämiseen:
     
-    ![screenshot](images/colourful-setup.png)
+    ![kuvakaappaus](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    Huomaa, että käytit nimettyä väriä: "valkoinen".
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Turtle on luettelo värin nimiä, joita voit käyttää, mutta joskus haluat valita omat värit. Turtle mahdollistaa myös hex-värikoodien käytön.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    Avaa <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> ja valitse haluamasi väri. Etsi se kuusikoodi, joka alkaa "#", kuten "# A7E30E".
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ Kopioi hex-koodi, mukaanlukien hash, korostamalla se ja napsauttamalla sitten hiiren kakkospainikkeella Kopiota tai Ctrl-C-näppäintä.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Muuta nyt koodin riviä, joka määrittää näytön värin käyttämään väriä. Esimerkiksi:
     
-    ![screenshot](images/colourful-background.png)
+    ![kuvakaappaus](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    Voit napsauttaa hiiren kakkospainikkeella ja Liitä tai Ctrl-V liittääksesi heksadesimaalin koodin rihkamaaseen.
 
-+ Choose another hex colour code and use it to create coloured text:
++ Valitse toinen heksadesimaalivärikoodi ja käytä sitä värillisen tekstin luomiseen:
     
-    ![screenshot](images/colourful-write.png)
+    ![kuvakaappaus](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Sinun ei tarvitse käyttää Arial-fonttia, voit yrittää Verdana, Times tai Courier.
     
-    '40' is the font size, you can try changing that too.
+    "40" on fonttikoko, voit yrittää muuttaa sitä myös.
 
-+ Try different colours until you get two that you really like that look good together.
++ Kokeile eri värejä, kunnes saat kaksi, jotka todella pitävät siitä hyvältä.
