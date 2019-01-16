@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## チャレンジ：もっと色！
+## Challenge: More colours!
 
-ディクショナリにもっと色を追加して試してみてください。 <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> を使ってもっと色を探してみてください。
+Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
 
-色にかっこいい名称を付けるのも忘れないでね。
+Don't forget to give your colours awesome names.
 
-タートルの使い方の復習としてコードの例：
+Here's some example code to remind you how to use the turtle:
 
-![スクリーンショット](images/colourful-challenge1.png)
+![screenshot](images/colourful-challenge1.png)
 
 \--- /challenge \---
