@@ -1,6 +1,6 @@
-## Вступ
+## Introduction
 
-У цьому проекті ви створите словник кольорів, який карту важко запам'ятати кольорові коди в дружні імена.
+In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@
   <img src="images/colourful-finished.png">
 </div>
 
-### Додаткова інформація для лідерів клубу
+### Additional information for club leaders
 
-Якщо вам потрібно надрукувати цей проект, скористайтеся [Версія для друку](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
-## \--- колапс \---
+## \--- collapse \---
 
-## title: Керівник клубу відзначає
+## title: Club leader notes
 
-## Введення:
+## Introduction:
 
-Цей проект впроваджує словники, створюючи словник, який відображає назви кольорів від когось до шістнадцяткових кодів. Потім кольорові коди шукають у словнику та використовують для створення кольорового плаката.
+This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
 
-## Інтернет-ресурси
+## Online Resources
 
-**Цей проект використовує Python 3.** Ми рекомендуємо використовувати [trinket](https://trinket.io/) для написання Python в Інтернеті. Цей проект містить наступні брелки:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [Початкова точка 'Colorful Creations' - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Існує також дрібничок, що містить вибіркове рішення для вирішення проблем:
+There is also a trinket containing a sample solution to the challenges:
 
-* ["Барвисті твори" завершено - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
 
-## Офісні ресурси
+## Offline Resources
 
-Цей проект може бути [завершений автономно](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , якщо воно є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси проекту", який включає в себе ресурси, необхідні для завершення цього проекту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* барвисті творіння / colorful-creations.py
+* colourful-creations/colourful-creations.py
 
-Ви також можете знайти завершену версію викликів цього проекту у розділі "Ресурси волонтерів", яка містить:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* кольорові творіння-закінчені / colorful-creations.py
+* colourful-creations-finished/colourful-creations.py
 
-(Всі вищезазначені ресурси також можна завантажувати як проекти та добровільні `.zip` файли.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Мета навчання
+## Learning Objectives
 
-* Словники - створення та відображення цінностей;
-* Черепаха графіка - текст, шрифти і кольори;
+* Dictionaries - creating and looking up values;
+* Turtle graphics - text, fonts and colours;
 
-Цей проект охоплює елементи з наступних напрямків програми [Малярка Пі-Бі-Сі.](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Використовуйте базові конструкторські програми для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Розробіть основні 2D та 3D атрибути.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Виклики
+## Challenges
 
-* Більше кольорів! - Використовуйте веб-сайт із вибором кольорів, щоб знайти шестиконечні коди для отримання додаткових кольорів та додати їх до словника. 
-* Створення плаката. Створіть власний словник із кольоровою палітрою та використовуйте його для створення плаката з графікою черепахи. 
+* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
+* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
 
-## Питання що часто задаються
+## Frequently Asked Questions
 
-* Дітям, можливо, буде потрібно нагадувати про коми "," в кінці кожного словарного запису. 
+* Children may need reminding about the comma ',' at the end of each dictionary entry. 
 
-\--- / колапс \---
+\--- /collapse \---
 
-## \--- колапс \---
+## \--- collapse \---
 
-## title: Проектні матеріали
+## title: Project materials
 
-## Ресурси проекту
+## Project resources
 
-* [.zip-файл, що містить всі ресурси проекту](resources/colourful-creations-project-resources.zip)
-* [Онлайн-бланк Python Trinket](http://jumpto.cc/python-new)
-* [Неактивний файл Python](resources/new-new.py)
+* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## Керівник ресурсів Клубу
+## Club leader resources
 
-* [.zip-файл, що містить всі завершені ресурси проекту](resources/colourful-creations-volunteer-resources.zip)
-* [Онлайн завершив проект "Брелок"](https://trinket.io/python/41a99e668b)
-* [кольорові творіння-закінчені / colorful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
+* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
-\--- / колапс \---
+\--- /collapse \---
