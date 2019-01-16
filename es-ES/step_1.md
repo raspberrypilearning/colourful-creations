@@ -1,6 +1,6 @@
-## Introducción
+## Introduction
 
-En este proyecto, crearás un diccionario de colores que mapea los códigos de colores difíciles de recordar en nombres fáciles.
+In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,7 +8,7 @@ En este proyecto, crearás un diccionario de colores que mapea los códigos de c
   <img src="images/colourful-finished.png">
 </div>
 
-### Información adicional para los líderes del club
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
