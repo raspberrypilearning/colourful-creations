@@ -8,7 +8,7 @@ Você pode criar um novo projeto Python que usa um dicionário para uma paleta d
 
 Crie um pôster usando o dicionário da paleta de cores.
 
-Você também pode usar outros comandos da turtle conhecidos como `forward(para frente)`, `right(para a direita)`, `left(para a esquerda)`, `penup(parar de desenhar)` e `pendown(continuar a desenhar)`.
+Você também pode usar outros comandos da turtle conhecidos como `forward (para frente)`, `right (para a direita)`, `left (para a esquerda)`, `penup (parar de desenhar)` e `pendown (continuar a desenhar)`.
 
 Talvez você possa adicionar uma borda ao seu pôster?
 
@@ -23,7 +23,7 @@ Aqui está um exemplo:
 
 --- /challenge ---
 
-### Tradução Contribuída pela Comunidade 
+Tradução Contribuída pela Comunidade
 
 Este projeto foi traduzido por Fabio Cossini e revisado por Elton Marques.
 

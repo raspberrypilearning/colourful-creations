@@ -3,7 +3,7 @@
 Neste projeto, você criará um dicionário de cores que mapeia os códigos de cores difíceis de lembrar em nomes amigáveis.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c309dc1392?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/7525e86a64?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -16,6 +16,7 @@ Se você precisar imprimir este projeto, use a [versão para impressão](https:/
 ---
 title: Notas do líder do clube
 ---
+
 ## Introdução:
 
 Este projeto introduz aos dicionários ao criar um dicionário que define nomes de cores amigáveis para os códigos hexadecimais. Os códigos das cores são pesquisados ​​no dicionário e usados ​​para criar um pôster colorido.
@@ -28,7 +29,7 @@ Este projeto introduz aos dicionários ao criar um dicionário que define nomes 
 
 Há também um trinket contendo um projeto concluído para os desafios:
 
-* ['Criações Coloridas' concluído -- trinket.io/python/c309dc1392](https://trinket.io/python/c309dc1392)
+* ['Criações Coloridas' concluído -- trinket.io/python/7525e86a64](https://trinket.io/python/7525e86a64)
 
 ## Recursos Offline
 
@@ -68,6 +69,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 ---
 title: Materiais do projeto
 ---
+
 ## Recursos do projeto
 
 * [Arquivo .zip contendo todos os recursos do projeto](resources/colourful-creations-project-resources.zip)
@@ -77,7 +79,7 @@ title: Materiais do projeto
 ## Recursos do líder do clube
 
 * [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/colourful-creations-volunteer-resources.zip)
-* [Projeto Trinket concluído online](https://trinket.io/python/c309dc1392)
+* [Projeto Trinket concluído online](https://trinket.io/python/7525e86a64)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 --- /collapse ---
