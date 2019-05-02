@@ -29,7 +29,7 @@ Este projeto introduz aos dicionários ao criar um dicionário que define nomes 
 
 Há também um trinket contendo um projeto concluído para os desafios:
 
-* ['Criações Coloridas' concluído -- trinket.io/python/7525e86a64](https://trinket.io/python/41a99e668b)
+* ['Criações Coloridas' concluído -- trinket.io/python/7525e86a64](https://trinket.io/python/7525e86a64)
 
 ## Recursos Offline
 
