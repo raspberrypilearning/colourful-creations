@@ -1,6 +1,6 @@
 ## Usando códigos de cores hexadecimais
 
-A turtle(tartaruga) Python tem cores predefinidas, como 'vermelho' e 'branco', mas você também pode usar códigos de cores hexadecimais (Cocê pode ter visto isso no curso de HTML & CSS)
+A turtle (tartaruga) Python tem cores predefinidas, como 'vermelho' e 'branco', mas você também pode usar códigos de cores hexadecimais (Cocê pode ter visto isso no curso de HTML & CSS)
 
 + No Trinket abra um modelo em branco do Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
