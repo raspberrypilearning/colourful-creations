@@ -1,82 +1,85 @@
 ## 介绍
 
-你将在本项目中创建一个颜色字典，该字典可将难以记忆的颜色代码映射为容易记忆的名称。  
+在这个项目中，你将创建一个颜色字典，将难以记忆的颜色代码映射到易于理解的颜色名。
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/7b6df6ed38?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
 
-### 更多俱乐部领导参考信息
+### 俱乐部导师的附加信息
 
-如果你需要打印本项目，请使用 [适合打印机的版本](https://projects.raspberrypi.org/en/projects/colourful-creations/print)。
-
+如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/zh-CN/projects/colourful-creations/print) 。
 
 --- collapse ---
 ---
-title: 俱乐部领导备注
+title: 俱乐部导师说明
 ---
 
+## 简介：
 
-## 介绍：
-本项目通过创建一个能将人性化的颜色名称映射为十六进制代码的字典来介绍相关字典知识。随后可在字典中查找颜色代码并用其创作一张彩色海报。 
+该项目通过创建一个能将颜色名映射到十六进制颜色代码的字典来介绍字典。 然后从字典中找到颜色代码并用其创建一张色彩斑斓的海报。
 
 ## 在线资源
 
-__本项目使用 Python 3。__我们推荐使用 [trinket]（https://trinket.io/）在线编写 Python。本项目包含以下 Trinket：
+**本项目使用Python 3。**我们建议使用[ trinket](https://trinket.io/)在线编写Python代码。 这个项目包含如下Trinket代码:
 
-+ [“多彩创作”起点 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [“多彩创作”初始工程 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-还有一个 trinket，其中包含相关挑战的解决方案样例：
+以下的trinket代码包含编写挑战的示范解决方案：
 
-+ [“多彩创作”已完成 -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [“多彩创作”完整版 -- trinket.io/python/41a99e668b](https://trinket.io/python/7b6df6ed38)
 
 ## 离线资源
-如果希望的话，本项目可[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。你可以通过单击此项目的“项目材料”链接来访问项目资源。此链接包含一个“项目资源”部分，其中包括孩子们离线完成本项目时所需的资源。确保每个孩子都能访问这些资源的副本。本节包括以下文件：
 
-+ colourful-creations/colourful-creations.py
+如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都能获得这些资源。 这部分包含如下文件：
 
-你还可以在“志愿者资源”部分中找到本项目挑战的完整版本，其中包含：
+* colourful-creations/colourful-creations.py
 
-+ colourful-creations-finished/colourful-creations.py
+你也可以在 “志愿者资源'”部分找到该项目挑战的完整版本，里面包含：
 
-（以上所有的资源也可以作为项目和志愿者 `.zip` 文件下载。）
+* colourful-creations-finished/colourful-creations.py
+
+(上述所有资源也可以以`.zip`压缩包的形式下载。)
 
 ## 学习目标
-+ 字典 - 创建和查找值；
-+ 海龟绘图 - 文本、字体和颜色；
 
-本项目包括 [Raspberry Pi 数字制作课程](http://rpf.io/curriculum) 以下几个部分的元素：
+* 字典 - 创建并查找键值；
+* 乌龟图形 - 文本、字体和颜色;
 
-+ [使用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-+ [设计基本的 2D 和 3D 资源。](https://www.raspberrypi.org/curriculum/design/creator)
+* [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+
+* [设计基本的2D和3D素材。](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## 挑战
-+ 更多颜色！- 使用颜色选取器网站来找到更多颜色的十六进制代码并将其添加到字典。 
-+ 创建一张海报 - 运用海龟绘图创建一个自定义色彩调色板字典，并用它来创建一张海报。 
+
+* 更多颜色! - 使用取色网站找到更多颜色的十六进制颜色代码并将他们加入字典。 
+* 创建海报 - 自定义一个颜色板字典并用它来创建一张海报。 
 
 ## 常见问题
-+ 可能需要提醒孩子们注意每个字典条目末尾的逗号“,”。 
 
-
+* 可能需要时常提醒孩子们每一个字典元素后要加上英文逗号 ','。 
 
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: 项目材料
 ---
-## 项目资源
-* [包含所有项目资源的 .zip 文件](resources/colourful-creations-project-resources.zip)
-* [在线空白 Python Trinket](http://jumpto.cc/python-new)
-* [离线空白 Python 文件](resources/new-new.py)
 
-## 俱乐部领导资源
-* [包含所有已完成项目资源的 .zip 文件](resources/colourful-creations-volunteer-resources.zip)
-* [在线已完成 Trinket 项目](https://trinket.io/python/41a99e668b)
+## 项目资源
+
+* [包含所有项目资源的.zip压缩包](resources/colourful-creations-project-resources.zip)
+* [在线空白Python Trinket项目](http://jumpto.cc/python-new)
+* [离线空白Python文件](resources/new-new.py)
+
+## 俱乐部导师资源
+
+* [包含所有完整版项目资源的.zip压缩包](resources/colourful-creations-volunteer-resources.zip)
+* [在线完整版Trinket项目](https://trinket.io/python/7b6df6ed38)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 --- /collapse ---
