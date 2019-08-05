@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Un dicționar de culori
 
-Using hex colour codes is really flexible but they are hard to remember.
+Folosirea codurilor de culori hexazecimale este foarte flexibilă, dar ele sunt greu de reținut.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+După cum probabil știi deja, un dicționar permite căutarea unui cuvânt ca să afli ce înseamnă. În Python, un dicționar este și mai flexibil decât atât - permite căutarea unei valori pentru orice „cheie” din dicționar.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Hai să creăm un dicționar pentru a mapa nume de culori ușor accesibile oamenilor (chei) la coduri hexazecimale înțelese de computer (valori).
 
-+ A dictionary is contained in curly brackets.
++ Un dicționar este conținut între acolade.
     
-    Create an empty dictionary called `colours`:
+    Creează un dicționar gol numit `culori`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![captură de ecran](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Alege nume cool pentru culorile tale și editează linia `culori =` pentru a adăuga intrări în dicționar.
     
-    Here's an example colour dictionary:
+    Iată un exemplu de dicționar de culori:
     
-    ![screenshot](images/colourful-colours.png)
+    ![captură de ecran](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Cele două puncte `:` separă cheia (numele culorii) de valoarea acesteia (codul hexazecimal.) Ai nevoie de o virgulă `,` între fiecare pereche cheie:valoare în dicționar.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Acum nu mai trebuie să reții codurile hexazecimale. Le poți căuta direct în dicționar.
     
-    Adapt the following code to use your colour names:
+    Adaptează următorul cod pentru a folosi numele culorilor tale:
     
-    ![screenshot](images/colourful-entries.png)
+    ![captură de ecran](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Cheia merge înăuntrul parantezelor pătrate „[ ]” după numele dicționarului.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Acum îți poți actualiza codul pentru a căuta culori în dicționar:
     
-    ![screenshot](images/colourful-use.png)
+    ![captură de ecran](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Testează-ți codul pentru a te asigura că textul încă este afișat corect.
