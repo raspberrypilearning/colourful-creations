@@ -3,7 +3,7 @@
 Σε αυτό το έργο θα δημιουργήσεις ένα λεξικό χρωμάτων που αντιστοιχεί κωδικούς χρωμάτων που είναι δύσκολο να θυμάσαι, σε φιλικά ονόματα.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@
 
 Υπάρχει επίσης ένα trinket που περιέχει μια υποδειγματική λύση στις προκλήσεις:
 
-* ['Πολύχρωμες Δημιουργίες' ολοκληρωμένο -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Πολύχρωμες Δημιουργίες' ολοκληρωμένο -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Offline Πόροι
 
@@ -77,7 +77,7 @@
 ## Πόροι συντονιστή ομάδας
 
 * [Αρχείο .zip που περιέχει όλους τους ολοκληρωμένους πόρους του έργου](resources/colourful-creations-volunteer-resources.zip)
-* [Online ολοκληρωμένο έργο Trinket](https://trinket.io/python/41a99e668b)
+* [Online ολοκληρωμένο έργο Trinket](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
