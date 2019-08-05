@@ -1,83 +1,83 @@
-## Introduction
+## Introducere
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+În acest proiect, vei crea un dicționar de culori care va transforma coduri de culori greu de ținut minte în nume prietenoase.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Informații suplimentare pentru liderii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Dacă trebuie să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru liderul de club
 
-## Introduction:
+## Introducere:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Acest proiect introduce dicționare prin crearea unui dicționar care mapează coduri hexazecimale de culori la nume mai ușor de reținut și folosit. Codurile culorilor sunt apoi preluate din dicționar și folosite pentru a crea un afiș colorat.
 
-## Online Resources
+## Resurse online
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Acest proiect folosește Python 3.** Recomandăm folosirea unui [trinket](https://trinket.io/) pentru a scrie cod în Python online. Proiectul conține următoarele Trinket-uri:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [Punctul de start pentru „Creații colorate” -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [„Creații colorate” complet -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Acest proiect poate fi [finalizat offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) dacă se dorește. Poți accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Link-ul conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru finalizarea proiectului offline. Asigură-te că fiecare copil are acces la câte o copie din aceste resurse. Secțiunea include următoarele fișiere:
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune finalizată a provocărilor din acest proiect în secțiunea „Resurse pentru liderul de club”, care conține:
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca fișiere `.zip` pentru proiect și pentru lideri de club.)
 
-## Learning Objectives
+## Obiective de învățare
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Dicționare - creare și căutare;
+* Turtle graphics - text, fonturi și culori;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Folosește elemente de bază din programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Proiectarea elementelor grafice 2D și 3D de bază.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Provocări
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Mai multe culori! Folosește un website care are un selector de culori pentru a găsi mai multe coduri hexazecimale pentru culori, iar apoi adaugă-le într-un dicționar. 
+* Creează un afiș - Creează un dicționar cu o paletă personalizată de culori pentru a-l folosi în crearea unui afiș folosind Turtle graphics. 
 
-## Frequently Asked Questions
+## Întrebări frecvente
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Este recomandată reamintirea copiilor despre adăugarea unei virgule ',' la sfârșitul fiecărei culori din dicționar. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Project resources
+## Resursele proiectului
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [fișier .zip care conține toate resursele proiectului](resources/colourful-creations-project-resources.zip)
+* [Trinket online gol pentru Python](http://jumpto.cc/python-new)
+* [Fișier offline gol pentru Python](resources/new-new.py)
 
-## Club leader resources
+## Resurse pentru liderul de club
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/41a99e668b)
+* [fișier .zip care conține toate resursele proiectului, finalizate](resources/colourful-creations-volunteer-resources.zip)
+* [Proiect Trinket online, finalizat](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
