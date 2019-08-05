@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Provocare: Creează un afiș
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Designerii creează, de obicei, o paletă de culori care se potrivesc bine împreună pentru o anumită temă cum ar fi deșertul sau spațiul.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Poți să creezi un nou proiect în Python care folosește un dicționar pentru o paletă de culori cu o anumită tematică? Ai putea să alegi toamna, pădurea, marea, Crăciunul, înghețata, culorile echipei tale preferate sau orice idee de-a ta.
 
-Create a poster using your colour palette dictionary.
+Creează un afiș folosind dicționarul tău pentru paleta de culori.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Poți, de asemenea, să folosești alte comenzi turtle pe care le știi cum ar fi `forward`, `right`, `left`, `penup` și `pendown`.
 
-Maybe you could add a border to your poster?
+Poate ai putea să adaugi un chenar la afișul tău?
 
-Other useful turtle commands:
+Alte comenzi turtle folositoare:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` desenează conturul unui cerc de rază 50.
++ `dot(100)` desenează un cerc umplut cu un diametru de 100. 
 
-Here's an example:
+Iată un exemplu:
 
-![screenshot](images/colourful-finished.png)
+![captură de ecran](images/colourful-finished.png)
 
 \--- /challenge \---
