@@ -3,70 +3,70 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
-colours = { 
-  'space': '#060608', 
-  'moongrey': '#BCBDEF', 
-  'verylime': '#A7E30E', 
-  'deepsea': '#226363', 
-  'reallyraspberry': '#FA057F', 
-  'gloomygrey': '#363332', 
-  'awesomeorange':  '#F37C06', 
-  'coolcyan': '#4FEEF6',
-  'perfectpurple': '#6820B0',
-  'lovelylemon': '#FBF312',
+# introdu dictionarele
+# foloseste un selector de culori pentru a alege culori noi
+culori = { 
+  'spatiu': '#060608', 
+  'griLuna': '#BCBDEF', 
+  'foarteLime': '#A7E30E', 
+  'adanculOceanului': '#226363', 
+  'chiarMagenta': '#FA057F', 
+  'griSumbru': '#363332', 
+  'portocaliuMisto':  '#F37C06', 
+  'albastruVerzui': '#4FEEF6',
+  'movulPerfect': '#6820B0',
+  'lamaieDraguta': '#FBF312',
 }
 
 screen = Screen()
 screen.setup(400, 400)
-screen.bgcolor(colours['space'])
+screen.bgcolor(culori['spatiu'])
 
 penup()
 goto(0, 100)
-color(colours['reallyraspberry'])
+color(culori['chiarMagenta'])
 style = ('Arial', 40, 'bold')
-write('HELLO', font=style, align='center')
+write('SALUT', font=style, align='center')
 right(90)
 forward(60)
-color(colours['awesomeorange'])
-write('WORLD', font=style, align='center')
+color(culori['portocaliuMisto'])
+write('LUME', font=style, align='center')
 hideturtle()
 
 sleep(3)
 
 goto(0,0)
-color(colours['moongrey'])
+color(culori['griLuna'])
 dot(350)
 
 setheading(-90)
 penup()
 hideturtle()
 goto(0, 135)
-color(colours['verylime'])
+color(culori['foarteLime'])
 style=('Verdana', 20, 'bold')
-write('A typical', font=style, align='center')
+write('Un telefon', font=style, align='center')
 forward(40)
-color(colours['reallyraspberry'])
-write('smart phone', font=('Verdana', 25, 'bold'), align='center')
+color(culori['chiarMagenta'])
+write('obișnuit', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['deepsea'])
-write('has more', font=('Verdana', 18, 'bold'), align='center')
+color(culori['adanculOceanului'])
+write('are mai multă', font=('Verdana', 18, 'bold'), align='center')
 forward(40)
-color(colours['awesomeorange'])
-write('computing power', font=('Verdana', 25, 'bold'), align='center')
+color(culori['portocaliuMisto'])
+write('putere', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['perfectpurple'])
-write('than', font=style, align='center')
+color(culori['movulPerfect'])
+write('decât', font=style, align='center')
 forward(40)
-color(colours['coolcyan'])
+color(culori['albastruVerzui'])
 write('Apollo 11', font=('Verdana', 25, 'bold'), align='center')
-color(colours['lovelylemon'])
+color(culori['lamaieDraguta'])
 forward(40)
-write('when it landed on', font=style, align='center')
-color(colours['gloomygrey'])
+write('atunci când a ajuns', font=style, align='center')
+color(culori['griSumbru'])
 forward(40)
-write('the moon', font=('Verdana', 25, 'bold'), align='center')
+write('pe lună', font=('Verdana', 25, 'bold'), align='center')
 color('white')
 forward(50)
 write('- Nancy Gibbs, 2012', font=('Arial', 14, 'normal'))
