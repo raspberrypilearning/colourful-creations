@@ -1,33 +1,33 @@
-## Using hex colour codes
+## Folosind coduri de culori hexazecimale
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Python turtle are culori predefinite cum ar fi „red” și „white”, dar poți de asemenea să folosești coduri de culori hexazecimale (s-ar putea să le fi întâlnit în cursul de HTML & CSS).
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Deschide un șablon Trinket nou pentru Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Adaugă următorul cod de configurare pentru folosirea turtle:
     
-    ![screenshot](images/colourful-setup.png)
+    ![captură de ecran](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    Observă faptul că ai folosit un nume de culoare: „white”.
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Turtle are o listă de nume de culori pe care le poți folosi, dar uneori vei vrea să folosești propriile tale culori. Turtle permite, de asemenea, folosirea de coduri de culori hexazecimale.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    Deschide <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> și alege o culoare care îți place. Găsește-i codul hexazecimal care începe cu „#”, cum ar fi „#A7E30E”.
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ Copiază codul hexadecimal, inclusiv hashtag-ul, prin selectarea acestuia urmată de click dreapta și Copiază, sau de combinația de taste Ctrl + C.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Acum schimbă linia de cod care setează culoarea ecranului pentru a folosi culoarea ta. De exemplu:
     
-    ![screenshot](images/colourful-background.png)
+    ![captură de ecran](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    Poți folosi click-dreapta și Lipire sau Ctrl + V pentru a lipi codul tău hexazecimal în trinket.
 
-+ Choose another hex colour code and use it to create coloured text:
++ Alege alt cod de culoare hexazecimal și folosește-l pentru a crea text colorat:
     
-    ![screenshot](images/colourful-write.png)
+    ![captură de ecran](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Nu trebuie să folosești fontul „Arial”. Poți să încerci „Verdana”, „Times” sau „Courier”.
     
-    '40' is the font size, you can try changing that too.
+    „40” este mărimea fontului, care poate de asemenea fi schimbată.
 
-+ Try different colours until you get two that you really like that look good together.
++ Încearcă culori diferite până când găsești două care îți plac și care arată bine împreună.
