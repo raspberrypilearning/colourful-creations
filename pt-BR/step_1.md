@@ -3,7 +3,7 @@
 Neste projeto, você criará um dicionário de cores que mapeia os códigos de cores difíceis de lembrar em nomes amigáveis.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@ Este projeto introduz aos dicionários ao criar um dicionário que define nomes 
 
 Há também um trinket contendo um projeto concluído para os desafios:
 
-* ['Criações Coloridas' concluído -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Criações Coloridas' concluído -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Recursos Offline
 
@@ -77,7 +77,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 ## Recursos do líder do clube
 
 * [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/colourful-creations-volunteer-resources.zip)
-* [Projeto Trinket concluído online](https://trinket.io/python/41a99e668b)
+* [Projeto Trinket concluído online](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
