@@ -1,6 +1,6 @@
 ## Hexadecimale kleurcodes gebruiken
 
-De Python Turtle (schildpad) bibliotheek heeft vooraf gedefinieerde kleuren zoals 'rood' en 'wit' maar je kunt ook hexadecimale kleurcodes gebruiken (mogelijk heb je dat al in de HTML & CSS-cursus gezien.)
+De Python Turtle (schildpad) bibliotheek heeft vooraf gedefinieerde kleuren zoals 'red' (rood) en 'white' (wit) maar je kunt ook hexadecimale kleurcodes gebruiken (mogelijk heb je dat al in de HTML & CSS-cursus gezien.)
 
 + Open de lege Python-sjabloon Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
@@ -8,7 +8,7 @@ De Python Turtle (schildpad) bibliotheek heeft vooraf gedefinieerde kleuren zoal
     
     ![screenshot](images/colourful-setup.png)
     
-    Je ziet dat je een kleur hebt gebruikt met de naam: 'wit'.
+    Je ziet dat je een kleur hebt gebruikt met de naam: 'white (wit)'.
 
 + Turtle heeft een lijst met kleurnamen die je kunt gebruiken, maar soms wil je je eigen kleuren kiezen. Met Turtle kun je ook hexadecimale kleurcodes gebruiken.
     
