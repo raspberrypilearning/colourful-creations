@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Provocare: Mai multe culori!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Poți adăuga mai multe culori în dicționarul tău și să le folosești? Folosește <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> pentru a găsi mai multe culori.
 
-Don't forget to give your colours awesome names.
+Nu uita să le dai culorilor tale nume nemaipomenite.
 
-Here's some example code to remind you how to use the turtle:
+Iată un exemplu de cod pentru a-ți reaminti cum să folosești turtle:
 
-![screenshot](images/colourful-challenge1.png)
+![captură de ecran](images/colourful-challenge1.png)
 
 \--- /challenge \---
