@@ -3,7 +3,7 @@
 在这个项目中，你将创建一个颜色字典，将难以记忆的颜色代码映射到易于理解的颜色名。
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@
 
 以下的trinket代码包含编写挑战的示范解决方案：
 
-* [“多彩创作”完整版 -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [“多彩创作”完整版 -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## 离线资源
 
@@ -77,7 +77,7 @@
 ## 俱乐部导师资源
 
 * [包含所有完整版项目资源的.zip压缩包](resources/colourful-creations-volunteer-resources.zip)
-* [在线完整版Trinket项目](https://trinket.io/python/41a99e668b)
+* [在线完整版Trinket项目](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
