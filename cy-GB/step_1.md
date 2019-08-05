@@ -3,7 +3,7 @@
 Yn y prosiect hwn, byddwch yn creu geiriadur o liwiau sy'n mapio'n galed i gofio codau lliw yn enwau cyfeillgar.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@ Mae'r prosiect hwn yn cyflwyno geiriaduron trwy greu geiriadur sy'n mapio o enwa
 
 Mae trinket hefyd yn cynnwys ateb sampl i'r heriau:
 
-* ['Creadigaethau Lliwgar' Wedi eu Cwblhau -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Creadigaethau Lliwgar' Wedi eu Cwblhau -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Adnoddau All-lein
 
@@ -77,7 +77,7 @@ Mae’r prosiect hwn yn cwmpasu elfennau o’r llinynnau canlynol o'r [Cwricwlwm
 ## Adnoddau arweinwyr clwb
 
 * [Ffeil .zip sy'n cynnwys holl adnoddau'r prosiect wedi'u cwblhau](resources/colourful-creations-volunteer-resources.zip)
-* [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/41a99e668b)
+* [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
