@@ -3,7 +3,7 @@
 U ovom projektu napravit ćeš rječnik boja koji pretvara teško pamtljive kôdove za boje u jednostavna imena.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@ U ovom projektu djeca se upoznaju sa rječnicima tako što kreiraju rječnik koj
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-* [‘Colourful Creations’ dovršeni projekt -- trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [‘Colourful Creations’ dovršeni projekt -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Offline izvori
 
@@ -77,7 +77,7 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova plana i programa [Raspberry
 ## Materijali za voditelja Kluba
 
 * [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/colourful-creations-volunteer-resources.zip)
-* [Dovršeni Online Trinket projekt](https://trinket.io/python/41a99e668b)
+* [Dovršeni Online Trinket projekt](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
