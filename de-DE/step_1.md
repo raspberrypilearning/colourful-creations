@@ -3,7 +3,7 @@
 In diesem Projekt erstellen wir ein "Dictionary" (Deutsch: Wörterbuch) für Farben, das nette Namen für schwer lesbare Farbcodes bereitstellt.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
@@ -28,7 +28,7 @@ Dieses Projekt stellt "Dictionaries" (Deutsch: Wörterbücher) vor, indem ein Di
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* [Fertiges Beispiel 'Kunterbunte Kreationen' - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* [Fertiges Beispiel 'Kunterbunte Kreationen' - trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Offline-Ressourcen
 
@@ -77,7 +77,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Strängen des [Raspberry Pi Di
 ## Ressourcen für Clubleiter
 
 * [.zip-Datei, die alle fertig gestellten Projektressourcen enthält](resources/colourful-creations-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/41a99e668b)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
