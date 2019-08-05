@@ -3,18 +3,18 @@
 In dit project maak je een kleurenwoordenboek waarin moeilijk te onthouden kleurcodes toegankelijkere namen krijgen.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/41a99e668b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/colourful-finished.png">
 </div>
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
 ## \--- collapse \---
 
-## titel: Opmerkingen voor clubleiders
+## title: Opmerkingen voor docenten
 
 ## Inleiding:
 
@@ -28,7 +28,7 @@ Dit project introduceert woordenboeken door er een te maken die mensvriendelijke
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Kleurrijke creaties' gereed - trinket.io/python/41a99e668b](https://trinket.io/python/41a99e668b)
+* ['Kleurrijke creaties' gereed - trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
 ## Offline bronnen
 
@@ -66,7 +66,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## \--- collapse \---
 
-## titel: Projectmaterialen
+## title: Projectmaterialen
 
 ## Projectbronnen
 
@@ -74,10 +74,10 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * [Online lege Python Trinket](http://jumpto.cc/python-new)
 * [Offline leeg Python-bestand](resources/new-new.py)
 
-## Bronnen voor de Clubleider
+## Clubleiderbronnen
 
 * [.zip-bestand met alle voltooide projectbronnen](resources/colourful-creations-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/41a99e668b)
+* [Online voltooid Trinket-project](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
