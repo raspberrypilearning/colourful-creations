@@ -26,6 +26,6 @@ Iată un exemplu:
 
 **Traducere realizată de comunitate**
 
-Proiectul a fost tradus de **Gelu Ungur** și verificat de **Catalina Toderita***.
+Proiectul a fost tradus de **Gelu Ungur** și verificat de **Catalina Toderita**.
 
 Traducătorii noștri voluntari ne ajută să oferim copiilor din întreaga lume șansa de a învăța programarea. Poți ajuta și tu la traducerea proiectelor noastre – află mai multe pe rpf.io/translators.
