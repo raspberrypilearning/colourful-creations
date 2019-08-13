@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Défis : Crée une affiche
+## Défi : Crée une affiche
 
 Les designers créent souvent une 'palette' de couleurs qui vont bien ensemble pour un thème spécifique comme le désert ou l'espace.
 
