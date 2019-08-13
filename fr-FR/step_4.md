@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Défis : Plus de couleurs !
+## Défi : Plus de couleurs !
 
 Peux tu ajouter encore plus de couleurs à ton dictionnaire et les essayer ? Utilise <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> pour trouver d'autres couleurs.
 
