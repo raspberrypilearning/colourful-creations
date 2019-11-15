@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Słownik Kolorów
 
-Using hex colour codes is really flexible but they are hard to remember.
+Używanie heksadecymalnych kodów koloru jest bardzo elastyczne, ale trudno je zapamiętać.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Jak zapewne już wiesz, słownik pozwala wyszukać słowo i zobaczyć jego znaczenie. W Pythonie słownik jest jeszcze bardziej elastyczny, ponieważ pozwala wyszukać wartości dla dowolnego "klucza" w słowniku.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Stwórzmy słownik do tłumaczenia przyjaznych dla człowieka nazw kolorów (kluczy) do przyjaznych dla komputera heksadecymalnych kodów (wartości).
 
-+ A dictionary is contained in curly brackets.
++ Słownik zapisujemy w nawiasach klamrowych.
     
-    Create an empty dictionary called `colours`:
+    Stwórz pusty słownik o nazwie `kolory`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![zrzut ekranu](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Wybierz fajne nazwy dla swoich kolorów i zmień linię z kodem `kolory =`, aby dodać je do słownika.
     
-    Here's an example colour dictionary:
+    Oto przykładowy słownik kolorów:
     
-    ![screenshot](images/colourful-colours.png)
+    ![zrzut ekranu](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Dwukropek `:` oddziela klucz (nazwę koloru) od wartości (heksadecymalny kod). Pomiędzy każdą parą klucz:wartość zawsze wstawiamy przecinek `,`.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Teraz nie musisz pamiętać kodów heksadecymalnych, możesz po prostu sprawdzić je w słowniku.
     
-    Adapt the following code to use your colour names:
+    Dostosuj poniższy kod w taki sposób, aby użyć w nim swoich nazw kolorów:
     
-    ![screenshot](images/colourful-entries.png)
+    ![zrzut ekranu](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Klucz znajduje się w nawiasach kwadratowych "[]" zaraz po nazwie słownika.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Teraz możesz uaktualnić swój kod, aby wyszukać kolory w słowniku:
     
-    ![screenshot](images/colourful-use.png)
+    ![zrzut ekranu](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Przetestuj swój kod, aby upewnić się, że tekst nadal wyświetla się poprawnie.
