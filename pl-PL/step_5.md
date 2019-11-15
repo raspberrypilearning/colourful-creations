@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Wyzwanie: Stwórz plakat
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Projektanci często tworzą "paletę" kolorów, które dobrze współgrają ze sobą w danej tematyce, takiej jak pustynia czy kosmos.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Czy możesz utworzyć nowy projekt Python, który używa słownika do palety kolorów o danym motywie. Możesz wybrać jesień, las, morze, Boże Narodzenie, lody, kolory ulubionej drużyny sportowej lub własny pomysł.
 
-Create a poster using your colour palette dictionary.
+Stwórz plakat przy użyciu słownika palety kolorów.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Możesz także użyć innych poleceń żółwia które już znasz, takich jak `forward`(z ang. do przodu), `right`(z ang. w prawo), `left`(z ang. w lewo), `penup`(z ang. podnieś pisak) i `pendown`(z ang. połóż pisak).
 
-Maybe you could add a border to your poster?
+Może mógłbyś dodać obramowanie do swojego plakatu?
 
-Other useful turtle commands:
+Inne użyteczne polecenia żółwia:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` rysuje kontur koła o promieniu 50.
++ `dot(100)` rysuje wypełniony okrąg o średnicy 100. 
 
-Here's an example:
+Oto przykład:
 
-![screenshot](images/colourful-finished.png)
+![zrzut ekranu](images/colourful-finished.png)
 
 \--- /challenge \---
