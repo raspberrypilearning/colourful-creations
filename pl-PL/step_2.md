@@ -1,33 +1,33 @@
-## Using hex colour codes
+## Używanie heksadecymalnych kodów koloru
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+W Pythonie żółw do rysowania zna kolory takie jak "red" i "white", ale możesz również użyć heksadecymalnych kodów koloru (być może kojarzysz je z kursu HTML & CSS.)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otwórz pusty szablon dla języka Python w edytorze Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Dodaj następujący kod, który skonfiguruje odpowiednio żółwia:
     
-    ![screenshot](images/colourful-setup.png)
+    ![zrzut ekranu](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    Zauważ, że użyliśmy koloru wpisując jego nazwę: "white".
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Żółw ma listę nazw kolorów, których możesz użyć, ale czasami chcesz wybrać własne kolory. Żółw pozwala również używać heksadecymalnych kodów koloru.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    Otwórz <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> i wybierz kolor, który ci się podoba. Znajdź kod heksadecymalny zaczynający się od "#", na przykład "#A7E30E".
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ Skopiuj kod heksadecymalny, razem ze znakiem hash (#), zaznaczając go, a następnie klikając prawym przyciskiem myszy i wybierając opcję Kopiuj lub używając kombinacji klawiszy Ctrl-C.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Teraz zmień linię kodu, która ustawia kolor ekranu tak, aby używała twojego koloru. Na przykład:
     
-    ![screenshot](images/colourful-background.png)
+    ![zrzut ekranu](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    Możesz kliknąć prawym przyciskiem myszy i wybrać opcję Wklej lub Ctrl-V, aby wkleić swój heksadecymalny kod do trinketa.
 
-+ Choose another hex colour code and use it to create coloured text:
++ Wybierz inny heksadecymalny kod koloru i użyj go, aby stworzyć kolorowy tekst:
     
-    ![screenshot](images/colourful-write.png)
+    ![zrzut ekranu](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Nie musisz używać czcionki "Arial", możesz wypróbować "Verdana", "Times" albo "Courier".
     
-    '40' is the font size, you can try changing that too.
+    "40" to rozmiar czcionki, to też możesz zmienić.
 
-+ Try different colours until you get two that you really like that look good together.
++ Wypróbuj różne kolory, aż znajdziesz dwa, które ci się podobają i naprawdę dobrze wyglądają razem.
