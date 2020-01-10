@@ -1,17 +1,13 @@
 --- challenge ---
-## Reto: ¡Más colores!
 
-¿Puedes añadir más colores al diccionario y probarlos? Usa <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> para encontrar más colores. 
+## Desafío: ¡más colores!
 
-No te olvides de darles nombres fantásticos. 
+¿Puedes agregar más colores a tu diccionario y probarlos? Abre <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> para encontrar más colores.
 
-Aquí tienes un código de ejemplo que te recordará cómo usar la tortuga:
+No te olvides de dar a tus colores nombres impresionantes.
 
-![screenshot](images/colourful-challenge1.png)
+Aquí hay un código de ejemplo para recordarte cómo usar la tortuga:
 
-
-
-
-
+![captura de pantalla](images/colourful-challenge1.png)
 
 --- /challenge ---

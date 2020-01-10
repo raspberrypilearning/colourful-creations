@@ -1,37 +1,35 @@
 ## Un diccionario de colores
 
-Usar códigos de color hexagonales es muy flexible, pero también son difíciles de recordar. 
+Usar códigos de color hexadecimales es realmente flexible pero son difíciles de recordar.
 
-Como probablemente sepas, un diccionario te permite buscar palabras y consultar su significado. En Python, un diccionario es todavía más flexible. Te permite buscar un valor para cualquier 'key' del diccionario.
+Como probablemente ya sepas, un diccionario te permite buscar una palabra y ver su significado. En Python, un diccionario es aún más flexible que eso: te permite buscar un valor para cualquier 'clave' en el diccionario.
 
-Creemos un diccionario que convierta nombres de colores (claves) en códigos hexadecimales (valores).
+Vamos a crear un diccionario para asignar nombres de colores fáciles para humanos (claves) como códigos hexagonales fáciles para la computadora (valores).
 
-+ El diccionario debe estar entre llaves. 
++ Un diccionario está contenido entre llaves.
+    
+    Crea un diccionario vacío llamado `colores`:
+    
+    ![captura de pantalla](images/colourful-dict.png)
 
-  Crea un diccionario vacío denominado `colours`:
++ Elige nombres geniales para tus colores y edita la línea `colores =` para añadir entradas al diccionario para ellos.
+    
+    Aquí hay un ejemplo de un diccionario de color:
+    
+    ![captura de pantalla](images/colourful-colours.png)
+    
+    Dos puntos `:` separa la clave (nombre de color) del valor (código hexadecimal). Necesitas una coma `,` entre cada par 'clave:valor' en el diccionario.
 
-   ![screenshot](images/colourful-dict.png)
-   
-+ Selecciona nombres interesantes para tus colores y edita la línea `colours = {} ` para añadir sus entradas en el diccionario. 
++ Ahora no necesitas recordar los códigos hexadecimales, simplemente puedes buscarlos en el diccionario.
+    
+    Adapta el siguiente código para usar tus nombres de color:
+    
+    ![captura de pantalla](images/colourful-entries.png)
+    
+    La clave va dentro de corchetes '[]' después del nombre del diccionario.
 
-  Aquí tienes un ejemplo del diccionario de colores:
++ Ahora puede actualizar su código para buscar colores en el diccionario:
+    
+    ![captura de pantalla](images/colourful-use.png)
 
-   ![screenshot](images/colourful-colours.png)
-   
-   Los dos puntos `:` separan las claves (nombres de color) del valor (código hexagonal). Necesitarás una coma `,` entre cada pareja clave:valor del diccionario. 
-
-+ Ahora ya no necesitas recordar los códigos hexadecimales, simplemente búscalos en el diccionario. 
-
-  Adapta el siguiente código para usar tus nombres de color:
-  
-  ![screenshot](images/colourful-entries.png)
-  
-  La clave debe situarse dentro de los corchetes '[]', después del nombre del diccionario. 
-  
-+ Ahora puedes actualizar tu código para busca colores en el diccionario:
-
-  ![screenshot](images/colourful-use.png)
-  
-  
-+ Prueba tu código para asegurarte de que el texto se visualiza correctamente. 
-
++ Prueba tu código para asegurarte de que tu texto se muestra correctamente.
