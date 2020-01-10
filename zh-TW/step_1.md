@@ -1,6 +1,6 @@
-## Introduction
+## 介紹
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+在這個專案中，你會創建一個顏色字典，給難以記住的顏色代碼一個好記的名稱。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,35 +8,35 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### 給教師的其它資訊
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/colourful-creations/print)。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 給教師的其它資訊
 
-## Introduction:
+## 介紹：
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+這個專案透過創建一個能將顏色名稱對應到十六進制顏色代碼的字典來介紹 dictionary 的概念。 然後利用字典找到顏色代碼以創造一張色彩斑斕的海報。
 
-## Online Resources
+## 線上資源
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**這個專案使用 Python 3。**我們建議利用 [trinket](https://trinket.io/) 在線上撰寫 Python 程式。 這項專案包括以下 Trinkets：
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [「色彩繽紛的作品」的起點 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+還有一個內含挑戰解法的 trinket：
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
+* [「色彩繽紛的作品」完成檔案 -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## 離線資源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+這個專案也可以[離線完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以從「專案材料」連結取得專案相關資源。 連結中在專案資源的段落內容中說明了學生離線完成專案所需要的資源。 務必檢查每個學生都有辦法拿到這些資源。 本節包括以下文件：
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+你還可以在「志工相關資源」部分中找到內含挑戰的專案完整版，包括以下文件：
 
 * colourful-creations-finished/colourful-creations.py
 
