@@ -1,33 +1,33 @@
-## Using hex colour codes
+## استخدام الرموز اللونية الست عشرية
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+تملك سلحفاة (Python turtle) مجموعة من الألوان معرّفة مسبقاً، مثل "أحمر" و "أبيض"، وبإمكانك أيضاً استخدام الرموز اللونية الست عشرية (على الأرجح أن قد رأيتهم في دورة كل من HTML وCSS)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ افتح الـ Trinket الذي يحتوي على قالب Python فارغ: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ أضف كود التهيئة التالي لاستخدام السلحفاة:
     
-    ![screenshot](images/colourful-setup.png)
+    ![لقطة شاشة](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    لاحظ أنك استخدمت لون له اسم معروف "أبيض": 'white'.
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ تملك السلحفاة قائمة من أسماء الألوان التي تستطيع استخدامها، ولكن في بعض الأحيان قد ترغب باختيار ألوانك الخاصة. تتيح لك السلحفاة أيضاً إمكانية استخدام الرموز اللونية الست عشرية.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    قم بفتح <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> واختر اللون الذي تريده. ابحث عن الرمز السداسي عشر والذي يبدأ بـ "#"، مثل الرمز "#A7E30E".
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ انسخ الرمز اللوني، متضمناً الـ #، من خلال تحديده بالفأرة ومن ثم ضغط الزر الأيمن واختيار نسخ أو الضغط على زر Ctrl و C في لوحة المفاتيح.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ والآن قم بتعديل السطر البرمجي الذي يحدد لون الشاشة واستخدم اللون الذي اخترته. مثال:
     
-    ![screenshot](images/colourful-background.png)
+    ![لقطة شاشة](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    بإمكانك ضغط الزر الأيمن للفأرة واختيار لصق أو الضغط على زر Ctrl و V في لوحة المفاتيح لتقوم بنسخ الرمز اللوني الذي ترغب به إلى الـ trinket.
 
-+ Choose another hex colour code and use it to create coloured text:
++ فم باختيار رمز لوني آخر واستخدمه لإنشاء نص ملوّن جديد:
     
-    ![screenshot](images/colourful-write.png)
+    ![لقطة شاشة](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    ليس من الضروري استخدام نوع الخط "Arial"، بإمكانك تجربة الخطوط "Verdana"، "Times" أو "Courier".
     
-    '40' is the font size, you can try changing that too.
+    الرقم "40" هو حجم الخط، تستطيع أن تجرب تغييره أيضاً.
 
-+ Try different colours until you get two that you really like that look good together.
++ تابع تجربة المزيد من الألوان المختلفة حتى تجد لونين تعتقد أنهم يبدوان متناسبين جداً معاً.
