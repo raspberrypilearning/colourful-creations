@@ -67,7 +67,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [currículo de di
 
 --- collapse ---
 ---
-title: materiales del proyecto
+title: Materiales del proyecto
 ---
 
 ## Recursos del proyecto
