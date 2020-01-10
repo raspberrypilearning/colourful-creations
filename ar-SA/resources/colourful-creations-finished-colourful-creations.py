@@ -3,8 +3,8 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
+# تعرفة بالقواميس
+# استخدم أداة انتقاء الألوان لإيجاد واختيار ألوان جديدة
 colours = { 
   'space': '#060608', 
   'moongrey': '#BCBDEF', 
@@ -26,11 +26,11 @@ penup()
 goto(0, 100)
 color(colours['reallyraspberry'])
 style = ('Arial', 40, 'bold')
-write('HELLO', font=style, align='center')
+write('مرحباً', font=style, align='center')
 right(90)
 forward(60)
 color(colours['awesomeorange'])
-write('WORLD', font=style, align='center')
+write('بالعالم', font=style, align='center')
 hideturtle()
 
 sleep(3)
@@ -45,28 +45,28 @@ hideturtle()
 goto(0, 135)
 color(colours['verylime'])
 style=('Verdana', 20, 'bold')
-write('A typical', font=style, align='center')
+write('الهاتف', font=style, align='center')
 forward(40)
 color(colours['reallyraspberry'])
-write('smart phone', font=('Verdana', 25, 'bold'), align='center')
+write('الذكي العادي', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
 color(colours['deepsea'])
-write('has more', font=('Verdana', 18, 'bold'), align='center')
+write('يملك', font=('Verdana', 18, 'bold'), align='center')
 forward(40)
 color(colours['awesomeorange'])
-write('computing power', font=('Verdana', 25, 'bold'), align='center')
+write('قدرة معالجة', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
 color(colours['perfectpurple'])
-write('than', font=style, align='center')
+write('أكبر من', font=style, align='center')
 forward(40)
 color(colours['coolcyan'])
-write('Apollo 11', font=('Verdana', 25, 'bold'), align='center')
+write('أبولو 11', font=('Verdana', 25, 'bold'), align='center')
 color(colours['lovelylemon'])
 forward(40)
-write('when it landed on', font=style, align='center')
+write('عندما هبطت على', font=style, align='center')
 color(colours['gloomygrey'])
 forward(40)
-write('the moon', font=('Verdana', 25, 'bold'), align='center')
+write('سطح القمر', font=('Verdana', 25, 'bold'), align='center')
 color('white')
 forward(50)
-write('- Nancy Gibbs, 2012', font=('Arial', 14, 'normal'))
+write('- نانسي غيبس, 2012', font=('Arial', 14, 'normal'))
