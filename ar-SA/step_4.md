@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## تحدّي: ألوان أخرى!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+هل تستطيع إضافة المزيد من الألوان لقاموسك وتجربتها؟ استخدم <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> لتجد المزيد من الألوان.
 
-Don't forget to give your colours awesome names.
+لا تنسَ أن تعطِ ألوانك أسماء مميزة ورائعة.
 
-Here's some example code to remind you how to use the turtle:
+إليك بعض الأمثلة لتذكيرك بكيفية استخدام السلحفاة:
 
-![screenshot](images/colourful-challenge1.png)
+![لقطة شاشة](images/colourful-challenge1.png)
 
 \--- /challenge \---
