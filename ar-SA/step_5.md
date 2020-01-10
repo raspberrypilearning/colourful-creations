@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## تحدّي: أنشئ ملصقاً
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+عادةً ما ينشئ المصممون "لوحة لونية" للألوان التي ستظهر بشكل متناسق مع بعضها ومناسبة لسمة محددة كالصحراء أو الفضاء على سبيل المثال.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+هل بإمكانك بدء مشروع Python جديد يستخدم قاموساً للوحة لونية لسمة معينة. يمكنك اختيار الخريف، الغابة، البحر، عيد الميلاد، المثلجات، ألوان فريقك الرياضي المفضل، أو أي فكرة أخرى لديك.
 
-Create a poster using your colour palette dictionary.
+قم بتصميم ملصق باستخدام قاموس اللوحة اللونية الذي اخترته.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+بإمكانك أيضاً استخدام أوامر السلحفاة الأخرى التي تعرفها، مثل للأمام `forward`، لليمين `right`، لليسار `left`، إيقاف قلم الرسم `penup` وإعادة قلم الرسم `pendown`.
 
-Maybe you could add a border to your poster?
+ربما من الممكن أيضاً إضافة حدود لملصقك؟
 
-Other useful turtle commands:
+أوامر أخرى مفيدة لسلحفاة Python:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` ترسم حدود دائرة نصف قطرها 50.
++ `dot(100)` ترسم دائرة ملونة قطرها 100. 
 
-Here's an example:
+إليك مثالًا:
 
-![screenshot](images/colourful-finished.png)
+![لقطة شاشة](images/colourful-finished.png)
 
 \--- /challenge \---
