@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## قاموس ألوان
 
-Using hex colour codes is really flexible but they are hard to remember.
+إن استخدام الرموز اللونية الست عشرية مريح جداً ولكن يصعب حفظ هذا الرموز وتذكرها.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+كما يعلم معظمنا مسبقاً، يتيح لنا القاموس البحث عن كلمة ما وإيجاد معناها. في لغة Python، يكون القاموس أكثر مرونةً من ذلك، فهو يتيح البحث عن القيمة المقابلة لأي "مفتاح" في القاموس.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+لنقم بإنشاء قاموساً لربط أسماء الألوان المتعارف عليها (المفاتيح) مع الرموز اللونية الست عشرية الموافقة لها (القيم).
 
-+ A dictionary is contained in curly brackets.
++ القاموس يكون محصور ضمن قوسين حاصرتين {}.
     
-    Create an empty dictionary called `colours`:
+    لننشئ قاموس فارغ اسمه `ألوان`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![لقطة شاشة](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ اختر أسماء مميزة لألوانك وقم بتعديل السطر `ألوان =` لإضافتها كعناصر جديدة إلى القاموس.
     
-    Here's an example colour dictionary:
+    فيما يلي مثال عن قاموس الألوان:
     
-    ![screenshot](images/colourful-colours.png)
+    ![لقطة شاشة](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    النقطتان `:` تفصلان بين المفتاح (اسم اللون) والقيمة (الرمز الست عشري). كما نحتاج إلى إضافة الفاصلة `,` بين كل زوج مفتاح:قيمة في القاموس.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ والآن لم تعد بحاجة لتذكر الرموز الست عشرية للألوان، يمكنك إيجادها بمجرد البحث عنها في القاموس.
     
-    Adapt the following code to use your colour names:
+    قم بتعديل الكود التالي كي تستخدم أسماء الألوان الخاصة بك:
     
-    ![screenshot](images/colourful-entries.png)
+    ![لقطة شاشة](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    يتم كتابة اسم المفتاح داخل قوسين مستطيلين "[]" بعد اسم القاموس.
 
-+ Now you can update your code to look up colours in the dictionary:
++ والآن بإمكانك تحديث الكود الخاص بك للبحث عن الألوان في القاموس:
     
-    ![screenshot](images/colourful-use.png)
+    ![لقطة شاشة](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ قم باختبار الكود الخاص بك للتأكد أن النص ما زال يظهر بشكل صحيح.
