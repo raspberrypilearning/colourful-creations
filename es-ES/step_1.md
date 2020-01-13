@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto crearás un diccionario de colores que asigna códigos de color difíciles de recordar en nombres amigables.
+En este proyecto crearás un diccionario de colores que asigna nombres amigables a códigos de color difíciles de recordar.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
