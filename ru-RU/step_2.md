@@ -1,33 +1,33 @@
-## Using hex colour codes
+## Использование шестнадцатеричных цветовых кодов
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Питоновская черепашка имеет встроенные цвета такие, как «red» (красный) и «white» (белый), но ты можешь также использовать шестнадцатеричные цветовые коды (возможно, ты уже работал с ними в курсах по HTML и CSS).
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Открой шаблон пустого проекта для Python в trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Добавь следующий код для настройки черепашки:
     
-    ![screenshot](images/colourful-setup.png)
+    ![снимок экрана](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    Заметь, что ты использовал цвет с именем «white» (белый).
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Черепашка имеет встроенный список с именами цветов, которые ты можешь использовать, однако иногда ты можешь захотеть задать свой собственный цвет. Черепашка также позволяет тебе использовать шестнадцатеричные (hex) цветовые коды.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    Открой <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> и выбери понравившийся тебе цвет. Найди его шестнадцатеричный код, который начинается с «#», к примеру, «#A7E30E».
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ Скопируй шестнадцатеричный код вместе с хешем (символом #). Сначала выдели код, затем кликни по нему правой кнопкой и выбери «Копировать», либо же нажми Ctrl-C.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Теперь измени строчку кода, которая задаёт цвет экрана, на свой собственный цвет. Например:
     
-    ![screenshot](images/colourful-background.png)
+    ![снимок экрана](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    Ты можешь кликнуть правой кнопкой мыши и выбрать команду «Вставить» или же использовать Ctrl-V, чтобы вставить твой шестнадцатеричный код в тринкет.
 
-+ Choose another hex colour code and use it to create coloured text:
++ Выбери другой шестнадцатеричный цветовой код и используй его, чтобы раскрасить текст:
     
-    ![screenshot](images/colourful-write.png)
+    ![снимок экрана](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Тебе необязательно использовать шрифт «Arial», ты также можешь попробовать «Verdana», «Times» или «Courier».
     
-    '40' is the font size, you can try changing that too.
+    «40» — это размер шрифта. Как и раннее, ты можешь попробовать задать свой размер.
 
-+ Try different colours until you get two that you really like that look good together.
++ Попробуй разные цвета, пока не получишь такие два, которые тебе действительно нравятся и которые хорошо смотрятся вместе.
