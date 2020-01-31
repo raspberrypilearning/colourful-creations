@@ -3,70 +3,70 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
+# создание словарей
+# используй подборщика цветов, чтобы найти и выбрать новые цвета
 colours = { 
-  'space': '#060608', 
-  'moongrey': '#BCBDEF', 
-  'verylime': '#A7E30E', 
-  'deepsea': '#226363', 
-  'reallyraspberry': '#FA057F', 
-  'gloomygrey': '#363332', 
-  'awesomeorange':  '#F37C06', 
-  'coolcyan': '#4FEEF6',
-  'perfectpurple': '#6820B0',
-  'lovelylemon': '#FBF312',
+  'космос': '#060608', 
+  'сераялуна': '#BCBDEF', 
+  'оченьлимонный': '#A7E30E', 
+  'глубокоеморе': '#226363', 
+  'настоящаямалина': '#FA057F', 
+  'мрачносерый': '#363332', 
+  'потрясныйапельсин':  '#F37C06', 
+  'крутойциан': '#4FEEF6',
+  'идеальнопурпурный': '#6820B0',
+  'прекрасныйлимон': '#FBF312',
 }
 
 screen = Screen()
 screen.setup(400, 400)
-screen.bgcolor(colours['space'])
+screen.bgcolor(colours['космос'])
 
 penup()
 goto(0, 100)
-color(colours['reallyraspberry'])
+color(colours['настоящаямалина'])
 style = ('Arial', 40, 'bold')
-write('HELLO', font=style, align='center')
+write('ПРИВЕТ', font=style, align='center')
 right(90)
 forward(60)
-color(colours['awesomeorange'])
-write('WORLD', font=style, align='center')
+color(colours['потрясныйапельсин'])
+write('МИР', font=style, align='center')
 hideturtle()
 
 sleep(3)
 
 goto(0,0)
-color(colours['moongrey'])
+color(colours['сераялуна'])
 dot(350)
 
 setheading(-90)
 penup()
 hideturtle()
 goto(0, 135)
-color(colours['verylime'])
+color(colours['оченьлимонный'])
 style=('Verdana', 20, 'bold')
-write('A typical', font=style, align='center')
+write('Типичный', font=style, align='center')
 forward(40)
-color(colours['reallyraspberry'])
-write('smart phone', font=('Verdana', 25, 'bold'), align='center')
+color(colours['настоящаямалина'])
+write('смартфон', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['deepsea'])
-write('has more', font=('Verdana', 18, 'bold'), align='center')
+color(colours['глубокоеморе'])
+write('наделён большей', font=('Verdana', 18, 'bold'), align='center')
 forward(40)
-color(colours['awesomeorange'])
-write('computing power', font=('Verdana', 25, 'bold'), align='center')
+color(colours['потрясныйапельсин'])
+write('мощностью', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['perfectpurple'])
-write('than', font=style, align='center')
+color(colours['идеальнопурпурный'])
+write('чем', font=style, align='center')
 forward(40)
-color(colours['coolcyan'])
+color(colours['крутойциан'])
 write('Apollo 11', font=('Verdana', 25, 'bold'), align='center')
-color(colours['lovelylemon'])
+color(colours['прекрасныйлимон'])
 forward(40)
-write('when it landed on', font=style, align='center')
-color(colours['gloomygrey'])
+write('приземлившийся', font=style, align='center')
+color(colours['мрачносерый'])
 forward(40)
-write('the moon', font=('Verdana', 25, 'bold'), align='center')
+write('Луна', font=('Verdana', 25, 'bold'), align='center')
 color('white')
 forward(50)
-write('- Nancy Gibbs, 2012', font=('Arial', 14, 'normal'))
+write('- Нэнси Гиббс, 2012', font=('Arial', 14, 'normal'))
