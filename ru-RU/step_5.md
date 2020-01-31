@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Задача: создай плакат
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Дизайнеры часто создают «палитру» цветов, которая хорошо сочетается с определенной темой, такой как пустыня или космос.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Можешь ли ты создать новый проект на Python, в котором словари используются в качестве тематических цветовых палитр. Ты можешь выбрать осень, лес, море, Рождество, мороженое, цвета своей любимой спортивной команды или придумать свою тему для палитры.
 
-Create a poster using your colour palette dictionary.
+Создай плакат, используя свой словарь в качестве цветовой палитры.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Ты также можешь использовать другие известные тебе команды черепашки такие как: `forward` (вперёд), `right` (вправо), `left` (влево), `penup` (поднять перо) и `pendown` (опустить перо).
 
-Maybe you could add a border to your poster?
+Можешь ли ты добавить рамку для своего плаката?
 
-Other useful turtle commands:
+Другие полезные команды черепашки:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` рисует контур круга с радиусом 50.
++ `dot(100)` рисует заполненный круг с диаметром 100. 
 
-Here's an example:
+Вот тебе пример:
 
-![screenshot](images/colourful-finished.png)
+![снимок экрана](images/colourful-finished.png)
 
 \--- /challenge \---
