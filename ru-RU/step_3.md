@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Словарь цветов
 
-Using hex colour codes is really flexible but they are hard to remember.
+Использование шестнадцатеричных цветовых кодов — действительно гибкое решение, но их трудно запоминать.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Как ты наверное знаешь, словарь позволяет тебе подсматривать слова и узнавать их значения. Словарь (dictionary) в Python ещё более гибок — он позволяет тебе подсматривать в нём значение для любого «ключа» (key).
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Давай создадим словарь для отображения удобных для человека цветовых имён (ключи) в удобные для компьютера шестнадцатеричные коды (значения).
 
-+ A dictionary is contained in curly brackets.
++ Словарь заключается в фигурные скобки.
     
-    Create an empty dictionary called `colours`:
+    Создай пустой словарь с именем `colours` (цвета):
     
-    ![screenshot](images/colourful-dict.png)
+    ![снимок экрана](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Придумай необычные имена для твоих цветов и отредактируй строку с `colours =`, чтобы добавить для них записи в словаре.
     
-    Here's an example colour dictionary:
+    Вот пример цветового словаря:
     
-    ![screenshot](images/colourful-colours.png)
+    ![снимок экрана](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Двоеточие `:` отделяет ключ (имя цвета) от значения (шестнадцатеричный код). Нужно ставить запятую `,` между каждыми парами ключ:значение в словаре.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Теперь тебе не нужно запоминать шестнадцатеричные коды, ты можешь просто подсмотреть их в словаре.
     
-    Adapt the following code to use your colour names:
+    Адаптируй следующий код, чтобы использовать твои названия цветов:
     
-    ![screenshot](images/colourful-entries.png)
+    ![снимок экрана](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Ключ вводится в квадратные скобки «[]» после названия словаря.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Теперь ты можешь обновить свой код и добавить подсматривание цветов в словаре:
     
-    ![screenshot](images/colourful-use.png)
+    ![снимок экрана](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Протестируй свой код, чтобы убедиться, что твой текст по-прежнему отображается правильно.
