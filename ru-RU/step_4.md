@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Задача: ещё больше цветов!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Можешь ли ты добавить ещё больше цветов в свой словарь и опробовать их? Используй <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a>, чтобы найти ещё больше цветов.
 
-Don't forget to give your colours awesome names.
+Не забудь дать своим цветам забавные имена.
 
-Here's some example code to remind you how to use the turtle:
+Вот пример кода для напоминания о том, как использовать черепашку:
 
-![screenshot](images/colourful-challenge1.png)
+![снимок экрана](images/colourful-challenge1.png)
 
 \--- /challenge \---
