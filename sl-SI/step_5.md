@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Izziv: Ustvari plakat
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Oblikovalci pogosto ustvarjajajo barvne 'palete', ki dobro ustrezajo določeni tematiki, kot sta npr. puščava ali vesolje.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Ali lahko ustvariš nov Python projekt, ki za tematsko barvno paleto uporablja slovar? Lahko bi denimo izbral jesen, gozd, morje, božič, sladoled, barve svoje najljubše ekipe ali pa si izmisliš kakšno lastno idejo.
 
-Create a poster using your colour palette dictionary.
+Ustvari plakat z uporabo slovarja z lastno barvno paleto.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Lahko uporabiš tudi druge ukaze želvje grafike, ki jih poznaš, kot so `forward`, `right`, `left`, `penup` in `pendown`.
 
-Maybe you could add a border to your poster?
+Morda bi svojemu plakat dodal še rob?
 
-Other useful turtle commands:
+Drugi uporabni ukaz za želvjo grafiko:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` nariše krog s polmerom 50.
++ `dot(100)` nariše zapolnjen krog s premerom 100. 
 
-Here's an example:
+Tukaj je primer:
 
-![screenshot](images/colourful-finished.png)
+![posnetek zaslona](images/colourful-finished.png)
 
 \--- /challenge \---
