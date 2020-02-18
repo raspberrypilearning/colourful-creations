@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Slovar barv
 
-Using hex colour codes is really flexible but they are hard to remember.
+Raba šestnajstiških barvnih kod je res fleksibilna, vendar si jih je težko zapomniti.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Kot verjetno že veš, ti slovar omogoča, da poiščeš neko besedo in pogledaš, kaj pomeni. V Pythonu so slovarji še bolj fleksibilni, saj omogočajo iskanje vrednosti za katerokoli 'geslo' v slovarju.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Ustvari slovar, ki povezuje ljudem prijazna barvna imena (gesla) z računalnikom prijaznimi šestnajstiškimi kodami (vrednosti).
 
-+ A dictionary is contained in curly brackets.
++ Slovar je vsebovan v zavitih oklepajih.
     
-    Create an empty dictionary called `colours`:
+    Ustvari prazen slovar in ga poimenuj `barve`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![posnetek zaslona](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Za svoje barve določi zanimiva imena in jih vnesi v slovar z urejanjem vrstice `barve =`.
     
-    Here's an example colour dictionary:
+    Tukaj se nahaja primer slovarja barv:
     
-    ![screenshot](images/colourful-colours.png)
+    ![posnetek zaslona](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    Geslo (ime barve) in vrednost (šestnajstiška vrednost) sta ločena z dvopičjem `:`. Med vsakim parom geslo:vrednost mora stati vejica `,`.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Ni si potrebno zapomniti šestnajstiških kod, saj jih lahko poiščeš v slovarju.
     
-    Adapt the following code to use your colour names:
+    Da bi uporabil svoja imena za barve, prilagodi naslednjo kodo:
     
-    ![screenshot](images/colourful-entries.png)
+    ![posnetek zaslona](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Geslo mora biti zapisano med oglatima oklepajima '[]', za imenom slovarja.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Sedaj lahko nadgradiš kodo, da bo iskala barve v tvojem slovarju:
     
-    ![screenshot](images/colourful-use.png)
+    ![posnetek zaslona](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Preizkusi svojo kodo in se prepričaj, da se besedilo še vedno pravilno prikazuje.
