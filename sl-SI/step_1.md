@@ -1,6 +1,6 @@
-## Introduction
+## Uvod
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+V tem projektu boš ustvaril slovar barv, ki bo opisal težko zapomnljive barvne kode kot razumljiva imena.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Dodatne informacije za vodje klubov
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Za tiskanje tega projekta, prosimo uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opombe za vodje klubov
 
-## Introduction:
+## Uvod:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Ta projekt je namenjen uvajanju v slovarje, tako da ustvarimo slovar, ki poveže človeku razumljiva imena barv s šestnajškimi kodami. Barvne kode se nato poiščejo v slovarju, z njimi pa se ustvari barvit plakat.
 
-## Online Resources
+## Spletni viri
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Ta projekt uporablja Python 3.** Priporočamo uporabo [trinket-a](https://trinket.io/) za pisanje Python kode na spletu. Ta projekt uporablja naslednje trinket-e:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [Izhodišče za 'Barvite kreacije' - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+Na voljo je tudi trinket, ki vsebuje rešen primer izzivov:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
+* [Zaključene 'Barvite kreacije'](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## Nespletni viri
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Če želimo, lahko ta projekt [zaključimo brez povezave na splet](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Do virov tega projekta je mogoče dostopati s klikom na povezavo 'Materiali projekta'. Ta povezava vsebuje razdelek 'Viri projekta', ki vključuje vire, ki jih bodo otroci potrebovali za dokončanje tega projekta brez spletne povezave. Poskrbite, da ima vsak otrok dostop do kopije teh virov. Ta razdelek vključuje naslednje datoteke:
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Dokončano različico izzivov tega projekta lahko najdete tudi v razdelku 'Viri za prostovoljce', ki vsebuje:
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Vsi zgoraj navedeni projektni viri in viri za prostovoljce se lahko prenesejo tudi kot `.zip` datoteke.)
 
-## Learning Objectives
+## Učni cilji
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Slovarji - ustvarjanje in iskanje vrednosti;
+* Želvja grafika - besedilo, pisave in barve;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ta projekt zajema elemente iz naslednjih delov [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Uporaba osnovnih programskih konstruktov za ustvarjanje preprostih programov.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Oblikovanje osnovnih 2D in 3D sredstev.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Izzivi
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Več barv! - S pomočjo spletne strani za izbiranje barv najdi šestnajstiške kode in jih dodaj v slovar. 
+* Ustvarjanje plakata - ustvari slovar z lastno paleto in ga uporabi za ustvarjanje plakata s pomočjo želvje grafike. 
 
-## Frequently Asked Questions
+## Pogosto zastavljena vprašanja
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Otroke bo morda potrebno opozarjati na vejico ',' ob koncu vsakega vnosa v slovar. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## naslov: Materiali projekta
 
-## Project resources
+## Viri projekta
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [.zip datoteka, ki vsebuje vse vire projekta](resources/colourful-creations-project-resources.zip)
+* [Prazen Python trinket, ki potrebuje spletno povzavo](http://jumpto.cc/python-new)
+* [Prazna Python datoteka, ki deluje brez povezave spletom](resources/new-new.py)
 
-## Club leader resources
+## Viri za vodje klubov
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/97822f48b7)
+* [.zip datoteka, ki vsebuje vse dokončane vire projekta](resources/colourful-creations-volunteer-resources.zip)
+* [Na spletu dokončan trinket projekt](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
