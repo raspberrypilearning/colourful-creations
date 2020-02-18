@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Izziv: Več barv!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Ali lahko v svoj slovar dodaš še več barv in jih preizkusiš? Uporabi <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a>, da najdeš še več barv.
 
-Don't forget to give your colours awesome names.
+Ne pozabi svojih barv poimenovati z zanimivimi imeni.
 
-Here's some example code to remind you how to use the turtle:
+Tukaj se nahaja nekaj primerov kode, ki ti bodo osvežile znanje o uporabi želve:
 
-![screenshot](images/colourful-challenge1.png)
+![posnetek zaslona](images/colourful-challenge1.png)
 
 \--- /challenge \---
