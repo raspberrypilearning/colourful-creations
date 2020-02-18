@@ -3,70 +3,70 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
-colours = { 
-  'space': '#060608', 
-  'moongrey': '#BCBDEF', 
-  'verylime': '#A7E30E', 
-  'deepsea': '#226363', 
-  'reallyraspberry': '#FA057F', 
-  'gloomygrey': '#363332', 
-  'awesomeorange':  '#F37C06', 
-  'coolcyan': '#4FEEF6',
-  'perfectpurple': '#6820B0',
-  'lovelylemon': '#FBF312',
+# uvedi slovarje
+# za iskanje in izbiro barv uporabi iskalnik barv
+barve = { 
+  'vesolje': '#060608', 
+  'sivmesec': '#BCBDEF', 
+  'kislalimeta': '#A7E30E', 
+  'globokomorje': '#226363', 
+  'zrelamalina': '#FA057F', 
+  'sivosiva': '#363332', 
+  'krasnooranžna':  '#F37C06', 
+  'kulskomodra': '#4FEEF6',
+  'popolnovijolična': '#6820B0',
+  'ljubkalimona': '#FBF312',
 }
 
-screen = Screen()
-screen.setup(400, 400)
-screen.bgcolor(colours['space'])
+zaslon = Screen()
+zaslon.setup(400, 400)
+zaslon.bgcolor(colours['vesolje'])
 
 penup()
 goto(0, 100)
-color(colours['reallyraspberry'])
-style = ('Arial', 40, 'bold')
-write('HELLO', font=style, align='center')
+color(barve['zrelamalina'])
+stil = ('Arial', 40, 'bold')
+write('POZDRAVLJEN', font=stil, align='center')
 right(90)
 forward(60)
-color(colours['awesomeorange'])
-write('WORLD', font=style, align='center')
+color(barve['krasnooranžna'])
+write('SVET', font=stil, align='center')
 hideturtle()
 
 sleep(3)
 
 goto(0,0)
-color(colours['moongrey'])
+color(barve['sivmesec'])
 dot(350)
 
 setheading(-90)
 penup()
 hideturtle()
 goto(0, 135)
-color(colours['verylime'])
-style=('Verdana', 20, 'bold')
-write('A typical', font=style, align='center')
+color(barve['kislalimeta'])
+stil=('Verdana', 20, 'bold')
+write('Tipični', font=stil, align='center')
 forward(40)
-color(colours['reallyraspberry'])
-write('smart phone', font=('Verdana', 25, 'bold'), align='center')
+color(barve['zrelamalina'])
+write('pametni telefon', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['deepsea'])
-write('has more', font=('Verdana', 18, 'bold'), align='center')
+color(barve['globokomorje'])
+write('ima bolj', font=('Verdana', 18, 'bold'), align='center')
 forward(40)
-color(colours['awesomeorange'])
-write('computing power', font=('Verdana', 25, 'bold'), align='center')
+color(barve['krasnooranžna'])
+write('zmogljiv procesor, ', font=('Verdana', 25, 'bold'), align='center')
 forward(40)
-color(colours['perfectpurple'])
-write('than', font=style, align='center')
+color(barve['popolnovijolična'])
+write('kot', font=stil, align='center')
 forward(40)
-color(colours['coolcyan'])
+color(barve['kulskomodra'])
 write('Apollo 11', font=('Verdana', 25, 'bold'), align='center')
-color(colours['lovelylemon'])
+color(barve['ljubkalimona'])
 forward(40)
-write('when it landed on', font=style, align='center')
-color(colours['gloomygrey'])
+write('ko je pristal na', font=stil, align='center')
+color(barve['sivosiva'])
 forward(40)
-write('the moon', font=('Verdana', 25, 'bold'), align='center')
+write('luni', font=('Verdana', 25, 'bold'), align='center')
 color('white')
 forward(50)
 write('- Nancy Gibbs, 2012', font=('Arial', 14, 'normal'))
