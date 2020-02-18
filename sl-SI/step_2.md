@@ -1,33 +1,33 @@
-## Using hex colour codes
+## Uporaba šetnajstiških kod
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Python želva ima predefinirane barve, kot so 'red' za rdečo in 'white' za belo, vendar je mogoče uporabljati tudi šetnajstiške kode barv (to ste morda že videli v teh HTML & CSS tečajih).
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Odpri prazen Python trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Za uporabo želvje grafike uporabi naslednjo namestitveno kodo:
     
-    ![screenshot](images/colourful-setup.png)
+    ![posnetek zaslona](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    Bodi pozoren na to, da si uporabil vnaprej poimenovano barvo: 'white'.
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Želvja grafika ima seznam barv, ki jih lahko uporabiš, včasih pa bi rad izbral tudi katero drugo barvo. Želva v ta namen omogoča rabo šestnajstiške barvne kodo.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    Odpri <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> in izberi barvo, ki ti je všeč. Poišči njeno šestnajstiško kodo. Ta se začne z '#', kot npr. '#A7E30E'.
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ Skopiraj to šestnajstiško kodo skupaj z lojtro, ki stoji pred njo, tako da jo označiš in potem z desnim klikom miške izbereš Kopiraj ali pa uporabiš tipki Ctrl-C.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Sedaj spremeni vrstico kode, ki določi barvo zaslona, tako da bo uporabljena tvoja barva. Na primer:
     
-    ![screenshot](images/colourful-background.png)
+    ![posnetek zaslona](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    Da bi prilepil svojo šestnajstiško kodo v trinket, lahko uporabiš tudi kombinacijo desnega klika in opcije Prilepi ali tipki Ctrl-V.
 
-+ Choose another hex colour code and use it to create coloured text:
++ Izberi drugo šestnajstiško kodo in jo uporabi pri ustvarjanju barvnega besedila:
     
-    ![screenshot](images/colourful-write.png)
+    ![posnetek zaslona](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Ni ti potrebno uporabljati 'Arial' pisave, lahko preskusiš tudi pisave 'Verdana', 'Times' ali 'Courier'.
     
-    '40' is the font size, you can try changing that too.
+    Velikost pisave je '40', lahko pa poskusiš spremeniti tudi to.
 
-+ Try different colours until you get two that you really like that look good together.
++ Preizkusi različne barve, dokler ne najdeš dveh, ki skupaj delujeta lepo.
