@@ -18,11 +18,11 @@
 
 ## はじめに
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. 色のコードはディクショナリで参照され、色とりどりのポスターの作成に使われます。
 
-## Online Resources
+## オンラインリソース
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**本プロジェクトでは、Python 3**を使います。オンラインでPythonのコードを記述するには、[trinket](https://trinket.io/)の使用をお勧めします。 本プロジェクトには、以下のtrinketが用意されています：
 
 * ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
