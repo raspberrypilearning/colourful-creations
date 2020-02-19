@@ -16,7 +16,7 @@ Python turtle has predefined colours such as 'red' and 'white' but you can also 
 
 + Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ Now change the line of code that sets the screen colour to use your colour. 例えば:
     
     ![screenshot](images/colourful-background.png)
     
