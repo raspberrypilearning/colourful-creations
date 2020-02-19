@@ -1,4 +1,4 @@
-## A Colour Dictionary
+## 色のディクショナリ
 
 Using hex colour codes is really flexible but they are hard to remember.
 
