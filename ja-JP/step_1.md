@@ -18,21 +18,21 @@
 
 ## はじめに
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. 色のコードはディクショナリで参照され、色とりどりのポスターの作成に使われます。
+このプロジェクトは人に分かりやすい色の名称を16進コードにマップするディクショナリの作成を通じてディクショナリを紹介する。 色のコードはディクショナリで参照され、色とりどりのポスターの作成に使われます。
 
 ## オンラインリソース
 
 **本プロジェクトでは、Python 3**を使います。オンラインでPythonのコードを記述するには、[trinket](https://trinket.io/)の使用をお勧めします。 本プロジェクトには、以下のtrinketが用意されています：
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['カラフルな物の作成'の出発点 -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+また、チャレンジに対しての回答例を含むtrinketもあります。
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
+* ['カラフルな物の作成'の完成版 -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## オフラインリソース
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションは下記ファイルを含む：
 
 * colourful-creations/colourful-creations.py
 
