@@ -6,7 +6,7 @@ Python turtle has predefined colours such as 'red' and 'white' but you can also 
 
 + Add the following set up code for using the turtle:
     
-    ![screenshot](images/colourful-setup.png)
+    ![スクリーンショット](images/colourful-setup.png)
     
     Notice that you used a named colour: 'white'.
 
@@ -18,16 +18,16 @@ Python turtle has predefined colours such as 'red' and 'white' but you can also 
 
 + Now change the line of code that sets the screen colour to use your colour. 例えば:
     
-    ![screenshot](images/colourful-background.png)
+    ![スクリーンショット](images/colourful-background.png)
     
     You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
 
 + Choose another hex colour code and use it to create coloured text:
     
-    ![screenshot](images/colourful-write.png)
+    ![スクリーンショット](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    Arialフォントを使用する必要はない、Verdana, TimesかCourierを試しても問題ない。
     
     '40' is the font size, you can try changing that too.
 
-+ Try different colours until you get two that you really like that look good together.
++ 様々な色を試し、自分が好きな2つの色の組み合わせができるまで試そう。
