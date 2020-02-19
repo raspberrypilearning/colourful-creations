@@ -2,13 +2,13 @@
 
 ## Challenge: Create a poster
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+デザイナーの多くは色のパレットを作り、砂漠や宇宙など特定のテーマに使えるものを作る。
 
 Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
 
 Create a poster using your colour palette dictionary.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+`forward`、`right`、 `left`、 `penup`、 `pendown`　などすでに知っている他のタートルコマンドを使用することも可能。 
 
 Maybe you could add a border to your poster?
 
@@ -19,6 +19,6 @@ Other useful turtle commands:
 
 Here's an example:
 
-![screenshot](images/colourful-finished.png)
+![スクリーンショット](images/colourful-finished.png)
 
 \--- /challenge \---
