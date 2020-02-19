@@ -1,6 +1,6 @@
-## Introduction
+## はじめに
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+このプロジェクトでは覚えるのが難しい色のコードを親しみやすい名称にマッピングするディクショナリを作成します。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,15 +8,15 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/colourful-creations/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブリーダー・ノート
 
-## Introduction:
+## はじめに
 
 This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
 
