@@ -51,14 +51,14 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [2次元と3次元のアセットをデザインする。](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## チャレンジ
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
+* もっと色！ - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
 * Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
 
-## Frequently Asked Questions
+## よくある質問
 
 * Children may need reminding about the comma ',' at the end of each dictionary entry. 
 
@@ -68,16 +68,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## title: Project materials
 
-## Project resources
+## プロジェクト資料
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
+* [全プロジェクト・リソースの入った.zipファイル](resources/colourful-creations-project-resources.zip)
 * [Online blank Python Trinket](http://jumpto.cc/python-new)
 * [Offline blank Python file](resources/new-new.py)
 
-## Club leader resources
+## クラブ・リーダー向けリソース
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/97822f48b7)
+* [全プロジェクトの完成版リソースの入った.zipファイル](resources/colourful-creations-volunteer-resources.zip)
+* [完成版プロジェクトのオンラインtrinket](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
