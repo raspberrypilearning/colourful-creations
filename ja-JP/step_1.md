@@ -42,14 +42,14 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Learning Objectives
+## 学習目標
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* ディクショナリ：値の作成と検索
+* タートルグラフィックス：文書、フォント、と色
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
 * [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
 
