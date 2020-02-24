@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## チャレンジ: ポスターを作ろう
 
-デザイナーの多くは色のパレットを作り、砂漠や宇宙など特定のテーマに使えるものを作る。
+デザイナーの多くは色の'パレット'を作り、砂漠や宇宙など特定のテーマに使えるものを作ります。
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Pythonの新しいプロジェクトを作り、テーマ用のカラーパレットのために辞書を使えますか？ 秋、森、海、クリスマス、アイスクリーム、自分の一番好きなスポーツチームの色、自分のアイディアなどを選べます。
 
-Create a poster using your colour palette dictionary.
+あなたの色パレットの辞書を使ってポスターを作ろう。
 
-`forward`、`right`、 `left`、 `penup`、 `pendown`　などすでに知っている他のタートルコマンドを使用することも可能。 
+`forward`、`right`、 `left`、 `penup`、 `pendown`　などすでに知っている他のturtleコマンドを使用することも可能です。
 
-Maybe you could add a border to your poster?
+ポスターに境界を付けることもできますか？
 
-Other useful turtle commands:
+他に便利なturtleコマンド:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)`半径50の丸のアウトラインを描く。
++ `dot(100)` 直径100の塗りつぶされた円を描く。 
 
-Here's an example:
+以下に例を示します:
 
 ![スクリーンショット](images/colourful-finished.png)
 
