@@ -1,33 +1,33 @@
-## Using hex colour codes
+## 16進カラーコードを使おう
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Python turtleは事前に定義された赤や白の色がありますが、16進カラーコード(あなたはこれらをHTML & CSSコースで見たことがあるかもしれません) を使用することも可能です。
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 空のPythonテンプレートTrinketを開く: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>
 
-+ Add the following set up code for using the turtle:
++ 次のセットアップコードをturtleを使うために追加する:
     
     ![スクリーンショット](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    名前のついた色を使用する際の注意: 'white'
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ 利用可能な色の名前のリストがturtleにはありますが、自分で選んだ色を使いたい時もあります。 16進カラーコードをturtleは利用することも可能です。
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> を開き、好きな色を選択する。 '#A7E30E'のように'#'で始まる16進コードを探してください。
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ ハッシュを含む16進コードをコピーするには、ハイライトし、右クリックでコピーを選択、またはCtrl-Cでコピーしてください。
 
-+ Now change the line of code that sets the screen colour to use your colour. 例えば:
++ 次に、画面の色を設定するコードの行を変更して、あなたの色を使用します。 例えば:
     
     ![スクリーンショット](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    右クリックまたはCtrl-Vでにより、trinketに16進コードを貼り付けることができます。
 
-+ Choose another hex colour code and use it to create coloured text:
++ 別の16進カラーコードを選び、それを使って色が付いた文章を作ろう:
     
     ![スクリーンショット](images/colourful-write.png)
     
-    Arialフォントを使用する必要はない、Verdana, TimesかCourierを試しても問題ない。
+    'Arial'フォントを使用する必要はなく、'Verdana', 'Times'または'Courier'を試しても問題ないです。
     
-    '40' is the font size, you can try changing that too.
+    '40'はフォントサイズです、それも変更してみてください。
 
-+ 様々な色を試し、自分が好きな2つの色の組み合わせができるまで試そう。
++ 様々な色を試し、自分が好きな組み合わせの2つの色を決めましょう。
