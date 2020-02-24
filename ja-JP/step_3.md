@@ -1,35 +1,35 @@
-## 色のディクショナリ
+## 色の辞書
 
-Using hex colour codes is really flexible but they are hard to remember.
+16進カラーコードを使用することは本当に柔軟ですが、覚えにくいです。
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+もうすでにご存じだと思うが、辞書により言葉で検索して、その意味することを見ることができます。 Pythonの辞書はそれよりさらに柔軟です - 辞書にあるいかなる'キー'に対しても値を調べることが可能です。
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+人に分かりやすい色の名前(キー) とコンピューター向けの16進コード(値) を結びつける辞書を作ってみよう。
 
-+ A dictionary is contained in curly brackets.
++ 辞書は中括弧で囲まれています。
     
-    Create an empty dictionary called `colours`:
+    `colours`のという名前の空の辞書を作りましょう:
     
     ![スクリーンショット](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ かっこいい色の名前を選び、`colours =`行を編集し、それらを辞書の要素に追加します。
     
-    Here's an example colour dictionary:
+    これが色の辞書の例です:
     
     ![スクリーンショット](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    コロン`:` はキー(色の名前)と値(16進コード)を分けます。辞書の中の各キー:値のペアの間にはカンマ`,` が必要です。
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ これで、16進コードを覚える必要がなく、辞書で検索すればいいようになりました。
     
-    Adapt the following code to use your colour names:
+    色の名前を使用するために次のコードを当てはめます:
     
     ![スクリーンショット](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    辞書の名前の後にある角括弧'[]'の中にキーは入ります。
 
-+ Now you can update your code to look up colours in the dictionary:
++ コードを更新して、辞書の中で色を検索できるようになりました。
     
     ![スクリーンショット](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ コードをテストして、文章が正しく表示されることを確認します。
