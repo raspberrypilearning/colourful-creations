@@ -1,16 +1,13 @@
 --- challenge ---
-## التحدي: ألوان أخرى!
 
-هل يمكنك إضافة ألوان أخرى إلى القاموس وتجربتها؟ استخدم <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> للبحث عن ألوان أخرى. 
+## تحدّي: ألوان أخرى!
 
-تذكَّر أن تعطي هذه الألوان أسماءً سهلة. 
+هل تستطيع إضافة المزيد من الألوان لقاموسك وتجربتها؟ استخدم <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> لتجد المزيد من الألوان.
 
-إليك مثالًا لتعليمات برمجية لتذكيرك بكيفية استخدام مكتبة turtle:
+لا تنسَ أن تعطِ ألوانك أسماء مميزة ورائعة.
 
-![screenshot](images/colourful-challenge1.png)
+إليك بعض الأمثلة لتذكيرك بكيفية استخدام السلحفاة:
 
-
-
-
+![لقطة شاشة](images/colourful-challenge1.png)
 
 --- /challenge ---
