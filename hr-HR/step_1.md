@@ -36,7 +36,7 @@ Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubproje
 
 * colourful-creations/colourful-creations.py
 
-Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
