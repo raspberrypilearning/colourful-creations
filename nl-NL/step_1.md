@@ -36,7 +36,7 @@ Dit project kan [offline worden voltooid](https://www.codeclubprojects.org/en-GB
 
 * colourful-creations/colourful-creations.py
 
-Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de sectie 'Vrijwilligersbronnen', met daarin:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
