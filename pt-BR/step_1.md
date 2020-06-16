@@ -36,7 +36,7 @@ Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-
 
 * colourful-creations/colourful-creations.py
 
-Você também pode encontrar uma versão completa dos desafios deste projeto na seção 'Recursos para Voluntários', que contém:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * Colorido-criações-acabado / colourful-creations.py
 
