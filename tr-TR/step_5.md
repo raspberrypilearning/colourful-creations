@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Meydan Okuma: Bir poster yaratın
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Tasarımcılar genellikle çöl veya uzay gibi belirli bir tema için birlikte güzel gözüken bir renk 'paleti' oluştururlar.
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Python'da temalı bir renk paleti kullanan yeni bir sözlük projesi oluşturabilir misiniz. Sonbahar, orman, deniz, yılbaşı, dondurma, en sevdiğiniz spor takımının renklerini veya kendi fikrinizi seçebilirsiniz.
 
-Create a poster using your colour palette dictionary.
+Renk paleti sözlüğünüzü kullanarak bir poster oluşturun.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Ayrıca `forward`, `right`, `left`, `penup`, `pendown` gibi bildiğiniz diğer turtle komutlarını da kullanabilirsiniz.
 
-Maybe you could add a border to your poster?
+Belki posterinize bir kenarlık da ekleyebilirsiniz?
 
-Other useful turtle commands:
+Diğer faydalı turtle komutları:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` yarıçapı 50 birim olan bir çember çizer.
++ `dot(100)` 100 birim çapında içi dolu bir daire çizer. 
 
-Here's an example:
+İşte bir örnek:
 
-![screenshot](images/colourful-finished.png)
+![ekran görüntüsü](images/colourful-finished.png)
 
 \--- /challenge \---
