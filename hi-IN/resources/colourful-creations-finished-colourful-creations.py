@@ -3,8 +3,8 @@
 from turtle import *
 from time import *
 
-# introduce dictionaries
-# use a colour picker to find and choose new colours
+# शब्दकोशों की सूची बनाएँ।
+# नए रंगों को खोजने और चुनने के लिए एक कलर पिकर का उपयोग करें।
 colours = { 
   'space': '#060608', 
   'moongrey': '#BCBDEF', 
