@@ -1,6 +1,6 @@
-## Introduction
+## Giriş
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+Bı projede hatırlanması zor renk kodlarını akılda kalıcı isimlerle eşleştireceğiniz bir renk sözlüğü oluşturacaksınız.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### Kulüp liderleri için ek bilgi
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/colourful-creations/print) kullanın.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Kulüp lideri notları
 
-## Introduction:
+## Giriş:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+Bu proje; onaltılık (hex) kodlarını daha anlaşılır renk isimlerine dönüştüren bir sözlük yaratarak, programlamada kullanılan sözlükleri tanıtıyor. Renk kodları daha sonra sözlükte aranır ve renkli bir poster oluşturmak için kullanılır.
 
-## Online Resources
+## Çevrimiçi Kaynaklar
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Bu proje Python 3'ü kullanıyor.** Çevrimiçi Python programlama için [trinket](https://trinket.io/) kullanmanızı tavsiye ederiz. Bu proje aşağıdaki trinketleri içeriyor:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['Renkli Tasarımlar' başlangıç noktası - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
+* ['Renkli Tasarımlar' Tamamlanmış proje -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## Çevrimdışı Kaynaklar
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) olarak tamamlanabilir. Bu proje için proje kaynaklarına, 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
-* colourful-creations-finished/colourful-creations.py
+* colourful-creations/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Yukarıdaki kaynakların tümü proje ve gönüllü olarak indirilebilen `.zip` dosyalarıdır)
 
-## Learning Objectives
+## Kazanımlar
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Sözlükler - değerleri oluşturma ve değer bulma;
+* Turtle grafikleri - metin, karakter tipi ve renkler;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [Temel 2B ve 3B varlıkların tasarlanması.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## Meydan Okumalar
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* Daha fazla renk! Daha fazla onaltılık renk kodu bulmak ve bunları sözlüğe eklemek için bir renk seçici internet sitesi kullanın. 
+* Bir poster yaratın - Özel bir renk paleti sözlüğü kullanın ve bunları Turtle grafikleriyle kullanarak bir poster oluşturun. 
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* Çocuklara, her sözlük girdisinin sonuna bir virgül ',' konulması gerektiği hatırlatılmalıdır. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Proje materyalleri
 
-## Project resources
+## Proje kaynakları
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [Tüm proje kaynaklarını içeren .zip dosyası](resources/colourful-creations-project-resources.zip)
+* [Çevrimiçi boş Python Trinket'ı](http://jumpto.cc/python-new)
+* [Çevrimdışı boş Python dosyası](resources/new-new.py)
 
-## Club leader resources
+## Kulüp lideri için kaynaklar
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/97822f48b7)
+* [Tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](resources/colourful-creations-volunteer-resources.zip)
+* [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
