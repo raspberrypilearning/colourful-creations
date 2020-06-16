@@ -36,7 +36,7 @@
 
 * colourful-creations/colourful-creations.py
 
-このプロジェクトチャレンジの完成版は'ボランティアリソース'のセクションにもあります。
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
