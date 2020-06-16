@@ -36,7 +36,7 @@ Na voljo je tudi trinket, ki vsebuje rešen primer izzivov:
 
 * colourful-creations/colourful-creations.py
 
-Dokončano različico izzivov tega projekta lahko najdete tudi v razdelku 'Viri za prostovoljce', ki vsebuje:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
