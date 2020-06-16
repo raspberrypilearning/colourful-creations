@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Meydan Okuma: Daha fazla renk!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+Sözlüğünüze daha fazla renk ekleyip, bunları deneyebilir misiniz? <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> öğesini kullanarak daha fazla renk bulun.
 
-Don't forget to give your colours awesome names.
+Renklerinize harika isimler vermeyi unutmayın.
 
-Here's some example code to remind you how to use the turtle:
+Turtle modülünü nasıl kullanacağınızı hatırlatan bazı örnek kodlar:
 
-![screenshot](images/colourful-challenge1.png)
+![ekran görüntüsü](images/colourful-challenge1.png)
 
 \--- /challenge \---
