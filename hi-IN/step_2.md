@@ -1,33 +1,33 @@
-## Using hex colour codes
+## हेक्स कलर कोड्स का उपयोग करना
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+पायथन कछुए ने 'लाल' और 'सफेद' जैसे रंगों को पूर्वनिर्धारित किया है, लेकिन आप हेक्स कलर कोड का उपयोग भी कर सकते हैं (आपने इन्हें HTML & CSS कोर्स में देखा होगा।)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिक्त Python टेंपलेट Trinket खोलें: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ कछुए का उपयोग करने के लिए निम्नलिखित सेट अप कोड जोड़ें:
     
-    ![screenshot](images/colourful-setup.png)
+    ![स्क्रीनशॉट](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    ध्यान दें कि आपने एक नामित रंग का उपयोग किया था: 'सफेद'।
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ कछुए के पास रंग के नामों की एक सूची है जिसका उपयोग आप कर सकते हैं, लेकिन कभी-कभी आप अपने खुद के रंगों का चयन करना चाहते हैं। कछुआ भी आपको हेक्स रंग कोड का उपयोग करने की अनुमति देता है।
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    <a href="http://jumpto.cc/colour-picker" target="_blank"> Jumpto.cc/colour-picker खोलें </a> और अपनी पसंद के अनुसार रंग चुनें। '#' के साथ शुरू हेक्स कोड का पता लगाएं, जैसे '# A7E30E'।
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ हेक्स कोड को हैश सहित कॉपी करें, इसे हाइलाइट करके और फिर राइट-क्लिक करके कॉपी चुनें, या Ctrl-C का उपयोग करें।
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ अब कोड की लाइन को बदलें जो आपके रंग का उपयोग करने के लिए स्क्रीन रंग सेट करता है। उदाहरण के लिए:
     
-    ![screenshot](images/colourful-background.png)
+    ![स्क्रीनशॉट](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    अपने हेक्स कोड को ट्रिंकेट में पेस्ट करने के लिए आप राइट-क्लिक और पेस्ट या Ctrl-V का उपयोग कर सकते हैं।
 
-+ Choose another hex colour code and use it to create coloured text:
++ एक और हेक्स रंग कोड चुनें और रंगीन टेक्स्ट बनाने के लिए इसका उपयोग करें:
     
-    ![screenshot](images/colourful-write.png)
+    ![स्क्रीनशॉट](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    आपको 'एरियल' फ़ॉन्ट का उपयोग करने की आवश्यकता नहीं है, आप 'वर्डाना', 'टाइम्स' या 'कूरियर' आजमा सकते हैं।
     
-    '40' is the font size, you can try changing that too.
+    '40' फ़ॉन्ट आकार है, आप इसे भी बदलने का प्रयास कर सकते हैं।
 
-+ Try different colours until you get two that you really like that look good together.
++ तब तक अलग-अलग रंग आज़माएँ जब तक आप दो रंग नहीं मिलते जो आपको पसंद है|
