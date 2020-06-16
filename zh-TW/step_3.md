@@ -1,8 +1,8 @@
-## A Colour Dictionary
+## 顏色字典
 
 Using hex colour codes is really flexible but they are hard to remember.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+正如您可能已經知道的那樣，dictionary 允許您查找單詞，並查看其含義。 In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
 
 Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
 
