@@ -36,7 +36,7 @@
 
 * colourful-creations/colourful-creations.py
 
-이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다. 다음 파일이 있습니다:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * 완성된 오프라인 파이썬 파일/colourful-creations.py
 
