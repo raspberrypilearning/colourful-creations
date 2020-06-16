@@ -36,7 +36,7 @@ Acest proiect poate fi [finalizat offline](https://www.codeclubprojects.org/en-G
 
 * colourful-creations/colourful-creations.py
 
-De asemenea, poți găsi o versiune finalizată a provocărilor din acest proiect în secțiunea „Resurse pentru liderul de club”, care conține:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
