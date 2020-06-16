@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## Bir Renk Sözlüğü
 
-Using hex colour codes is really flexible but they are hard to remember.
+Onaltılık renk kodlarını kullanmak gerçekten esnektir ancak hatırlaması zordur.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+Muhtemelen zaten bildiğiniz gibi sözlükler, bir kelimeye bakmanıza ve bunun anlamını görmenize izin verir. Python'da sözlük bundan daha da esnektir - sözlükteki herhangi bir 'anahtar' için bir değer aramanıza izin verir.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+Hadi şimdi insan-dostu renk isimleriyle (anahtar), bilgisayar-dostu onaltılık kodları (değer) eşleştireceğimiz bir sözlük yaratalım.
 
-+ A dictionary is contained in curly brackets.
++ Sözlükler, süslü parantezin {} içinde bulunurlar.
     
-    Create an empty dictionary called `colours`:
+    `renkler` adında boş bir sözlük yaratın:
     
-    ![screenshot](images/colourful-dict.png)
+    ![ekran görüntüsü](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ Renkleriniz için havalı isimler seçin ve sözlüğe bunların girdilerini eklemek için `renkler =` satırını düzenleyin.
     
-    Here's an example colour dictionary:
+    Örnek bir renk sözlüğü:
     
-    ![screenshot](images/colourful-colours.png)
+    ![ekran görüntüsü](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    İki nokta `:` işareti anahtarı (renk adı), değerden (onaltılık kod) ayırır. Sözlüğünüzdeki her anahtar:değer çiftinin arasına bir virgül işareti`,` koymanız gerekir.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ Artık onaltılık kodları hatırlamanıza gerek yok, bunları sadece sözlükten aratabilirsiniz.
     
-    Adapt the following code to use your colour names:
+    Renk adlarınızı kullanmak için aşağıdaki kodu uyarlayın:
     
-    ![screenshot](images/colourful-entries.png)
+    ![ekran görüntüsü](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    Anahtar, sözlüğün isminden sonraki köşeli parantezin '[]' içinde yer alır.
 
-+ Now you can update your code to look up colours in the dictionary:
++ Artık, sözlükteki renkleri aramak için kodunuzu güncelleyebilirsiniz:
     
-    ![screenshot](images/colourful-use.png)
+    ![ekran görüntüsü](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ Metninizin hala doğru görüntülendiğinden emin olmak için kodunuzu test edin.
