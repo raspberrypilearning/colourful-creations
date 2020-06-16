@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## 挑戰：製作一張海報
 
 Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
 
