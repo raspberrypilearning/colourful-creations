@@ -36,7 +36,7 @@ Dieses Projekt kann, falls gewünscht, auch [offline bearbeitet](https://www.cod
 
 * colourful-creations/colourful-creations.py
 
-Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
