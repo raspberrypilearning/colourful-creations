@@ -36,7 +36,7 @@ Gall y prosiect hwn gael ei [gwblhau all-lein](https://www.codeclubprojects.org/
 
 * colourful-creations/colourful-creations.py
 
-Gallwch hefyd ddod o hyd i fersiwn wedi'i gwblhau o heriau'r prosiect hwn yn yr adran 'Adnoddau Gwirfoddolwyr', sy'n cynnwys:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
