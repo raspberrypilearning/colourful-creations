@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## चुनौती: पोस्टर बनाएँ
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+डिजाइनर अक्सर रंगों का एक 'पैलेट' बनाते हैं जो किसी विशेष विषय जैसे रेगिस्तान या अंतरिक्ष के लिए एक साथ अच्छी तरह से काम करते हैं।
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+क्या आप एक नया पायथन प्रोजेक्ट बना सकते हैं जो थीम वाले रंग पैलेट के लिए एक शब्दकोश का उपयोग करता है। आप शरद ऋतु, वन, समुद्र, क्रिसमस, आइसक्रीम, अपनी पसंदीदा स्पोर्ट्स टीम के रंग या अपने खुद के एक विचार का चयन कर सकते हैं।
 
-Create a poster using your colour palette dictionary.
+अपने रंग पैलेट शब्दकोश का उपयोग कर एक पोस्टर बनाएं।
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+आप अन्य कछुए कमांड का भी उपयोग कर सकते हैं जिन्हें आप जानते हैं जैसे कि `forward`, `right`, `left`, `penup` and `pendown`।
 
-Maybe you could add a border to your poster?
+शायद आप अपने पोस्टर में सीमा जोड़ सकते हैं?
 
-Other useful turtle commands:
+अन्य उपयोगी कछुए आदेश:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` के साथ एक सर्कल की रूपरेखा तैयार करता है।
++ `dot(100)` के साथ 100 व्यास का भरा हुआ सर्कल बनाये। 
 
-Here's an example:
+यहाँ एक उदाहरण है:
 
-![screenshot](images/colourful-finished.png)
+![स्क्रीनशॉट](images/colourful-finished.png)
 
 \--- /challenge \---
