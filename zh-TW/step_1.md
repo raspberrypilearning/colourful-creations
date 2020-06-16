@@ -18,9 +18,9 @@
 
 ## 介紹：
 
-這個專案透過創建一個能將顏色名稱對應到十六進制顏色代碼的字典來介紹 dictionary 的概念。 然後利用字典找到顏色代碼以創造一張色彩斑斕的海報。
+這個專案透過創建一個能將顏色名稱對應到十六進制顏色代碼的字典來介紹 dictionary 的概念。 The colour codes are then looked up in the dictionary and used to create a colourful poster.
 
-## 線上資源
+## Online Resources
 
 **這個專案使用 Python 3。**我們建議利用 [trinket](https://trinket.io/) 在線上撰寫 Python 程式。 這項專案包括以下 Trinkets：
 
@@ -36,7 +36,7 @@
 
 * colourful-creations/colourful-creations.py
 
-你還可以在「志工相關資源」部分中找到內含挑戰的專案完整版，包括以下文件：
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
@@ -45,20 +45,20 @@
 ## Learning Objectives
 
 * Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* Turtle 圖像 - 文字，字體和顏色;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本專案中的以下課程由[樹莓派數位化課程](http://rpf.io/curriculum)提供：
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [使用基本的編程結構來創造簡單的程式。](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [設計基本的2D和3D元件。](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## 挑戰
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
+* 更多顏色！ - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
 * Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
 
-## Frequently Asked Questions
+## 常見問題
 
 * Children may need reminding about the comma ',' at the end of each dictionary entry. 
 
@@ -66,15 +66,15 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## 標題：專案材料
 
-## Project resources
+## 專案資源
 
 * [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [線上空白的Python Trinket](http://jumpto.cc/python-new)
+* [線上空白的Python 檔案](resources/new-new.py)
 
-## Club leader resources
+## 俱樂部領秀資源
 
 * [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/97822f48b7)
