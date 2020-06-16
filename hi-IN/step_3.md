@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## कलर डिक्शनरी
 
-Using hex colour codes is really flexible but they are hard to remember.
+हेक्स रंग कोड का उपयोग करना वास्तव में लचीला है लेकिन उन्हें याद रखना मुश्किल है।
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+जैसा कि आप शायद पहले से ही जानते हैं, एक शब्दकोश आपको एक शब्द देखने और इसका अर्थ देखने की अनुमति देता है। पायथन में, एक शब्दकोश और भी अधिक लचीला है कि - यह आपको शब्दकोश में किसी भी 'कुंजी' के लिए एक मूल्य देखने की अनुमति देता है।
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+आइए मानव-अनुकूल रंग नामों (कुंजियों) से कंप्यूटर-अनुकूल हेक्स कोड (मान) तक मानचित्र बनाने के लिए एक शब्दकोश बनाएं।
 
-+ A dictionary is contained in curly brackets.
++ एक शब्दकोश घुंघराले कोष्ठक में निहित है।
     
-    Create an empty dictionary called `colours`:
+    एक खाली शब्दकोश बनाएं जिसे ` colours`:
     
-    ![screenshot](images/colourful-dict.png)
+    ![स्क्रीनशॉट](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ अपने रंगों के लिए शांत नाम चुनें और ` colours = ` संपादित करें शब्दकोश में प्रविष्टियों को जोड़ने के लिए
     
-    Here's an example colour dictionary:
+    यहाँ एक उदाहरण रंग शब्दकोश है:
     
-    ![screenshot](images/colourful-colours.png)
+    ![स्क्रीनशॉट](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    एक बृहदान्त्र `: ` मूल्य (हेक्स कोड) से कुंजी (रंग नाम) को अलग करता है। आपको अल्पविराम `,` की आवश्यकता है प्रत्येक कुंजी:शब्दकोश के बीच में मूल्य जोड़ी।
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ अब आपको हेक्स कोड याद रखने की आवश्यकता नहीं है, आप उन्हें केवल शब्दकोश में देख सकते हैं।
     
-    Adapt the following code to use your colour names:
+    अपने रंग नामों का उपयोग करने के लिए निम्नलिखित कोड अपनाएं:
     
-    ![screenshot](images/colourful-entries.png)
+    ![स्क्रीनशॉट](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    शब्दकोश के नाम के बाद, वर्ग कोष्ठक '[]' के अंदर चला जाता है।
 
-+ Now you can update your code to look up colours in the dictionary:
++ अब आप शब्दकोश में रंग देखने के लिए अपना कोड अपडेट कर सकते हैं:
     
-    ![screenshot](images/colourful-use.png)
+    ![स्क्रीनशॉट](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ यह सुनिश्चित करने के लिए कि आपका पाठ अभी भी सही ढंग से प्रदर्शित हो रहा है, अपने कोड का परीक्षण करें।
