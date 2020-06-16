@@ -36,7 +36,7 @@
 
 * colourful-creations/colourful-creations.py
 
-Μπορείς επίσης να βρεις μια ολοκληρωμένη έκδοση αυτού του έργου στην ενότητα 'Πόροι Εθελοντών', η οποία περιέχει:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * colourful-creations-finished/colourful-creations.py
 
