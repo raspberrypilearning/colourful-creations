@@ -36,7 +36,7 @@ Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/reso
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+Bu projenin meydan okumalarının tamamlanmış bir versiyonunu, 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz:
 
 * colourful-creations/colourful-creations.py
 
