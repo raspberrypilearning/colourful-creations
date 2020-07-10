@@ -1,6 +1,6 @@
-## Introduction
+## ಪರಿಚಯ
 
-In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
+ಈ ಯೋಜನೆಯಲ್ಲಿ ನೀವು ಬಣ್ಣಗಳ ನಿಘಂಟನ್ನು ರಚಿಸುವಿರಿ ಅದು ಬಣ್ಣ ಸಂಕೇತಗಳನ್ನು ಸ್ನೇಹಪರ ಹೆಸರುಗಳಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಕಷ್ಟವಾಗುತ್ತದೆ.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,76 +8,76 @@ In this project you will create a dictionary of colours which maps hard to remem
   <img src="images/colourful-finished.png">
 </div>
 
-### Additional information for club leaders
+### ಕ್ಲಬ್ ಮುಖಂಡರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/colourful-creations/print).
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಪ್ರಿಂಟರ್ ಸ್ನೇಹಿ ಆವೃತ್ತಿ](https://projects.raspberrypi.org/en/projects/colourful-creations/print) ಅನ್ನು ಬಳಸಿ.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ಕ್ಲಬ್ ನಾಯಕ ಟಿಪ್ಪಣಿಗಳು
 
-## Introduction:
+## ಪರಿಚಯ:
 
-This project introduces dictionaries by creating a dictionary that maps from human-friendly colour names to hex codes. The colour codes are then looked up in the dictionary and used to create a colourful poster.
+ಈ ಯೋಜನೆಯು ಮಾನವ ಸ್ನೇಹಿ ಬಣ್ಣದ ಹೆಸರುಗಳಿಂದ ಹೆಕ್ಸ್ ಕೋಡ್‌ಗಳಿಗೆ ನಕ್ಷೆ ಮಾಡುವ ನಿಘಂಟನ್ನು ರಚಿಸುವ ಮೂಲಕ ನಿಘಂಟುಗಳನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. ನಂತರ ಬಣ್ಣ ಸಂಕೇತಗಳನ್ನು ನಿಘಂಟಿನಲ್ಲಿ ನೋಡಲಾಗುತ್ತದೆ ಮತ್ತು ವರ್ಣರಂಜಿತ ಪೋಸ್ಟರ್ ರಚಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.
 
-## Online Resources
+## ಆನ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**ಈ ಯೋಜನೆಯು Python 3 ಬಳಸುತ್ತದೆ.** ನೀವು Python ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬರೆಯಲು ನಾವು [trinket](https://trinket.io/) ಬಳಸಲು ಶಿಫಾರಸು ಮಾಡಿದ್ದೇವೆ. ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ Trinkets ಒಳಗೊಂಡಿದೆ:
 
-* ['Colourful Creations' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* ['ವರ್ಣರಂಜಿತ ಸೃಷ್ಟಿಗಳು' ಪ್ರಾರಂಭದ ಹಂತ -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing a sample solution to the challenges:
+ಸವಾಲುಗಳಿಗೆ ಮಾದರಿ ಪರಿಹಾರವನ್ನು ಒಳಗೊಂಡಿರುವ trinket ಸಹ ಇದೆ:
 
-* [‘Colourful Creations’ Finished -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
+* [‘ವರ್ಣರಂಜಿತ ಸೃಷ್ಟಿಗಳು’ ಮುಗಿದಿದೆ -- trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
-## Offline Resources
+## ಆಫ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+ಬಯಸಿದರೆ ಈ ಯೋಜನೆಯನ್ನು [ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬಹುದು](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). ಈ ಯೋಜನೆಗಾಗಿ 'ಯೋಜನೆ ವಸ್ತುಗಳು' ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪಡೆಯಬಹುದು. ಈ ಲಿಂಕ್ 'ಯೋಜನೆ ಸಂಪನ್ಮೂಲಗಳು' ವಿಭಾಗವನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದರಲ್ಲಿ ಮಕ್ಕಳು ಈ ಯೋಜನೆಯನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬೇಕಾದ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಸಂಪನ್ಮೂಲಗಳ ಪ್ರತಿಕೃತಿಗೆ ಪ್ರತಿ ಮಗುವಿಗೆ ಪ್ರವೇಶವಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಭಾಗವು ಈ ಕೆಳಗಿನ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+ಈ ಯೋಜನೆಯ ಸವಾಲುಗಳ ಪೂರ್ಣಗೊಂಡ ಆವೃತ್ತಿಯನ್ನು 'ಕ್ಲಬ್ ಲೀಡರ್ ಸಂಪನ್ಮೂಲಗಳು' ವಿಭಾಗದಲ್ಲಿ ನೀವು ಕಾಣಬಹುದು, ಇದರಲ್ಲಿ:
 
 * colourful-creations-finished/colourful-creations.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(ಮೇಲಿನ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಯೋಜನೆ ಮತ್ತು ಸ್ವಯಂಸೇವಕ `.zip` ಫೈಲ್‌ಗಳಂತೆ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು.)
 
-## Learning Objectives
+## ಕಲಿಕೆ ಉದ್ದೇಶಗಳು
 
-* Dictionaries - creating and looking up values;
-* Turtle graphics - text, fonts and colours;
+* ನಿಘಂಟುಗಳು - ಮೌಲ್ಯಗಳನ್ನು ರಚಿಸುವುದು ಮತ್ತು ಹುಡುಕುವುದು;
+* Turtle ಗ್ರಾಫಿಕ್ಸ್ - ಪಠ್ಯ, ಫಾಂಟ್‌ಗಳು ಮತ್ತು ಬಣ್ಣಗಳು;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+ಈ ಯೋಜನೆ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ಇದರ ಪಠ್ಯಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ:
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [ಸರಳ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಬಳಸಿ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-* [Design basic 2D and 3D assets.](https://www.raspberrypi.org/curriculum/design/creator)
+* [ಮೂಲ 2ಡಿ ಮತ್ತು 3ಡಿ ಸ್ವತ್ತುಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ.](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## ಸವಾಲುಗಳು
 
-* More colours! - Use a colour picker website to find hexcodes for more colours and add them to a dictionary. 
-* Create a poster - Create a custom colour palette dictionary and use it to create a poster using Turtle graphics. 
+* ಇನ್ನಷ್ಟು ಬಣ್ಣಗಳು! - ಹೆಚ್ಚಿನ ಬಣ್ಣಗಳಿಗಾಗಿ ಹೆಕ್ಸ್‌ಕೋಡ್‌ಗಳನ್ನು ಹುಡುಕಲು ಮತ್ತು ಅವುಗಳನ್ನು ನಿಘಂಟಿಗೆ ಸೇರಿಸಲು ಬಣ್ಣ ಪಿಕ್ಕರ್ ವೆಬ್‌ಸೈಟ್ ಬಳಸಿ. 
+* ಪೋಸ್ಟರ್ ರಚಿಸಿ - ಕಸ್ಟಮ್ ಬಣ್ಣದ ಪ್ಯಾಲೆಟ್ ನಿಘಂಟನ್ನು ರಚಿಸಿ ಮತ್ತು Turtle ಗ್ರಾಫಿಕ್ಸ್ ಬಳಸಿ ಪೋಸ್ಟರ್ ರಚಿಸಲು ಅದನ್ನು ಬಳಸಿ. 
 
-## Frequently Asked Questions
+## ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು
 
-* Children may need reminding about the comma ',' at the end of each dictionary entry. 
+* ಪ್ರತಿ ನಿಘಂಟು ಪ್ರವೇಶದ ಕೊನೆಯಲ್ಲಿ ಮಕ್ಕಳಿಗೆ ಅಲ್ಪವಿರಾಮ ',' ಬಗ್ಗೆ ನೆನಪಿಸುವ ಅಗತ್ಯವಿರಬಹುದು. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: ಯೋಜನೆಯ ವಸ್ತುಗಳು
 
-## Project resources
+## ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file containing all project resources](resources/colourful-creations-project-resources.zip)
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* [ಎಲ್ಲಾ ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ .zip ಫೈಲ್](resources/colourful-creations-project-resources.zip)
+* [ಆನ್‌ಲೈನ್ ಖಾಲಿ Python Trinket](http://jumpto.cc/python-new)
+* [ಆಫ್‌ಲೈನ್ ಖಾಲಿ Python ಫೈಲ್](resources/new-new.py)
 
-## Club leader resources
+## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file containing all completed project resources](resources/colourful-creations-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/97822f48b7)
+* [ಪೂರ್ಣಗೊಂಡ ಎಲ್ಲಾ ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ .zip ಫೈಲ್](resources/colourful-creations-volunteer-resources.zip)
+* [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ Trinket ಯೋಜನೆ](https://trinket.io/python/97822f48b7)
 * [colourful-creations-finished/colourful-creations.py](resources/colourful-creations-finished-colourful-creations.py)
 
 \--- /collapse \---
