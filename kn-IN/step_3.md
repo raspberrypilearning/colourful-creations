@@ -1,35 +1,35 @@
-## A Colour Dictionary
+## ಬಣ್ಣ ನಿಘಂಟು
 
-Using hex colour codes is really flexible but they are hard to remember.
+ಹೆಕ್ಸ್ ಬಣ್ಣ ಸಂಕೇತಗಳನ್ನು ಬಳಸುವುದು ನಿಜವಾಗಿಯೂ ಸುಲಭವಾಗಿರುತ್ತದೆ ಆದರೆ ಅವುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಕಷ್ಟ.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+ನಿಮಗೆ ಬಹುಶಃ ಈಗಾಗಲೇ ತಿಳಿದಿರುವಂತೆ, ಒಂದು ಪದವನ್ನು ಹುಡುಕಲು ಮತ್ತು ಅದರ ಅರ್ಥವನ್ನು ನೋಡಲು ನಿಘಂಟು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ. Python‌ನಲ್ಲಿ, ನಿಘಂಟು ಇನ್ನೂ ಹೆಚ್ಚು ಮೃದುವಾಗಿರುತ್ತದೆ - ಇದು ನಿಘಂಟಿನಲ್ಲಿನ ಯಾವುದೇ 'ಕೀ'ಗೆ ಮೌಲ್ಯವನ್ನು ಹುಡುಕಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+ಮಾನವ ಸ್ನೇಹಿ ಬಣ್ಣದ ಹೆಸರುಗಳಿಂದ (ಕೀಲಿಗಳಿಂದ) ಕಂಪ್ಯೂಟರ್ ಸ್ನೇಹಿ ಹೆಕ್ಸ್ ಕೋಡ್‌ಗಳಿಗೆ (ಮೌಲ್ಯಗಳು) ನಕ್ಷೆ ಮಾಡಲು ನಿಘಂಟನ್ನು ರಚಿಸೋಣ.
 
-+ A dictionary is contained in curly brackets.
++ ಸುರುಳಿಯಾಕಾರದ ಆವರಣಗಳಲ್ಲಿ ನಿಘಂಟು ಇದೆ.
     
-    Create an empty dictionary called `colours`:
+    `colours` ಎಂಬ ಖಾಲಿ ನಿಘಂಟನ್ನು ರಚಿಸಿ:
     
-    ![screenshot](images/colourful-dict.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ ನಿಮ್ಮ ಬಣ್ಣಗಳಿಗೆ ಒಳ್ಳೆಯ ಹೆಸರುಗಳನ್ನು ಆರಿಸಿ ಮತ್ತು ನಿಘಂಟಿಗೆ ನಮೂದುಗಳನ್ನು ಸೇರಿಸಲು `colours =` ಸಾಲನ್ನು ಸಂಪಾದಿಸಿ.
     
-    Here's an example colour dictionary:
+    ಉದಾಹರಣೆ ಬಣ್ಣ ನಿಘಂಟು ಇಲ್ಲಿದೆ:
     
-    ![screenshot](images/colourful-colours.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    ಅಪೂರ್ಣವಿರಾಮ `:` ಕೀಲಿಯನ್ನು (ಬಣ್ಣದ ಹೆಸರು) ಮೌಲ್ಯದಿಂದ (ಹೆಕ್ಸ್ ಕೋಡ್) ಬೇರ್ಪಡಿಸುತ್ತದೆ. ನಿಮಗೆ ಅಲ್ಪವಿರಾಮ `,` ಪ್ರತಿ ಕೀ: ಮೌಲ್ಯ ಜೋಡಿ ನಡುವೆ ನಿಘಂಟಿನಲ್ಲಿ ಬೇಕು.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ ಈಗ ನೀವು ಹೆಕ್ಸ್ ಕೋಡ್‌ಗಳನ್ನು ನೆನಪಿಡುವ ಅಗತ್ಯವಿಲ್ಲ, ನೀವು ಅವುಗಳನ್ನು ನಿಘಂಟಿನಲ್ಲಿ ನೋಡಬಹುದು.
     
-    Adapt the following code to use your colour names:
+    ನಿಮ್ಮ ಬಣ್ಣದ ಹೆಸರುಗಳನ್ನು ಬಳಸಲು ಈ ಕೆಳಗಿನ ಕೋಡ್ ಅನ್ನು ಹೊಂದಿಸಿ:
     
-    ![screenshot](images/colourful-entries.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/colourful-entries.png)
     
-    The key goes inside square brackets '[]' after the name of the dictionary.
+    ಕೀಯು ನಿಘಂಟಿನ ಹೆಸರಿನ ನಂತರ ಚದರ ಆವರಣಗಳ '[]' ಒಳಗೆ ಹೋಗುತ್ತದೆ.
 
-+ Now you can update your code to look up colours in the dictionary:
++ ನಿಘಂಟಿನಲ್ಲಿ ಬಣ್ಣಗಳನ್ನು ನೋಡಲು ಈಗ ನೀವು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನವೀಕರಿಸಬಹುದು:
     
-    ![screenshot](images/colourful-use.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/colourful-use.png)
 
-+ Test your code to make sure your text still displays correctly.
++ ನಿಮ್ಮ ಪಠ್ಯ ಇನ್ನೂ ಸರಿಯಾಗಿ ಪ್ರದರ್ಶಿತವಾಗಿದೆಯೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ.
