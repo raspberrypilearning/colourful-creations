@@ -1,6 +1,6 @@
 ## Giriş
 
-Bı projede hatırlanması zor renk kodlarını akılda kalıcı isimlerle eşleştireceğiniz bir renk sözlüğü oluşturacaksınız.
+Bu projede hatırlanması zor renk kodlarını akılda kalıcı isimlerle eşleştireceğiniz bir renk sözlüğü oluşturacaksınız.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -18,7 +18,7 @@ Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https:/
 
 ## Giriş:
 
-Bu proje; onaltılık (hex) kodlarını daha anlaşılır renk isimlerine dönüştüren bir sözlük yaratarak, programlamada kullanılan sözlükleri tanıtıyor. Renk kodları daha sonra sözlükte aranır ve renkli bir poster oluşturmak için kullanılır.
+Bu proje; hex (onaltılık) kodlarını daha anlaşılır renk isimlerine dönüştüren bir sözlük yaratarak, programlamada kullanılan sözlükleri tanıtıyor. Renk kodları daha sonra sözlükte aranır ve renkli bir poster oluşturmak için kullanılır.
 
 ## Çevrimiçi Kaynaklar
 
