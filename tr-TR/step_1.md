@@ -18,7 +18,7 @@ Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https:/
 
 ## Giriş:
 
-Bu proje; hex (onaltılık) kodlarını daha anlaşılır renk isimlerine dönüştüren bir sözlük yaratarak, programlamada kullanılan sözlükleri tanıtıyor. Renk kodları daha sonra sözlükte aranır ve renkli bir poster oluşturmak için kullanılır.
+Bu proje; onaltılık (hex) kodlarını daha anlaşılır renk isimlerine dönüştüren bir sözlük yaratarak, programlamada kullanılan sözlükleri tanıtıyor. Renk kodları daha sonra sözlükte aranır ve renkli bir poster oluşturmak için kullanılır.
 
 ## Çevrimiçi Kaynaklar
 
