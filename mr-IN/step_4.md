@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## आव्हान: अधिक रंग!
 
-Can you add more colours to your dictionary and try them out? Use <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> to find more colours.
+आपण आपल्या शब्दकोशात अधिक रंग जोडू शकता आणि त्यांचा प्रयत्न करून पहा? <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> वापरा अधिक रंग शोधण्यासाठी.
 
-Don't forget to give your colours awesome names.
+आपल्या रंगांना छान नावे देणे विसरू नका.
 
-Here's some example code to remind you how to use the turtle:
+Turtle कसा वापरावा हे आपल्याला स्मरण करण्यासाठी येथे काही उदाहरण कोड आहे:
 
 ![screenshot](images/colourful-challenge1.png)
 
