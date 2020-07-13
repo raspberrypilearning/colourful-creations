@@ -1,32 +1,32 @@
-## Using hex colour codes
+## Hex रंग कोड वापरणे
 
-Python turtle has predefined colours such as 'red' and 'white' but you can also use hex colour codes (you may have seen these in the HTML & CSS course.)
+Python turtle मध्ये 'red' आणि 'white' सारखे पूर्वनिर्धारित रंग आहेत परंतु आपण hex colour codes देखील वापरू शकता (आपण हे HTML & CSS कोर्समध्ये पाहिले असतील.)
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Blank Python template Trinket उघडा: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following set up code for using the turtle:
++ Turtle वापरण्यासाठी खालील सेट अप कोड जोडा:
     
     ![screenshot](images/colourful-setup.png)
     
-    Notice that you used a named colour: 'white'.
+    लक्षात घ्या की आपण नावाचा रंग वापरला आहे: 'white'.
 
-+ Turtle has a list of colour names that you can use, but sometimes you want to choose your own colours. Turtle also allows you to use hex colour codes.
++ Turtle मध्ये आपण वापरू शकता अशा रंगांच्या नावांची सूची आहे, परंतु काहीवेळा आपल्याला आपले स्वतःचे रंग निवडायचे असतात. Turtle आपल्याला hex colour codes वापरण्याची परवानगी देखील देतो.
     
-    Open <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and choose colour you like. Find it's hex code beginning with a '#', such as '#A7E30E'.
+    <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> उघडा आणि आपल्या आवडीचा रंग निवडा. Find it's hex code beginning with a '#', such as '#A7E30E'.
 
-+ Copy the hex code, including the hash, by highlighting it and then right-clicking and choosing Copy, or using Ctrl-C.
++ हॅशसह hex code कॉपी करून, हायलाइट करून आणि नंतर उजवे-क्लिक करून आणि Copy निवडा किंवा Ctrl-C वापरुन.
 
-+ Now change the line of code that sets the screen colour to use your colour. For example:
++ आपला कोड वापरण्यासाठी स्क्रीन रंग सेट करणार्‍या कोडची ओळ बदला. उदाहरणार्थ:
     
     ![screenshot](images/colourful-background.png)
     
-    You can use right-click and Paste or Ctrl-V to paste your hex code into trinket.
+    आपला hex code trinket मध्ये पेस्ट करण्यासाठी आपण राइट-क्लिक आणि Paste किंवा Ctrl-V वापरू शकता.
 
-+ Choose another hex colour code and use it to create coloured text:
++ दुसरा hex colour code निवडा आणि रंगीत मजकूर तयार करण्यासाठी वापरा:
     
     ![screenshot](images/colourful-write.png)
     
-    You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
+    आपल्याला 'Arial' फॉन्ट वापरण्याची आवश्यकता नाही, आपण 'Verdana', 'Times' किंवा 'Courier' वापरुन पहा.
     
     '40' is the font size, you can try changing that too.
 
