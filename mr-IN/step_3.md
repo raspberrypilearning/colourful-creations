@@ -1,28 +1,28 @@
-## A Colour Dictionary
+## एक रंग शब्दकोश
 
-Using hex colour codes is really flexible but they are hard to remember.
+Hex रंग कोड वापरणे खरोखर लवचिक आहे परंतु ते लक्षात ठेवणे कठीण आहे.
 
-As you probably already know, a dictionary allows you to look up a word, and see it’s meaning. In Python, a dictionary is even more flexible that that - it allows you to look up a value for any 'key' in the dictionary.
+तुम्हाला आधीच माहित असेलच की शब्दकोश आपल्याला एखादा शब्द शोधण्याची आणि त्याचा अर्थ पाहण्याची परवानगी देतो. Python मध्ये, शब्दकोष त्याहून अधिक लवचिक आहे - तो आपल्याला शब्दकोशातील कोणत्याही 'key' चे मूल्य शोधू देतो.
 
-Let's create a dictionary to map from human-friendly colour names (keys) to computer-friendly hex codes (values).
+मानव-अनुकूल रंगाची नावे (keys) संगणकासाठी अनुकूल hex कोड (मूल्ये) वर नकाशा करण्यासाठी एक शब्दकोष तयार करूया.
 
-+ A dictionary is contained in curly brackets.
++ शब्दकोष कुरळे कंसात (brackets) आहे.
     
-    Create an empty dictionary called `colours`:
+    `colours` नावाचा रिक्त शब्दकोश तयार करा:
     
     ![screenshot](images/colourful-dict.png)
 
-+ Choose cool names for your colours and edit the `colours =` line to add entries to the dictionary for them.
++ आपल्या रंगांसाठी छान नावे निवडा आणि संपादित करा `colours =` त्यांच्यासाठी शब्दकोशात नोंदी जोडण्यासाठी ओळ.
     
-    Here's an example colour dictionary:
+    येथे कलर शब्दकोशचे एक उदाहरण आहे:
     
     ![screenshot](images/colourful-colours.png)
     
-    A colon `:` separates the key (colour name) from the value (hex code.) You need a comma `,` between each key:value pair in the dictionary.
+    एक कोलन `:` key (रंग नाव) वरून (हेक्स कोड) विभक्त करते आपल्याला स्वल्पविराम आवश्यक आहे `,` प्रत्येक key दरम्यान: शब्दकोशात मूल्य जोड.
 
-+ Now you don't need to remember the hex codes, you can just look them up in the dictionary.
++ आता आपल्याला हेक्स कोड लक्षात ठेवण्याची आवश्यकता नाही, आपण त्यांना शब्दकोशामध्ये पाहू शकता.
     
-    Adapt the following code to use your colour names:
+    आपल्या रंगाची नावे वापरण्यासाठी खालील कोड जुळवा:
     
     ![screenshot](images/colourful-entries.png)
     
