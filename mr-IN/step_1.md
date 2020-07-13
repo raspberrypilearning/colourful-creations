@@ -1,4 +1,4 @@
-## Introduction
+## परिचय
 
 In this project you will create a dictionary of colours which maps hard to remember colour codes into friendly names.
 
