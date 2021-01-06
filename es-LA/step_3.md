@@ -4,7 +4,7 @@ Usar códigos de color hexadecimales es realmente flexible, aunque son difícile
 
 Como probablemente ya sepas, un diccionario te permite buscar una palabra y ver su significado. En Python, un diccionario es aún más flexible: te permite buscar un valor para cualquier 'clave' en el diccionario.
 
-Vamos a crear un diccionario para asignar nombres de colores amigables a las personas (claves) hasta códigos hexagonales amigables para la computadora (valores).
+Vamos a crear un diccionario para asignar nombres de colores amigables a las personas (claves) hasta códigos hexadecimales amigables para la computadora (valores).
 
 + Un diccionario tiene su contenido entre llaves.
     
