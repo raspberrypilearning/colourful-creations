@@ -36,7 +36,7 @@
 
 * colourful-creations/colourful-creations.py
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+يمكنك أيضاً العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين"، والذي يحتوي على:
 
 * colourful-creations-finished/colourful-creations.py
 
