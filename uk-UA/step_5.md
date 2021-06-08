@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: Create a poster
+## Завдання: Створи постер
 
-Designers often create a 'palette' of colours that work well together for a particular theme such as desert or space.
+Дизайнери часто створюють "палітру" кольорів, які добре виглядають разом для певної теми, наприклад, "пустеля" або "космос".
 
-Can you create a new Python project that uses a dictionary for a themed colour palette. You could choose autumn, forest, sea, Christmas, ice cream, the colours of your favourite sports team or an idea of your own.
+Чи можеш ти створити новий проєкт Python, який використовує словник для тематичної палітри кольорів? Ти можеш вибрати осінь, ліс, море, Різдво, морозиво, кольори тоєї улюбленої спортивної команди або придумати власну тему для палітри.
 
-Create a poster using your colour palette dictionary.
+Створи постер, використовуючи свою палітру кольорів.
 
-You can also use other turtle commands that you know such as `forward`, `right`, `left`, `penup` and `pendown`.
+Ти також можеш використовувати інші відомі тобі команди turtle, такі як `forward` (вперед), `right` (праворуч), `left` (ліворуч), `penup` (підняти ручку) і `pendown` (опустити ручку).
 
-Maybe you could add a border to your poster?
+Можливо ти додаси рамку до свого постера?
 
-Other useful turtle commands:
+Інші корисні команди turtle:
 
-+ `circle(50)` draws a circle outline with radius 50.
-+ `dot(100)` draws a filled in circle with diameter 100. 
++ `circle(50)` малює контур кола з радіусом 50.
++ `dot(100)` малює круг діаметром 100, заповнений певним кольором. 
 
-Here's an example:
+Ось приклад:
 
-![screenshot](images/colourful-finished.png)
+![знімок екрана](images/colourful-finished.png)
 
 \--- /challenge \---
