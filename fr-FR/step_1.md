@@ -10,7 +10,7 @@ Dans ce projet, tu vas créer un dictionnaire de couleurs qui permettra de lier 
 
 ### Informations complémentaires pour les responsables de club
 
-Si vous avez besoin d'imprimer ce projet, vous pouvez utiliser la [ Version imprimable ](https://projects.raspberrypi.org/fr-FR/projects/colourful-creations/print).
+Si vous avez besoin d'imprimer ce projet, vous pouvez utiliser la [Version imprimable](https://projects.raspberrypi.org/fr-FR/projects/colourful-creations/print).
 
 --- collapse ---
 ---
@@ -37,7 +37,7 @@ Ce projet peut être [complété hors-ligne](https://www.codeclubprojects.org/en
 
 * colourful-creations/colourful-creations.py
 
-Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
+Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
 
 * colourful-creations-finished/colourful-creations.py
 
