@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: استخدام رموز الألوان السداسية
-  - title: قاموس ألوان
-  - title: 'تحدّي: ألوان أخرى!'
-  - title: 'تحدّي: أنشئ ملصقاً'
+- title: المقدمة
+  completion: engaged
+- title: استخدام رموز الألوان السداسية
+- title: قاموس ألوان
+- title: 'تحدّي: ألوان أخرى!'
+  completion: internal
+- title: 'تحدّي: أنشئ ملصقاً'

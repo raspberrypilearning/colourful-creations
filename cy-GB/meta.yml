@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Cyflwyniad
-  - title: Defnyddio codau lliw hecs
-  - title: Geiriadur Lliw
-  - title: 'Her: Rhagor o liwiau!'
-  - title: 'Her: Crëwch boster'
+- title: Cyflwyniad
+  completion: engaged
+- title: Defnyddio codau lliw hecs
+- title: Geiriadur Lliw
+- title: 'Her: Rhagor o liwiau!'
+  completion: internal
+- title: 'Her: Crëwch boster'

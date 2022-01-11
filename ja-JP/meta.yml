@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: 16進カラーコードを使おう
-  - title: 色の辞書
-  - title: 'チャレンジ：もっと色！'
-  - title: 'チャレンジ：ポスターを作ろう'
+- title: はじめに
+  completion: engaged
+- title: 16進カラーコードを使おう
+- title: 色の辞書
+- title: チャレンジ：もっと色！
+  completion: internal
+- title: チャレンジ：ポスターを作ろう

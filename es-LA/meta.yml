@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Creaciones coloridas
-description: Crea tus propios colores personalizados y úsalos para crear un póster colorido.
+description: Crea tus propios colores personalizados y úsalos para crear un póster
+  colorido.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
@@ -17,8 +18,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Uso de los códigos de colores hexadecimales
-  - title: Un diccionario de colores
-  - title: 'Desafío: ¡Más colores!'
-  - title: 'Desafío: Crea un póster'
+- title: Introducción
+  completion: engaged
+- title: Uso de los códigos de colores hexadecimales
+- title: Un diccionario de colores
+- title: 'Desafío: ¡Más colores!'
+  completion: internal
+- title: 'Desafío: Crea un póster'

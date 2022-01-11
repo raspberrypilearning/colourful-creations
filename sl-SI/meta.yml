@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 1.1.2017
 steps:
-  - title: Uvod
-  - title: Uporaba šetnajstiških kod
-  - title: Slovar barv
-  - title: 'Izziv: Več barv!'
-  - title: 'Izziv: Ustvari plakat'
+- title: Uvod
+  completion: engaged
+- title: Uporaba šetnajstiških kod
+- title: Slovar barv
+- title: 'Izziv: Več barv!'
+  completion: internal
+- title: 'Izziv: Ustvari plakat'

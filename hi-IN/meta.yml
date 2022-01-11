@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: हेक्स कलर कोड्स का उपयोग करना
-  - title: कलर डिक्शनरी
-  - title: 'चुनौती: और रंग!'
-  - title: 'चुनौती: पोस्टर बनाएँ'
+- title: परिचय
+  completion: engaged
+- title: हेक्स कलर कोड्स का उपयोग करना
+- title: कलर डिक्शनरी
+- title: 'चुनौती: और रंग!'
+  completion: internal
+- title: 'चुनौती: पोस्टर बनाएँ'

@@ -17,8 +17,10 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: Folosind coduri de culori hexazecimale
-  - title: Un dicționar de culori
-  - title: 'Provocare: Mai multe culori!'
-  - title: 'Provocare: Creează un afiș'
+- title: Introducere
+  completion: engaged
+- title: Folosind coduri de culori hexazecimale
+- title: Un dicționar de culori
+- title: 'Provocare: Mai multe culori!'
+  completion: internal
+- title: 'Provocare: Creează un afiș'
