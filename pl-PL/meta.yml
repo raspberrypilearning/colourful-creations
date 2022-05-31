@@ -17,8 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Używanie heksadecymalnych kodów koloru
-  - title: Słownik Kolorów
-  - title: 'Wyzwanie: Więcej kolorów!'
-  - title: 'Wyzwanie: Stwórz plakat'
+- title: Wprowadzenie
+- title: Używanie heksadecymalnych kodów koloru
+- title: Słownik Kolorów
+  completion:
+  - engaged
+  - internal
+- title: 'Wyzwanie: Więcej kolorów!'
+- title: 'Wyzwanie: Stwórz plakat'

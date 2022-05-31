@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: रंगीबेरंगी निर्मिती
-description: आपले स्वतःचे सानुकूल रंग तयार करा आणि रंगीबेरंगी पोस्टर तयार करण्यासाठी त्यांचा वापर करा.
+description: आपले स्वतःचे सानुकूल रंग तयार करा आणि रंगीबेरंगी पोस्टर तयार करण्यासाठी
+  त्यांचा वापर करा.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
@@ -17,8 +18,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Hex रंग कोड वापरणे
-  - title: एक रंग शब्दकोश
-  - title: 'आव्हान: अधिक रंग!'
-  - title: 'आव्हान: पोस्टर तयार करा'
+- title: Introduction
+- title: Hex रंग कोड वापरणे
+- title: एक रंग शब्दकोश
+  completion:
+  - engaged
+  - internal
+- title: 'आव्हान: अधिक रंग!'
+- title: 'आव्हान: पोस्टर तयार करा'

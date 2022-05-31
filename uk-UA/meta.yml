@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Барвисті витвори
-description: Зроби свої власні кольори та використовуй їх для створення кольорового постера.
+description: Зроби свої власні кольори та використовуй їх для створення кольорового
+  постера.
 original_url: https://codeclubprojects.org/en-GB/python/colourful-creations
 interests: art
 technologies: python
@@ -17,8 +18,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Використання шістнадцяткових кодів для кольорів
-  - title: Словник кольорів
-  - title: 'Завдання: Більше кольорів!'
-  - title: 'Завдання: Створи постер'
+- title: Вступ
+- title: Використання шістнадцяткових кодів для кольорів
+- title: Словник кольорів
+  completion:
+  - engaged
+  - internal
+- title: 'Завдання: Більше кольорів!'
+- title: 'Завдання: Створи постер'

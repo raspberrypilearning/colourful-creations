@@ -1,3 +1,4 @@
+---
 hero_image: images/colourful-creations.png
 theme: yellow
 duration: 2
@@ -15,9 +16,12 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: Using hex colour codes
 - title: A Colour Dictionary
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: More colours!'
 - title: 'Challenge: Create a poster'

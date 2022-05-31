@@ -17,8 +17,11 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Korištenje hex kôdova boja
-  - title: Rječnik boja
-  - title: 'Izazov: Još boja!'
-  - title: 'Izazov: Izradi poster'
+- title: Uvod
+- title: Korištenje hex kôdova boja
+- title: Rječnik boja
+  completion:
+  - engaged
+  - internal
+- title: 'Izazov: Još boja!'
+- title: 'Izazov: Izradi poster'
