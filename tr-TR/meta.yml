@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Giriş
-  completion: engaged
 - title: Onaltılık renk kodlarını kullanma
 - title: Bir Renk Sözlüğü
+  completion:
+  - engaged
+  - internal
 - title: 'Meydan Okuma: Daha fazla renk!'
-  completion: internal
 - title: 'Meydan Okuma: Bir poster yaratın'

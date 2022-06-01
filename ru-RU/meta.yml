@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Введение
-  completion: engaged
 - title: Использование шестнадцатеричных цветовых кодов
 - title: Словарь цветов
+  completion:
+  - engaged
+  - internal
 - title: 'Задача: ещё больше цветов!'
-  completion: internal
 - title: 'Задача: создай плакат'

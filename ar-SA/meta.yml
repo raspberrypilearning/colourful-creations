@@ -18,9 +18,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: استخدام رموز الألوان السداسية
 - title: قاموس ألوان
+  completion:
+  - engaged
+  - internal
 - title: 'تحدّي: ألوان أخرى!'
-  completion: internal
 - title: 'تحدّي: أنشئ ملصقاً'

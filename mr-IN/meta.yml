@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Hex रंग कोड वापरणे
 - title: एक रंग शब्दकोश
+  completion:
+  - engaged
+  - internal
 - title: 'आव्हान: अधिक रंग!'
-  completion: internal
 - title: 'आव्हान: पोस्टर तयार करा'

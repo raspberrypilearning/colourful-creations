@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Hexadezimalcodes für Farben
 - title: Ein Farbwörterbuch
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Noch mehr Farben!'
-  completion: internal
 - title: 'Herausforderung: Entwerfe ein Poster'

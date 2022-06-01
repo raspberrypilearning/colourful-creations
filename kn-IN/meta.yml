@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ಹೆಕ್ಸ್ ಬಣ್ಣ ಸಂಕೇತಗಳನ್ನು ಬಳಸುವುದು
 - title: ಬಣ್ಣ ನಿಘಂಟು
+  completion:
+  - engaged
+  - internal
 - title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಬಣ್ಣಗಳು!'
-  completion: internal
 - title: 'ಸವಾಲು: ಪೋಸ್ಟರ್ ರಚಿಸಿ'

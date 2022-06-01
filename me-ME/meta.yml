@@ -18,9 +18,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Korišćenje heksadecimalnih kôdova boja
 - title: Rječnik boja
+  completion:
+  - engaged
+  - internal
 - title: 'Izazov: Još boja!'
-  completion: internal
 - title: 'Izazov: Izradi poster'

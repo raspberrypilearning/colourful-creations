@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Вступ
-  completion: engaged
 - title: Використання шістнадцяткових кодів для кольорів
 - title: Словник кольорів
+  completion:
+  - engaged
+  - internal
 - title: 'Завдання: Більше кольорів!'
-  completion: internal
 - title: 'Завдання: Створи постер'

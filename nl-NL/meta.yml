@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Invoering
-  completion: engaged
 - title: Hex-kleurcodes gebruiken
 - title: Een kleurenwoordenboek
+  completion:
+  - engaged
+  - internal
 - title: 'Uitdaging: meer kleuren!'
-  completion: internal
 - title: 'Uitdaging: maak een poster'

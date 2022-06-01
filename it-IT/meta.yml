@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Come usare i codici esadecimali dei colori
 - title: Un dizionario di colori
+  completion:
+  - engaged
+  - internal
 - title: 'Sfida: Altri colori!'
-  completion: internal
 - title: 'Sfida: Crea un poster'

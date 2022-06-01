@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Usando códigos de color hexadecimales
 - title: Un diccionario de colores
+  completion:
+  - engaged
+  - internal
 - title: 'Desafío: ¡más colores!'
-  completion: internal
 - title: 'Desafío: crea un póster'

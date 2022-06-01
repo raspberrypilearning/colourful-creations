@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Utilisation des codes hexadécimaux de couleurs
 - title: Un dictionnaire de couleurs
+  completion:
+  - engaged
+  - internal
 - title: 'Défi : Plus de couleurs !'
-  completion: internal
 - title: 'Défi : Crée une affiche'
