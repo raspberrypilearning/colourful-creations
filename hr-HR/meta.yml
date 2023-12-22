@@ -23,6 +23,9 @@ steps:
     title: Korištenje hex kôdova boja
   - 
     title: Rječnik boja
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Izazov: Još boja!'
   - 
