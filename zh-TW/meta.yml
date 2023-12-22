@@ -23,6 +23,9 @@ steps:
     title: 使用十六進位顏色代码
   - 
     title: 顏色字典
+    completion:
+      - engaged
+      - internal
   - 
     title: '挑戰：更多顏色！'
   - 
