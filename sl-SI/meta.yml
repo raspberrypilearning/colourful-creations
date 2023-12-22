@@ -23,6 +23,9 @@ steps:
     title: Uporaba barvnih kod v šestnajstiškem zapisu
   - 
     title: Slovar barv
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Izziv: Več barv!'
   - 
