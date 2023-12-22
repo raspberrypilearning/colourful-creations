@@ -23,6 +23,9 @@ steps:
     title: Usando códigos de cores hexadecimais
   - 
     title: Um dicionário de cores
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafio: Mais cores!'
   - 
