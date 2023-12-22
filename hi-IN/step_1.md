@@ -1,6 +1,6 @@
 ## परिचय
 
-इस परियोजना में आप ऐसे रंगों का शब्दकोश बनाएंगे जो रंग कोडों को मित्रवत नामों में याद रखने में कठिन हो।
+इस परियोजना में आप ऐसे रंगों का शब्दकोश बनाएंगे जो रंग कोडों को आसानी से याद करने में मुश्किल होता हो।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/97822f48b7?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## शीर्षक: क्लब नेता नोट
+## title: क्लब लीडर नोट्स
 
 ## परिचय:
 
@@ -26,7 +26,7 @@
 
 * ['रंगीन रचनाएँ'' शुरुआती बिंदु - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-ऐसा ट्रिंकेट भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
+ऐसा trinket भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
 
 * ['रंगीन रचनाएँ' समाप्त - trinket.io/python/41a99e668b](https://trinket.io/python/97822f48b7)
 
@@ -66,12 +66,12 @@
 
 ## \--- collapse \---
 
-## शीर्षक: परियोजना सामग्री
+## title: प्रोजेक्ट सामग्री
 
-## परियोजना संसाधन
+## प्रोजेक्ट संसाधन
 
 * [.zip फ़ाइल जिसमें सभी प्रोजेक्ट संसाधन हों](resources/colourful-creations-project-resources.zip)
-* [ऑनलाइन खाली Python ट्रिंकेट](http://jumpto.cc/python-new)
+* [ऑनलाइन खाली Python Trinket](http://jumpto.cc/python-new)
 * [ऑफ़लाइन रिक्त Python फ़ाइल](resources/new-new.py)
 
 ## क्लब नेता संसाधन
