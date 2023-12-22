@@ -23,6 +23,9 @@ steps:
     title: Uso de los códigos de colores hexadecimales
   - 
     title: Un diccionario de colores
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafío: ¡Más colores!'
   - 
