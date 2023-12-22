@@ -23,6 +23,9 @@ steps:
     title: 16進カラーコードを使おう
   - 
     title: 色の辞書
+    completion:
+      - engaged
+      - internal
   - 
     title: 'チャレンジ：もっと色！'
   - 
