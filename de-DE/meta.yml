@@ -23,6 +23,9 @@ steps:
     title: Hexadezimalcodes für Farben
   - 
     title: Ein Farbwörterbuch
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Herausforderung: Noch mehr Farben!'
   - 
