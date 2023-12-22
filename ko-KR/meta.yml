@@ -23,6 +23,9 @@ steps:
     title: 헥스 색상 코드 사용하기
   - 
     title: 색상 사전
+    completion:
+      - engaged
+      - internal
   - 
     title: '도전 과제: 더 많은 색상들!'
   - 
