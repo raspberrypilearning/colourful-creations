@@ -23,6 +23,9 @@ steps:
     title: Using hex colour codes
   - 
     title: A Colour Dictionary
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Challenge: More colours!'
   - 
