@@ -23,6 +23,9 @@ steps:
     title: استخدام رموز الألوان السداسية
   - 
     title: قاموس ألوان
+    completion:
+      - engaged
+      - internal
   - 
     title: 'تحدّي: ألوان أخرى!'
   - 
