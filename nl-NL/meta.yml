@@ -23,6 +23,9 @@ steps:
     title: Hex-kleurcodes gebruiken
   - 
     title: Een kleurenwoordenboek
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Uitdaging: meer kleuren!'
   - 
