@@ -23,6 +23,9 @@ steps:
     title: ಹೆಕ್ಸ್ ಬಣ್ಣ ಸಂಕೇತಗಳನ್ನು ಬಳಸುವುದು
   - 
     title: ಬಣ್ಣ ನಿಘಂಟು
+    completion:
+      - engaged
+      - internal
   - 
     title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಬಣ್ಣಗಳು!'
   - 
