@@ -23,6 +23,9 @@ steps:
     title: Onaltılık renk kodlarını kullanma
   - 
     title: Bir Renk Sözlüğü
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Meydan Okuma: Daha fazla renk!'
   - 
