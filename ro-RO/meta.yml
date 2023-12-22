@@ -23,6 +23,9 @@ steps:
     title: Folosind coduri de culori hexazecimale
   - 
     title: Un dicționar de culori
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Provocare: Mai multe culori!'
   - 
