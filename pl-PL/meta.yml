@@ -23,6 +23,9 @@ steps:
     title: Używanie heksadecymalnych kodów koloru
   - 
     title: Słownik Kolorów
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Wyzwanie: Więcej kolorów!'
   - 
