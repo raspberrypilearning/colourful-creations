@@ -23,6 +23,9 @@ steps:
     title: Hex रंग कोड वापरणे
   - 
     title: एक रंग शब्दकोश
+    completion:
+      - engaged
+      - internal
   - 
     title: 'आव्हान: अधिक रंग!'
   - 
