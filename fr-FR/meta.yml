@@ -23,6 +23,9 @@ steps:
     title: Utilisation des codes hexadécimaux de couleurs
   - 
     title: Un dictionnaire de couleurs
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Défi : Plus de couleurs !'
   - 
