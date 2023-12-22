@@ -23,6 +23,9 @@ steps:
     title: Defnyddio codau lliw hecs
   - 
     title: Geiriadur Lliw
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Her: Mwy o liwiau!'
   - 
