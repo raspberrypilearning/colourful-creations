@@ -20,9 +20,4 @@ Here's an example:
 
 ![screenshot](images/colourful-finished.png)
 
-
-
-
-
-
 --- /challenge ---
