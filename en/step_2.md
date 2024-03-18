@@ -32,7 +32,8 @@ screen.setup(400, 400)
 screen.bgcolor('white')
 --- /code ---
     
-Notice that you used a named colour: 'white'.
+
+Notice that you used a named colour: `'white'`.
 
 --- /task ---
 
@@ -99,7 +100,7 @@ hideturtle()
 
 You don't have to use the 'Arial' font, you could try 'Verdana', 'Times' or 'Courier'.
    
-'40' is the font size, you can try changing that too.  
+`40` is the font size, you can try changing that too.  
 
 --- /task ---  
 
